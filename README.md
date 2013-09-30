@@ -1,4 +1,4 @@
-MichineLearningCases
+Michine Learning Cases
 ====================
 
-This is michine learning cases implemented by me
+These are michine learning cases(Recommendation System, StumbleUpon-like System etc) implemented by zuojie.
