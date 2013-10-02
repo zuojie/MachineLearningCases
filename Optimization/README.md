@@ -1,6 +1,6 @@
 ##### Implements a system like StumbleUpon by means of Simulated Annealing and Genetic Algorithm. We use them to optimize our brute force solution
 Problem comes as follows:
-* User A has a like keywords list, in which the keywords have different weighting. like -> dislike => low weighting -> high weighting
+* User A has a like keywords list, in which the keywords have different weighting. The weighting is inversely proportional to how much the user liked it
 * We have a web sites list, in which all the web sites are labeld by some keywords, for example *technology, food, movie etc* 
 * We should recommend X web sites for user A in purpose of satifying user A as much as possible   
 
