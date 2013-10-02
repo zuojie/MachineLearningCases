@@ -8,6 +8,7 @@ Problem comes as follows:
 
 * Solution can be described as integer list
 * The solution can be converted as a number, which implies it's cost. Optimizaion algorithm will choose the best answer that costs least
+* Cost function must return the cost of a solution and the solution at the same time. Because sometime the cost function will change the solution, if it is changed, you should return the updated solution, other situations, just return the original one.
 
 ___
 
@@ -21,3 +22,4 @@ ___
 
 * 解空间能用数字列表表示
 * 解空间能被转化成一个成本值（通过一个成本函数，计算给定解空间需要耗费的成本）,以方便优化算法来对解空间进行合理取舍
+* 成本函数必须返回当前解空间的成本值和解空间，因为有些成本函数会修改解空间（不允许出现重复数字的解空间，这时候如果出现重复则会将重复的数字替换为未被使用的），如果成本函数修改了解空间，返回修改后的，否则返回原始解空间即可
