@@ -1,4 +1,5 @@
 #encoding=utf8
+#author: zuojiepeng
 import random, math 
 
 # p = e^(-(hightcost - lowcost) / temperature)

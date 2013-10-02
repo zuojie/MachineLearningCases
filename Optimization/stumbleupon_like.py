@@ -1,4 +1,5 @@
 #encoding=utf8
+#author: zuojiepeng
 from optimization import *
 
 user = {"food":-5, "reading":-4, "painting":-3, "music":-2, "game":-1}
