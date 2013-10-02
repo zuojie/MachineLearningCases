@@ -6,6 +6,7 @@ Problem comes as follows:
 optimization.py is the optimization algorithm lib, the problem must fit the needs as follow if it wanted to be sloved by the lib:   
 * Solution can be described as integer list
 * The solution can be converted as a number, which implies it's cost. Optimizaion algorithm will choose the best answer that costs least
+
 ___
 
 ##### 通过模拟退火算法和遗传算法来实现一个类似StumbleUpon的网址推荐系统，模拟退火和遗传算法这里主要是为了优化暴力搜索解空间引入的性能问题
