@@ -4,6 +4,7 @@
 * weibo_cluster.py is responsible for preprocessing the data and invoking clustering function and drawing dendrogram.
 * source data is inclusive under the data directory 
 * weibo_cluster.jpg is the clustering result
+* Fonts file is to solve the gibberish problem when PIL displays Chinese
 
 ___
 
@@ -13,6 +14,7 @@ ___
 * weibo_cluster.py负责预处理数据，调用聚类算法进行聚类，然后绘制出图
 * 源数据放在data目录下
 * weibo_cluster.jpg即为最终聚类的结果输出
+* 字体文件是为了解决PIL显示中文的乱码问题
 
 ___
 
