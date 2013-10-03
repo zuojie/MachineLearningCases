@@ -2,7 +2,7 @@
 * clusters.py is the clustering algorithm lib, including function to visualitions of the cluster result
 * get_weibo_dat.py is the crawler to get the weibo user's info data
 * weibo_cluster.py is responsible for preprocessing the data and invoking clustering function and drawing dendrogram.
-* source data is inclusive under data directory 
+* source data is inclusive under the data directory 
 * weibo_cluster.jpg is the clustering result
 
 ___
@@ -13,6 +13,8 @@ ___
 * weibo_cluster.py负责预处理数据，调用聚类算法进行聚类，然后绘制出图
 * 源数据放在data目录下
 * weibo_cluster.jpg即为最终聚类的结果输出
+
+___
 
 #####Appendix
 ![weibo cluster](http://zuojie.github.io/demo/ml_1.jpg)
