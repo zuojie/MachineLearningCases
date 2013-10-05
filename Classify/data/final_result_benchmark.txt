@@ -1,0 +1,947 @@
+35094	博客搬家	Other	Other	IT
+35096	[原]mahout源码分析之贝叶斯算法	ACM	IT	IT
+35097	Google Reader	ACM	ACM	IT
+35098	无关3.15	ACM	IT	Other
+35099	[原]Eclipse开发andrioid	IT	IT	IT
+35100	[原]java 正则表达式2	IT	ACM	IT
+35101	[原]java 正则表达式	ACM	ACM	IT
+35102	[原]简单web安全框架	IT	IT	IT
+35103	【IE10】打开网页不正常的解决方法	IT	IT	IT
+35104	[转]Log4j入门教程	IT	IT	IT
+35105	小白学习android（四）： 如何在e	IT	IT	IT
+35106	小白学习android（三）：andro	ACM	IT	IT
+35107	[转]JUnit4初级到高级	IT	IT	IT
+35108	[转]dpkg:处理 xxx (--co	IT	IT	IT
+35109	【算法学习】【AC自动机】+【例题】HD	ACM	ACM	ACM
+35110	[原]UVA - 141 - The S	ACM	ACM	ACM
+35111	[原]UVA - 10591 - Hap	ACM	ACM	ACM
+35112	[原]shengka laba ton	IT	IT	IT
+35113	[原]函数的设计	ACM	IT	IT
+35114	POJ 3368 : Frequent	ACM	ACM	ACM
+35115	POJ 3067 : Japan	ACM	ACM	ACM
+35116	[转]ubuntu插上耳机 扬声器/喇叭	IT	IT	IT
+35117	[原]UVA 12530 Game o	ACM	ACM	ACM
+35118	[原]UVA 12529 Fix the	ACM	ACM	ACM
+35119	好き	Other	IT	IT
+35120	[转]找出2->N之间的所有质数	ACM	IT	IT
+35121	[BZOJ1468][POJ1741]T	ACM	ACM	ACM
+35122	[BZOJ2599][IOI2011]R	ACM	ACM	ACM
+35123	[原]绫辻行人《杀人偶人馆》读后感	ACM	Other	Other
+35136	(搬用工)各种标点符号和数学符号的英文读	ACM	ACM	IT
+35137	内存池的实现(一)	ACM	IT	IT
+35138	内存池实现 (思路)	ACM	IT	IT
+35148	两个容积互质的水杯可倒出任意从1到容积和	ACM	IT	ACM
+35149	进程和线程的区别	ACM	ACM	ACM
+35150	[BZOJ2329][HNOI2011]	ACM	ACM	ACM
+35151	[BZOJ2588]Spoj 10628	ACM	ACM	ACM
+35152	tomcat与apache	IT	IT	IT
+35153	[SPOJ GSS2]Can you a	ACM	ACM	ACM
+35154	android绘制五子棋棋盘	IT	IT	IT
+35155	[HNOI2002]营业额统计	ACM	ACM	ACM
+35156	poj1234	ACM	Other	ACM
+35157	C++流重定向到文件	IT	IT	IT
+35158	Mersenne Twister wit	ACM	ACM	ACM
+35159	进程和线程的区别	ACM	ACM	ACM
+35160	记一次周赛	ACM	ACM	ACM
+35161	选课脚本剖析	IT	IT	IT
+35162	poj1862	IT	ACM	ACM
+35163	poj1426	IT	ACM	ACM
+35164	【HDU 2243】考研路茫茫——单词情	ACM	ACM	ACM
+35165	poj1423	ACM	ACM	ACM
+35166	[原]poj1143Number Gam	IT	ACM	ACM
+35167	[原]ZOJ Unrequited Lo	ACM	ACM	ACM
+35168	[原]ZOJ 3607 Lazier S	ACM	ACM	ACM
+35169	[原]ＺＯＪ　BCD Code　记忆化搜	ACM	ACM	ACM
+35170	[原]ＺＯＪ　３４９７Mistwald　	ACM	ACM	ACM
+35171	[原]ZOJ 3606 Lazy Sal	ACM	ACM	ACM
+35172	Codeforces Round #17	ACM	ACM	ACM
+35177	[原]不自损八百，何以伤敌一千——ACM	ACM	ACM	ACM
+35178	[原]你若是天才，我便是疯子————AC	Other	ACM	ACM
+35179	[原]POJ 1821 Fence	ACM	ACM	ACM
+35180	[转]Hadoop M/R second	IT	ACM	IT
+35181	近期任务	ACM	ACM	ACM
+35182	[原]实时仿真软件Sofa的安装（Win	IT	ACM	IT
+35183	TRAINING 2013.3.17 S	ACM	ACM	ACM
+35184	fibonacci 的进化	ACM	IT	ACM
+35185	WAMPserver配置	IT	ACM	IT
+35186	Codeforces Round #17	ACM	ACM	ACM
+35187	#pragma once 与 #ifnd	IT	IT	IT
+35188	[原]【web开发】spring中ses	IT	IT	IT
+35189	[原]POJ 3299 水题	c00h00g	3299	Accepted
+35190	[读书]如果人类只有一种性别的话	ACM	Other	Other
+35191	模重复平方算法	ACM	IT	ACM
+35192	[原]POJ 3662 Telephon	ACM	ACM	ACM
+35193	[转]ubuntu下终端路径只显示当前目	IT	IT	IT
+35194	vim多行注释	IT	IT	IT
+35195	[原]Google Code Jam20	ACM	ACM	IT
+35196	[原]ZOJ 2900 Icecream	ACM	ACM	ACM
+35198	[转]ent0 en0 et0 专题总结	IT	IT	IT
+35199	[原]POJ 1868 Antiarit	ACM	ACM	ACM
+35200	[好朋友0002] 南北	ACM	Other	IT
+35201	ginx启动，重启，关闭命令	IT	IT	IT
+35202	php 字符编码转换 mb_conver	ACM	IT	IT
+35203	[转]在Linux下查看端口的使用情况及	IT	IT	IT
+35204	configure: error: ne	IT	IT	IT
+35205	error:is not in the	IT	IT	IT
+35206	configure error the	IT	IT	IT
+35207	Allowed memory size	IT	IT	IT
+35208	向量的简单运算	ACM	ACM	ACM
+35209	Python中的函数（三）	ACM	IT	IT
+35210	最小费用最大流	ACM	ACM	ACM
+35211	Palindrome Partition	ACM	ACM	ACM
+35212	Palindrome Partition	ACM	ACM	ACM
+35213	[原]HDU 2639 Bone Col	ACM	ACM	ACM
+35214	[原]POJ 2923 Relocati	ACM	ACM	ACM
+35215	晒一下键盘	Other	IT	IT
+35216	WebKit和Chromium代码目录结	IT	IT	IT
+35217	[转]Eclipse安装aptana	IT	IT	IT
+35218	[转]不可多得的Javascript(A	IT	IT	IT
+35219	[原]Codeforces Round	ACM	ACM	ACM
+35234	IOS 绘制PDF	IT	IT	IT
+35235	LingosHook: Compatib	IT	ACM	IT
+35236	Longest Consecutive	ACM	ACM	ACM
+35237	[原]POJ 1611 The Susp	IT	ACM	ACM
+35238	[原]POJ 2524 Ubiquito	ACM	ACM	ACM
+35239	[原]Unicode和字符串处理	ACM	IT	IT
+35240	[转]献给那些浮躁的年轻人	Other	Other	Other
+35241	[原]POJ 3624 Charm Br	IT	ACM	ACM
+35242	[原]HDU 2602 Bone Col	IT	ACM	ACM
+35243	[原]HDU 3635 Dragon B	ACM	ACM	ACM
+35244	[原]HDU 1856 More is	IT	ACM	ACM
+35245	[原]POJ 1182 食物链	ACM	ACM	ACM
+35246	[转]Java HashMap 分析之四	ACM	ACM	IT
+35247	[转]java中HashMap详解	ACM	IT	IT
+35248	[原]CF 269D Maximum W	ACM	ACM	ACM
+35249	AVEVA .Net 菜单自定义	IT	IT	IT
+35257	foobar2000 设置评级	IT	IT	IT
+35258	6个变态的C语言HelloWorld程序	ACM	Other	IT
+35259	POJ 2761 : Feed the	ACM	ACM	ACM
+35260	[原]POJ 1236 Network	ACM	ACM	ACM
+35261	[原]CF 283E Cow Tenni	ACM	ACM	ACM
+35262	[原]POJ 3167 Cow Patt	ACM	ACM	ACM
+35263	SDUT 2412 （单调队列 + dp	ACM	ACM	ACM
+35264	[原]ZOJ 1170 String M	IT	ACM	ACM
+35265	[原]ZOJ 1159 487-3279	IT	ACM	ACM
+35266	[原]2Sum/3Sum/3SumClo	ACM	ACM	IT
+35267	[转]Qt4.8下应用OpenCV2.4	IT	IT	IT
+35268	[原]Codeforces Round	ACM	ACM	ACM
+35269	Python中的模块	IT	IT	IT
+35270	uva 12583 可持久化treap	ACM	IT	ACM
+35271	不觉又两载，已是物是人非了	Other	Other	Other
+35272	隔了大半年后，终于想起这博客了	Other	Other	Other
+35273	[原]ZOJ 1181 Word Ama	IT	ACM	ACM
+35274	2013年03月19日	Other	Other	IT
+35275	[原]系统间歇性超时问题的分析与解决	IT	Other	IT
+35276	如何使用Process Monitor查	IT	IT	IT
+35280	如何养成良好的 C++ 编程习惯（一）—	ACM	Other	IT
+35285	C语言获取当地时间	ACM	IT	IT
+35286	Codeforces Round #17	ACM	ACM	ACM
+35287	独自开发的时候，所考虑的事情	IT	IT	IT
+35288	php 页面控制程序并查看程序运行状态	IT	IT	IT
+35289	JAVA 正则表达式的应用——split	ACM	ACM	IT
+35290	[原]K-SVD简述	ACM	ACM	IT
+35291	[原]ZOJ 1243 URLs	IT	ACM	ACM
+35292	[转]HTML中id、name、clas	IT	IT	IT
+35293	[转]setTimeout和setInt	ACM	IT	IT
+35294	[转]引导式教育	Other	IT	Other
+35295	[转]营销高手，一定是讲故事的高手！	Other	Other	Other
+35296	更新证书错误Code Sign erro	IT	ACM	IT
+35297	[原]ZOJ 1970 All in A	IT	ACM	ACM
+35298	[原]ZOJ 1831 Substitu	IT	ACM	ACM
+35299	[原]ZOJ 1698 Easier D	IT	ACM	ACM
+35300	[原]ZOJ 1582 Careless	IT	ACM	ACM
+35301	[原]ZOJ 1392 The Hard	IT	ACM	ACM
+35302	[原]ZOJ 1325 Palindro	IT	ACM	ACM
+35303	How to make package	IT	ACM	ACM
+35304	[原]c# 小游戏 俄罗斯方块	IT	IT	IT
+35305	数据真实性的探索——对百度电影推荐系统算	ACM	IT	IT
+35306	[Ubuntu]手动安装Eclipse	IT	IT	IT
+35307	Eclipse Pydev Instal	IT	ACM	IT
+35308	[原]开坑预告，2013年新番来袭。	ACM	IT	IT
+35309	[转]Linux内核源码分析方法	IT	IT	IT
+35310	程序代码相似性检测研究与实现 开题报告	IT	ACM	IT
+35311	经典排序之归并排序	ACM	ACM	ACM
+35312	Read from socket fai	IT	IT	IT
+35313	[原]poi解析excel内存溢出	IT	IT	IT
+35314	[原]CF 266E More Quer	ACM	ACM	ACM
+35315	[转]透明窗口（窗口上面文字图片等内容不	IT	IT	IT
+35316	[原]APUE学习笔记——第三章文件I/	IT	IT	IT
+35317	Hadoop在windows上安装与配置	IT	IT	IT
+35318	poj2516Minimum Cost	ACM	ACM	ACM
+35319	2013腾讯马拉松初赛第0场（3月30）	ACM	Other	ACM
+35320	[转]网络编程学习笔记一：Socket编	IT	IT	IT
+35329	基于boost asio实现的支持ssl	IT	IT	IT
+35337	[原]ZOJ 1720 Polynomi	IT	IT	ACM
+35338	PHP中this,self,parent	IT	IT	IT
+35339	[原]ZOJ 1713 Haiku Re	IT	ACM	ACM
+35340	[原]ZOJ 1315 Excuses,	IT	ACM	ACM
+35341	[原]HDU 2126 Buy the	ACM	ACM	ACM
+35342	[原]HDU 3466 Proud Me	ACM	ACM	ACM
+35343	转：vc6.0 打开文件的时候出现Mic	IT	IT	IT
+35344	[原]BOJ 316 Password	IT	ACM	ACM
+35353	C++实用技巧之配置Visual C++	IT	IT	IT
+35354	TCP协议流的理解	IT	IT	IT
+35361	[原]ZOJ 3487 Ordinal	IT	ACM	ACM
+35362	[原]ZOJ 2947 Abbrevia	IT	ACM	ACM
+35363	[原]ZOJ 1729 Hidden P	IT	ACM	ACM
+35364	[原]CF 240F TorCoder(	ACM	ACM	ACM
+35365	[原]APUE学习笔记——第四章 文件和	IT	IT	ACM
+35366	eclipse启动时弹出Failed t	IT	IT	IT
+35367	[原]只用4行代码编写出一个从字符串到长	ACM	ACM	ACM
+35368	[原]HDU 4502 吉哥系列故事——	ACM	IT	ACM
+35369	poj1860	ACM	ACM	ACM
+35370	[原]【剑指offer】【九度oj】整数	ACM	ACM	IT
+35371	SRM 573 div2	ACM	ACM	ACM
+35372	领悟	Other	Other	Other
+35373	[原]【MFC Windows程序设计（	IT	IT	IT
+35374	[原]HDU 4501 (二维费用背包)	ACM	ACM	ACM
+35375	【POJ P3016】K-Monoton	ACM	ACM	ACM
+35376	数据库连接池的工作机制	IT	IT	IT
+35377	夜	Other	Other	IT
+35378	[原]绫辻行人《杀人惊愕馆》读后感	Other	Other	Other
+35379	Moving the database	IT	ACM	IT
+35380	hdu 2147 kiki's 	ACM	ACM	ACM
+35381	HDU 4509 湫湫系列故事——减肥记	ACM	ACM	ACM
+35382	HDU-3555 Bomb 数位DP	ACM	ACM	ACM
+35383	POJ-3345 Bribing FIP	ACM	ACM	ACM
+35384	POJ-3280 Cheapest Pa	ACM	ACM	ACM
+35385	HDU 4508 湫湫系列故事——减肥记	ACM	ACM	ACM
+35406	面试题: 找出数组中三个只出现一次的数	ACM	ACM	IT
+35407	mingw gcc的头文件存在结构定义错	IT	IT	IT
+35408	浅析软件工程开发方法学RUP	IT	IT	IT
+35409	安卓手机上跟存储有关的几个名词解释	IT	IT	IT
+35418	[转]如何弹出一个窗口气泡	IT	IT	IT
+35419	[原]ZOJ 2476 Total Am	IT	ACM	ACM
+35420	[原]【POJ 3233】矩阵快速幂+二	ACM	ACM	ACM
+35421	Gvim —— win 7 下 vim	IT	IT	IT
+35422	【转】Be Pythonic	IT	IT	ACM
+35423	[转]Kerberos 错误消息	IT	IT	IT
+35425	科技的罪恶	Other	Other	Other
+35426	[原]CF 228D Zigzag(线段	ACM	ACM	ACM
+35427	[原]Codeforces Round	ACM	ACM	ACM
+35428	[转]数据库技术发展历史	IT	IT	IT
+35429	[原]libSVM源码分析	ACM	ACM	IT
+35430	[转]SMO算法	ACM	IT	IT
+35431	hdu3308LCIS(线段树区间合并）	ACM	ACM	ACM
+35432	Codeforces Round #17	ACM	ACM	ACM
+35433	[原]APUE学习笔记——标准I/O库	ACM	IT	IT
+35434	[原]httpclient4 模拟新浪微	IT	IT	ACM
+35435	[原]HDU 4507 吉哥系列故事——	ACM	ACM	ACM
+35436	[原]ZOJ 1854 Election	IT	ACM	ACM
+35437	[原]ZOJ 1838 Crypt Ki	IT	ACM	ACM
+35438	codeforces #174 E	ACM	ACM	ACM
+35439	[原]soppYcell 1.0	IT	IT	ACM
+35440	[原]soppYcell 2.0	ACM	IT	ACM
+35441	[原]HDU 4509 湫湫系列故事——	ACM	ACM	ACM
+35442	HDU 4510 小Q系列故事——为什么	ACM	ACM	ACM
+35443	hadoop资料	IT	IT	IT
+35444	解决无法正常启动Oracle OEM控制	IT	IT	IT
+35445	[原]EOJ 2855 贪吃蛇 [201	IT	ACM	ACM
+35446	工厂方法Factory Methods	IT	IT	IT
+35454	[原]BOJ 319 3230391&#	ACM	ACM	ACM
+35455	[转]简单聊聊加密、口令的问题——成为黑	IT	Other	IT
+35456	[转]WPA破解原理简要——无线网络破解	ACM	IT	IT
+35457	[转]无线网络加密方式研究	IT	IT	IT
+35458	[原]for循环判断条件中尽量不写函数	ACM	IT	ACM
+35459	poj2195Going Home(最小	ACM	ACM	ACM
+35460	[原]多线程编程散记	IT	IT	IT
+35461	[警告] 苹果apple id密码重置漏	ACM	IT	IT
+35462	中文文本特征提取的一些资料	ACM	IT	IT
+35463	HDU 4514 湫湫系列故事——设计风	ACM	ACM	ACM
+35465	[原]2013腾讯编程马拉松初赛第一场（	ACM	ACM	IT
+35466	[原]2013腾讯编程马拉松初赛第一场（	ACM	ACM	IT
+35467	【转】《Visual C++ 2010入	IT	Other	IT
+35468	[原]CF 213E Two Permu	ACM	ACM	ACM
+35469	[原]XMU 1308 单词联想 （双向	ACM	ACM	ACM
+35470	[原]windows eclipe C+	IT	ACM	IT
+35471	Ubuntu12.04下安装hadoop	IT	IT	IT
+35472	[原]EOJ 2574 Principl	ACM	ACM	ACM
+35473	poj3422Kaka's Ma	ACM	ACM	ACM
+35474	2013腾讯编程马拉松初赛第〇场	ACM	ACM	IT
+35475	[转]A*B mod C的计算方法	ACM	IT	IT
+35476	【BZOJ P1984】月下毛景树	ACM	ACM	ACM
+35477	latex中括号大小控制 [转]	ACM	IT	IT
+35478	[原]EOJ 2143 端午节快乐 [2	IT	IT	ACM
+35479	[原]EOJ 2610 工程 [2010	IT	ACM	ACM
+35480	hdu 1848 Fibonacci a	ACM	ACM	ACM
+35481	SG函数模板	ACM	ACM	ACM
+35482	hdu 4512 吉哥系列故事——完美队	ACM	ACM	ACM
+35483	[原]EOJ 2573 Hub Conn	IT	ACM	ACM
+35484	[原]EOJ 2572 Sort it…	IT	ACM	ACM
+35485	[原]EOJ 2571 GCD and	IT	ACM	ACM
+35486	[原]EOJ 2570 Primes P	IT	ACM	ACM
+35487	[原]EOJ 2569 Capitali	IT	ACM	ACM
+35488	[原]EOJ 2568 Sum of d	IT	IT	ACM
+35489	[原]EOJ 2857 编辑距离 [20	ACM	ACM	ACM
+35490	[原]EOJ 2856 仰望星空 [20	IT	ACM	ACM
+35491	[原]2013腾讯编程马拉松初赛第一场（	ACM	ACM	IT
+35492	[原]2013腾讯编程马拉松初赛第一场（	ACM	ACM	IT
+35493	HDU 2197 本原串 (数学）	ACM	ACM	ACM
+35494	mk802的wifi配置	IT	IT	IT
+35495	[原]java 服务降级开关设计思路	IT	IT	IT
+35496	[原]【web开发】spring+hib	IT	IT	IT
+35497	[原]hdu 1864 最大报销额 0-	ACM	ACM	ACM
+35498	[原]2的幂次方	ACM	ACM	IT
+35499	[原]APUE学习笔记——第六章系统数据	IT	IT	IT
+35500	HDU 4507 数位dp	ACM	ACM	ACM
+35501	[原]EOJ 2575 Separate	ACM	ACM	ACM
+35502	hdu 4517 小小明系列故事——游戏	ACM	ACM	ACM
+35503	Visualization of Cur	IT	IT	IT
+35511	ubuntu12.04 下的JavaEE	IT	IT	IT
+35512	[原]CF 208E Blood Cou	ACM	ACM	ACM
+35513	POJ 3468 : A Simple	ACM	ACM	ACM
+35514	HDU 1698 : Just a Ho	ACM	ACM	ACM
+35515	[原]java学习路线和技术体系	IT	IT	IT
+35516	POJ-2374 Fence Obsta	ACM	ACM	ACM
+35517	用irrlicht做东西真艰难	ACM	IT	IT
+35525	test	IT	Other	IT
+35526	[原]Jquery、 ajax和stru	IT	IT	IT
+35527	[原]大牛代码	ACM	ACM	ACM
+35528	[原]APUE学习笔记——第七章 进程环	ACM	IT	IT
+35529	[译] 为程序员写的Reed-Solom	ACM	IT	IT
+35530	[原]USACO Shaping Reg	ACM	ACM	ACM
+35531	自定义 DataList 显示数据行数的	ACM	IT	IT
+35532	[原]火星A+B	ACM	ACM	IT
+35533	【树分治】【BZOJ P1468】Tre	ACM	ACM	ACM
+35534	OpenGL如何使用长宽非2次方的纹理	ACM	IT	IT
+35535	OpenGL使用位图纹理	ACM	IT	IT
+35536	OpenGL使用位图纹理	ACM	IT	IT
+35537	[原]二分	ACM	IT	ACM
+35538	[原]两次二分查找	ACM	ACM	ACM
+35539	[转]路由器与猫的区别	IT	Other	IT
+35540	[转]ADSL	IT	Other	Other
+35541	[原]在iOS中使用静态库	IT	IT	IT
+35542	安装配置fedora 18	IT	ACM	IT
+35543	HDU 吉哥系列故事——完美队形II	ACM	IT	ACM
+35544	[原]动态规划总结	ACM	ACM	ACM
+35545	伴随我成长的编程书	IT	ACM	IT
+35553	[原]APUE学习笔记——第八章 进程控	ACM	IT	IT
+35554	[原]ZOJ 3324 Machine	ACM	ACM	ACM
+35555	[原]ZOJ 3332 Strange	ACM	ACM	ACM
+35556	[原]ZOJ 3331 Process	ACM	ACM	ACM
+35557	[原]ZOJ 3623 Battle S	ACM	ACM	ACM
+35558	[原]Is It A Tree?	ACM	ACM	ACM
+35559	[原]陈博的完美主义	ACM	ACM	IT
+35560	[原]最大堆最小堆（自定义类型）	IT	ACM	ACM
+35561	Codeforces 266E : Mo	ACM	ACM	ACM
+35562	[原]POJ 2609 Ferry Lo	ACM	ACM	ACM
+35563	[原]1004 大数	ACM	ACM	ACM
+35564	[原]1005	ACM	ACM	ACM
+35565	[原]1001	ACM	ACM	ACM
+35566	【BZOJ P1014】火星人 Pref	ACM	ACM	ACM
+35567	[原]POJ 3211 Washing	ACM	ACM	ACM
+35568	[原]POJ 1837 Balance	ACM	ACM	ACM
+35569	[原]Is It A Tree?	ACM	ACM	ACM
+35570	[原]数字反转(水）	ACM	ACM	IT
+35571	[原]用Word+EndNote+Mat	IT	IT	IT
+35578	我对谷歌的chromium和androi	IT	IT	IT
+35579	【★更新★】高性能 Windows So	IT	IT	IT
+35588	[原]Kerberos 1.9, Apa	IT	IT	IT
+35589	[原]Manacher算法	ACM	ACM	ACM
+35590	美帝使馆20分钟游	Other	Other	Other
+35591	[转]Java实现Mysql的jdbc连	IT	IT	IT
+35592	Codeforces Round #17	ACM	ACM	ACM
+35593	[原]手机键盘	ACM	IT	IT
+35594	ubuntu下hadoop的重启后nam	IT	IT	IT
+35595	[原]POJ 2373 Dividing	ACM	ACM	ACM
+35596	Hadoop在linux上伪分布式单节点	IT	IT	IT
+35597	The Company of Mysel	Other	Other	Other
+35598	[原]java web实现xp wind	IT	IT	ACM
+35599	[原]数组分割	ACM	ACM	ACM
+35600	[转]北大poj题目分类	ACM	ACM	ACM
+35601	[原]欧拉回路	ACM	ACM	IT
+35602	sql auto_increment	ACM	ACM	IT
+35603	[原]POJ 1312 Numerica	ACM	ACM	ACM
+35604	[原]逆转一个整数的二进制表示	ACM	ACM	ACM
+35605	svn使用	IT	ACM	IT
+35606	[原]实习随感2013/3/25	Other	IT	Other
+35607	[原]hdu4520 郑厂长系列故事——	ACM	ACM	ACM
+35608	【Windows编程】对DUI的尝试	IT	IT	IT
+35609	ACdream 完美数 数位DP	ACM	ACM	ACM
+35610	[原]约瑟夫环链表实现	ACM	ACM	ACM
+35619	irrlicht引擎潜能挖掘：硬件蒙皮骨	ACM	ACM	IT
+35620	七种排序算法的简单分析与实现	ACM	ACM	IT
+35627	[原]二叉排序树	ACM	ACM	ACM
+35628	[原]C++ 条件编译	IT	ACM	ACM
+35629	百度电影推荐系统算法大赛新数据集的简单分	ACM	IT	IT
+35630	[转]truncate 和 delete	IT	IT	IT
+35631	[原]腾讯马拉松 第五场 第一题	ACM	ACM	ACM
+35632	socket阻塞与非阻塞，同步与异步、I	IT	IT	IT
+35633	[原]C#字符串处理	ACM	IT	IT
+35634	poj1252	IT	IT	ACM
+35635	[转]ASP与ASP .net	IT	IT	IT
+35636	在myeclipse中写的jsp程序用相	IT	IT	IT
+35637	[原]腾讯编程马拉松初赛第五场 - 第一	ACM	IT	IT
+35638	一些疑问。。。	IT	ACM	IT
+35639	ACE网络编程之ACE_NEW_RETU	IT	IT	IT
+35640	poj1570	ACM	ACM	ACM
+35641	poj1578	ACM	ACM	ACM
+35642	poj1577	ACM	ACM	ACM
+35643	poj1409	ACM	ACM	ACM
+35644	poj1651	IT	ACM	ACM
+35645	SRM 574 DIV 2	ACM	ACM	ACM
+35646	C++ 中string 的find与fi	ACM	IT	IT
+35647	[原]MD5加密算法C语言实现	ACM	IT	IT
+35648	[原]POJ 2951 Cake Cut	ACM	ACM	ACM
+35649	[原]POJ 3003 Spiderma	ACM	ACM	ACM
+35663	Visual+C+++6.0（支持win	IT	IT	IT
+35666	[原]APUE学习笔记—— 信号实现系统	ACM	IT	IT
+35667	[原]APUE学习笔记——第十章 信号	ACM	IT	IT
+35668	[原]hdu 4528小明系列故事——捉	ACM	ACM	ACM
+35669	[原]博客搬家至[http://limy	Other	IT	IT
+35670	python test	IT	ACM	IT
+35671	POJ-1160 Post Office	ACM	ACM	ACM
+35672	POJ-2355 Railway tic	ACM	ACM	ACM
+35673	poj1573	IT	ACM	ACM
+35674	poj1572	IT	ACM	ACM
+35675	[原]复试前练手...HDOJ - 33	ACM	ACM	ACM
+35676	poj2386	IT	ACM	ACM
+35677	poj1562	IT	ACM	ACM
+35686	几个简单的数学题	ACM	ACM	IT
+35687	poj1566	IT	ACM	ACM
+35688	poj1565	IT	ACM	ACM
+35689	poj1564	IT	ACM	ACM
+35690	poj1563	ACM	ACM	ACM
+35691	Hadoop集群配置	ACM	IT	IT
+35692	[原]java价格处理的一个问题	IT	IT	IT
+35693	Eclipse and My Ecli	IT	IT	IT
+35694	在C语言中设置浮点数的舍入模式	ACM	IT	IT
+35695	[转载]论对东西的崇拜	IT	Other	Other
+35696	[转载]Lisp Machine 为何失	IT	IT	IT
+35703	[原]CodeForces 268A G	IT	ACM	ACM
+35704	[原]POJ 3308 Paratroo	ACM	ACM	ACM
+35705	[原]POJ 1325 Machine	ACM	ACM	ACM
+35706	[原]CodeForces 1B Spr	ACM	IT	ACM
+35707	[原]CodeForces 266E M	ACM	ACM	ACM
+35708	123	ACM	IT	IT
+35709	【转】国家集训队论文分类	ACM	ACM	ACM
+35710	[转]把数据转换成XML格式的好处	IT	IT	IT
+35711	[转]dynamic_web_proje	IT	ACM	IT
+35712	[原]Could not load th	IT	ACM	IT
+35713	test for LaTex	ACM	Other	ACM
+35714	B样条基函数——B-Spline Bas	ACM	IT	IT
+35722	poj2028	IT	ACM	ACM
+35723	[原]博客搬家至[http://limy	Other	IT	IT
+35724	[原]EOJ 2782 Welcome	IT	ACM	ACM
+35725	[原]EOJ 2690 Soda Sur	IT	IT	ACM
+35726	[原]EOJ 2537 统计字符 [20	IT	ACM	ACM
+35729	poj2029	ACM	ACM	ACM
+35730	[转]推荐10款非常优秀的 HTML5	IT	IT	IT
+35731	[转]C++的五种内存存储区	ACM	ACM	IT
+35732	poj2030	IT	IT	ACM
+35733	Blog回档	IT	IT	Other
+35734	poj1455	IT	ACM	ACM
+35735	[原]剑指offer 调整数组的顺序使奇	ACM	IT	ACM
+35736	[原]配置SVN过程中出现的问题	IT	IT	IT
+35737	[原]《软件需求规格说明》中的数据元素组	IT	IT	IT
+35738	[原]《软件需求规格说明》中的状态和方式	ACM	IT	IT
+35739	2013年03月27日	IT	IT	IT
+35740	bzoj 1208 宠物收养所	IT	Other	ACM
+35741	1057. Stack (30) (浙大	ACM	ACM	ACM
+35744	[原]ruby on rails做的一个	IT	ACM	IT
+35745	jquery中getelementbyi	ACM	IT	IT
+35746	关于raw_input()和sys.st	ACM	IT	IT
+35747	poj 2960 S-Nim(博奕)	ACM	ACM	ACM
+35748	[原]Qt中通过设置位图掩码生成异形控件	IT	IT	IT
+35749	Use Markdown in Word	IT	ACM	IT
+35750	[原]mallet源码分析之决策树C4.	ACM	IT	IT
+35751	伟大又自私	Other	Other	IT
+35752	趁热乎评价下锤子ROM	IT	IT	Other
+35753	[译]使用autoLayout实现适配i	ACM	ACM	IT
+35754	HDU 4507. 吉哥系列故事——恨7	ACM	ACM	ACM
+35755	博客更换域名为blog.aikilis.	ACM	IT	IT
+35756	Dhaka 2012 Regional	ACM	ACM	ACM
+35757	[原]拼车	Other	ACM	ACM
+35758	[原]httpclient	IT	ACM	IT
+35759	[转]点击<a>标签，禁止页	IT	IT	IT
+35760	[原]艾勒里·奎因《希腊棺材之谜》读后感	Other	Other	Other
+35761	[转]linux下动态链接库的创建和使用	IT	IT	IT
+35762	[转]HTML5边玩边学	IT	IT	IT
+35763	[转]html5指南--拖拽功能的实现	IT	IT	IT
+35764	[原]玩转十滴水	ACM	ACM	ACM
+35765	2013年03月28日	IT	Other	Other
+35766	python weibo sdk	IT	IT	IT
+35767	[原]POJ 1442 Black Bo	ACM	ACM	ACM
+35770	移植QT到QNX	IT	ACM	IT
+35776	[转]线程退出pthread_exit(	ACM	IT	IT
+35777	[原]APUE学习笔记——第十一章 线程	ACM	IT	IT
+35778	hadoop 4-1源码	IT	IT	IT
+35779	[原]Python学习笔记（一）	ACM	IT	IT
+35780	[原]ZOJ 1002 回溯	ACM	ACM	ACM
+35781	大牛是如何炼成的！？	Other	Other	Other
+35782	关于gcd的8题	ACM	ACM	ACM
+35783	瞎扯	IT	ACM	Other
+35784	[原]accesslog或者cookie	ACM	IT	IT
+35785	poj 1704 Georgia and	ACM	ACM	ACM
+35786	[原]USACO Stringsobit	ACM	ACM	ACM
+35787	java项目目录/发布/打包	IT	IT	IT
+35788	[原]ZJU PAT 1010	ACM	ACM	ACM
+35789	LomoX Browser -- chr	IT	ACM	IT
+35797	HUD-1693 Eat the Tre	ACM	ACM	ACM
+35798	关于左移右移的操作 学习	ACM	IT	IT
+35799	Java 中equals 与 == 的区	IT	IT	IT
+35800	关于Node.js下的MongoDB阻塞	IT	IT	IT
+35801	SPOJ 3273 Order stat	ACM	ACM	ACM
+35802	[转]web service的基础教程	IT	IT	IT
+35803	[转]熵，信息增益，信息增益率，Gini	ACM	IT	IT
+35804	从代码生成 Html 文本的工具	IT	IT	IT
+35805	Linux系统下的文件和文件夹相关操作（	IT	IT	IT
+35806	html 网页中 如何实现多选框或单选框	ACM	ACM	IT
+35807	51nod 1182 : 完美字符串	ACM	ACM	ACM
+35808	51nod 1181 : 质数中的质数	ACM	ACM	ACM
+35809	[原]二叉搜索树转换为双向链表	ACM	ACM	ACM
+35810	收到实习通知	Other	IT	IT
+35811	CRC循环冗余校验码的生成	ACM	IT	IT
+35812	[原]CyberFlashPlayer	IT	IT	IT
+35813	[原]Python学习笔记（二）	ACM	ACM	IT
+35814	【★更新★】发布本人所有博客文章中涉及的	IT	IT	IT
+35822	[原]USACO Spinning Wh	ACM	ACM	ACM
+35823	[原]Lartin American 2	ACM	ACM	IT
+35824	51nod 1179 : 最大的最大公约	ACM	ACM	ACM
+35825	[原]Python学习笔记（四）	IT	IT	IT
+35826	[原]Python学习笔记（三）	ACM	ACM	ACM
+35827	[原]POJ 2159 模拟	ACM	ACM	ACM
+35828	[原]网络程序为什么要处理SIGPIPE	IT	ACM	IT
+35829	[原]Codeforces Beta R	ACM	ACM	ACM
+35830	[原]Codeforces Round	ACM	ACM	ACM
+35831	[原]hdu 4521 小明系列问题——	ACM	ACM	ACM
+35832	[原]UESTC 1525 Fruit	ACM	ACM	ACM
+35833	[原]hdu 3950 Parking	ACM	ACM	ACM
+35834	[转]SVG中Path路径之A	ACM	ACM	IT
+35835	Python 面向对象编程（一）	IT	IT	IT
+35836	丑数	ACM	ACM	IT
+35837	在Eclipse上配置hadoop环境	IT	IT	IT
+35838	[原]各路推荐算法	ACM	ACM	IT
+35839	[原]位操作练习	ACM	IT	IT
+35840	51nod 1040 : 最大公约数之和	ACM	ACM	ACM
+35841	[原]Mac 模态窗口关闭事件的处理	IT	IT	IT
+35842	[原]大笨钟	IT	ACM	ACM
+35843	[原]不使用加减乘除实现加法	ACM	ACM	ACM
+35844	[原]APUE学习笔记——第十二章 线程	ACM	IT	IT
+35845	关于写Nagios邮件插件的感触	IT	Other	IT
+35846	[原]POJ 2479 Maximum	ACM	ACM	ACM
+35847	[原]Codeforces Beta R	ACM	ACM	ACM
+35848	[原]ZOJ 3299 Fall the	ACM	ACM	ACM
+35849	[原]Python学习笔记（五）	IT	IT	IT
+35850	shell 获得当前文件路径	IT	ACM	IT
+35851	[原]Apache运行Python的配置	IT	IT	IT
+35852	[原]HDU 4534 郑厂长系列故事—	ACM	ACM	ACM
+35853	HDU 4531 吉哥系列故事——乾	ACM	ACM	ACM
+35854	HDU 4533	ACM	ACM	ACM
+35855	Codeforces Round #17	ACM	ACM	ACM
+35856	2013腾讯编程马拉松复赛第一场（3月2	ACM	ACM	IT
+35857	BZOJ 1006: [HNOI2008	ACM	ACM	ACM
+35858	[转]A* 搜索算法	ACM	IT	IT
+35859	HDU 4530 小Q系列故事——大笨钟	ACM	IT	ACM
+35860	HDU 4505 小Q系列故事——电	ACM	IT	ACM
+35861	常量指针与指针常量的区别 [转]	ACM	IT	IT
+35862	[原]mac下安装gcc，homebre	IT	IT	IT
+35863	POJ-2352 Stars 线段树	ACM	ACM	ACM
+35864	[原]hdu 2896 病毒侵袭 --	ACM	IT	ACM
+35865	const在函数前与函数后的区别 [转]	ACM	IT	IT
+35866	[转]JS添加/绑定事件监听函数并传参数	IT	IT	IT
+35867	[转]js 添加事件 attachEve	IT	IT	IT
+35868	Fix Xcode "Code	IT	Other	IT
+35869	[原]杨氏矩阵中查找某个数	ACM	ACM	ACM
+35870	[转]QT框架中快速应用OpenCV	ACM	IT	IT
+35871	【Windows编程】Windows计时	IT	ACM	IT
+35872	使用vc内嵌浏览器	IT	IT	IT
+35873	[转载]ubuntu下codeblock	IT	IT	IT
+35874	[转载]ubuntu下codeblock	IT	IT	IT
+35875	[原]hdu 4107 Gangster	ACM	ACM	ACM
+35876	[原]hdu 4336 Card Col	ACM	ACM	ACM
+35877	[原]hdu 2993 MAX Aver	ACM	ACM	ACM
+35878	[原]POJ 1015 Jury Com	ACM	ACM	ACM
+35879	[原]linux C编程向mysql里	IT	IT	IT
+35880	[原]Codeforces Beta R	ACM	ACM	ACM
+35881	[原]hdu 3308LCIS 线段树	ACM	ACM	ACM
+35882	[原]hdu 3874 Necklace	ACM	ACM	ACM
+35883	[原]qobject_cast用法	IT	IT	IT
+35884	HDU 4536 XCOM Enemy	ACM	ACM	ACM
+35885	HDU 4535 吉哥系列故事——礼尚	ACM	ACM	ACM
+35886	[原]hdu 4536	ACM	ACM	ACM
+35887	[原]错排公式	ACM	ACM	ACM
+35888	poj 1185 & hdu 4	ACM	IT	ACM
+35893	一个22岁程序员的辛酸之路	IT	IT	IT
+35897	2013年四月計劃	ACM	ACM	IT
+35898	POJ 3813 : Euclid	ACM	ACM	ACM
+35899	hdu 2167 Pebbles（状态压	ACM	ACM	ACM
+35900	[转]Winning the Netfl	IT	ACM	IT
+35901	POJ 3815 : The Ninja	ACM	ACM	ACM
+35902	Word文档里超链接打不开，显示“可打开	IT	Other	IT
+35903	帮朋友寻找一个后台开发	IT	IT	IT
+35911	[转]Ubuntu下Nginx的安装及W	IT	IT	IT
+35912	最短路径的变种与应用	ACM	ACM	ACM
+35913	修改论坛首页到极致简约	IT	IT	ACM
+35914	[转]在SVG中使用滤镜效果和输出文字	ACM	IT	IT
+35915	[原]html+css+js实现简易的x	IT	IT	IT
+35916	ubuntu下的google拼音输入法	IT	IT	IT
+35917	[转]OpenGL 的渲染流水线	ACM	ACM	IT
+35918	[原]mallet源码分析之baggin	ACM	IT	IT
+35919	[原]【javascript】使用pro	IT	IT	IT
+35920	[原]【web开发】spring mvc	IT	IT	IT
+35921	[原]APUE学习笔记——第十三章 守护	ACM	IT	IT
+35922	毕业离校，新的开始	Other	Other	Other
+35923	[转]CSS3 基础知识汇总1 基本功能	IT	IT	IT
+35924	[Ubuntu] dpkg: error	IT	ACM	IT
+35925	[原]POJ 3164 Command	ACM	ACM	ACM
+35926	HDU 4544 湫湫系列故事——消	ACM	IT	ACM
+35927	HDU 4541 Ten Googol	ACM	IT	ACM
+35928	HDU 4540 威威猫系列故事——打	ACM	ACM	ACM
+35929	[原]腾讯马拉松复赛第三场,HDOJ-4	ACM	ACM	ACM
+35930	POJ 1845 : Sumdiv	ACM	ACM	ACM
+35931	[原]CF 220E Little El	ACM	ACM	ACM
+35932	POJ-1739 Tony's	ACM	ACM	ACM
+35933	Ural 1519 Formula	ACM	ACM	ACM
+35934	[原]POJ 2632	IT	ACM	ACM
+35935	[原]4月1号早会	Other	Other	Other
+35936	[转]buntu 9.10 安装ngin	IT	IT	IT
+35937	[原]hdu 2844 Coins -	ACM	ACM	ACM
+35938	[原]编程之美4.3扩展问题(卡特兰数)	ACM	IT	IT
+35939	Blog宕机风波	IT	IT	Other
+35940	[原]【SPOJ KQUERY】【HDU	ACM	ACM	ACM
+35941	HDU 4534 郑厂长系列故事——新闻	ACM	ACM	ACM
+35942	[原]POJ 2739 满足条件的连续素	c00h00g	2739	Accepted
+35943	排列组合中关于捆绑法、插空法、插隔板法	ACM	IT	ACM
+35944	[原]USACO Feed Ratios	ACM	ACM	ACM
+35945	[原]欧拉回路及哈密顿回路浅见（UVA1	ACM	ACM	ACM
+35946	【转两篇】yield 产生器 和 for	ACM	IT	ACM
+35947	[原]POJ 3437 Tree Gra	ACM	ACM	ACM
+35948	Java类内变量初始化的顺序	ACM	IT	IT
+35949	从函数近似角度看softmax	ACM	IT	ACM
+35950	[二分+最大流]zoj 3691：flo	ACM	ACM	ACM
+35951	愚人节的一些念想	Other	Other	Other
+35952	[原]APUE学习笔记——第十四章 高级	IT	IT	IT
+35953	[原]Qt Creator中无法使用Op	IT	ACM	IT
+35954	裁剪图片	IT	ACM	IT
+35955	[DP]hdoj 4502：吉哥系列故事	ACM	ACM	ACM
+35956	[原]编程之美4.7蚂蚁爬杆扩展问题附猎	ACM	ACM	IT
+35957	LPTSTR转换为std::string	ACM	IT	IT
+35958	进程和程序的区别 - 分享一个故事	IT	IT	IT
+35973	如何搭建个人独立博客	IT	IT	IT
+35974	ZOJ-3399 Classes Div	ACM	ACM	ACM
+35975	HDU 湫秋系列故事——安排座位 组和	ACM	ACM	ACM
+35976	[转]用HTML5来开发一款Androi	IT	IT	IT
+35977	Academic Ranking of	ACM	ACM	ACM
+35978	C++与Java的访问权限修饰符	IT	IT	IT
+35979	Computer Science Con	IT	ACM	IT
+35980	[转]类中静态变量与const常量成员的	IT	IT	IT
+35981	Oracle分页技术--rownum	IT	IT	IT
+35982	[转]HTTP Status 404(T	IT	ACM	IT
+35983	[转载][贵圈真乱]绝对领域未经许可使用	Other	Other	IT
+35984	巧用CSS文件愚人节恶搞	IT	IT	IT
+35985	[原]USACO Magic Squar	ACM	ACM	ACM
+35986	[原]值得思考的一道题 2013腾讯编程	ACM	ACM	ACM
+35987	[原]寻找宝藏	ACM	ACM	IT
+35988	杨辉三角	ACM	ACM	IT
+35989	[原]编程之美3.11 二分查找常见问题	ACM	IT	IT
+35990	ZOJ1122 Clock	ACM	ACM	ACM
+35991	HDU 1325 Is It A T	ACM	ACM	ACM
+35992	POJ 1182 食物链(并查集）	ACM	ACM	ACM
+35993	POJ 1611 The Suspect	ACM	ACM	ACM
+35994	[原]Java 5和6的改进	IT	IT	IT
+35995	[转]海量数据 处理方法	ACM	IT	IT
+35996	POJ 1703 Find them	ACM	ACM	ACM
+35997	2013腾讯编程马拉松复赛第三场(3月3	ACM	ACM	ACM
+35998	关于身份证号的那些事	IT	IT	IT
+35999	[原]非递归实现归并排序	ACM	ACM	ACM
+36000	[转]汇总java日期格式大小写简写	ACM	ACM	IT
+36001	[原]APUE学习笔记——第十五章 进程	IT	IT	IT
+36002	HDU 1166 敌兵布阵	ACM	ACM	ACM
+36003	[原]实现索引遇到的问题	ACM	IT	IT
+36004	SRM167 DIV1	ACM	ACM	ACM
+36005	LA 3942 Remember the	ACM	ACM	ACM
+36006	vc内嵌wmplayer播放器	IT	IT	IT
+36010	“非计算机专业如何转行做程序员” - 我	IT	IT	IT
+36015	Python正则表达式指南	ACM	IT	IT
+36016	poj1547	IT	ACM	ACM
+36017	POJ-3133 Manhattan W	ACM	ACM	ACM
+36018	数据库——startup,startup	IT	IT	IT
+36019	[原]归并树 第K大值	ACM	ACM	ACM
+36020	poj1552	IT	ACM	ACM
+36021	Python面向对象编程（二）	IT	IT	IT
+36024	ZOJ-1977 Pandora adv	ACM	ACM	ACM
+36025	HashTable (poj2785)	IT	ACM	ACM
+36026	[原]为什么这么难？	ACM	Other	Other
+36027	Sublime Text 使用简介	IT	IT	IT
+36028	[转]拓展欧几里得	ACM	ACM	ACM
+36029	MinHeap without dele	IT	ACM	ACM
+36030	[原]输出二叉树路径上的所有和为K的路径	ACM	ACM	ACM
+36031	【MyLife】温暖	ACM	Other	Other
+36032	[原]hdu 4015 Mario an	ACM	IT	ACM
+36033	[原]Python开发在线辞典	IT	IT	IT
+36040	山寨STL	IT	ACM	IT
+36042	也许以后再也不能与你相见	ACM	ACM	Other
+36043	[原]线段树模板（lazy标记）ZOJ	ACM	ACM	ACM
+36044	[原]USACO Sweet Butte	ACM	ACM	ACM
+36045	[原]北邮12年网研 -二叉树的层数	ACM	ACM	ACM
+36046	HDU 4542 小明系列故事——未	ACM	ACM	ACM
+36047	[原]妈妈说偶尔也要开始努力一下下了	ACM	IT	Other
+36048	poj 2230 Watchcow	ACM	ACM	ACM
+36049	poj 2231 Moo Volume	ACM	ACM	ACM
+36050	codeforces #1	ACM	ACM	ACM
+36051	[原]类似约瑟夫环	ACM	ACM	ACM
+36052	[原]确定临界楼层	ACM	ACM	IT
+36053	[原]检测毒药	Other	IT	Other
+36054	[原]猴子吃坚果	ACM	ACM	ACM
+36055	[原]hdu 3422 Triangle	ACM	ACM	ACM
+36056	2013考研初试复习经验（计算机统考）	Other	Other	IT
+36057	[原]hdu 3421 Max Sum	ACM	ACM	ACM
+36058	[原]主方法研究	ACM	ACM	IT
+36059	MaxHeap (poj2388)	IT	ACM	ACM
+36060	[转]将无向无环连通图转换成深度最小的树	ACM	Other	ACM
+36061	Bernoulli_number前n个自	ACM	ACM	ACM
+36062	[原]USACO Riding the	ACM	ACM	ACM
+36063	POJ 1984 Navigatio	ACM	ACM	ACM
+36064	POJ 1988 Cube Stack	ACM	ACM	ACM
+36065	POJ 2524 Ubiquitous	ACM	ACM	ACM
+36066	POJ 2492 A Bug'	IT	ACM	ACM
+36067	POJ 2236 Wireless N	IT	ACM	ACM
+36068	POJ 1456 Supermark	ACM	ACM	ACM
+36069	[原]找出直系亲属	ACM	ACM	IT
+36070	The Tail at Scale(译)	ACM	ACM	IT
+36071	Codeforces Round #17	ACM	ACM	ACM
+36080	irrlicht引擎：镜子效果	ACM	ACM	IT
+36081	irrlicht引擎：真实的水面渲染	IT	IT	IT
+36088	[原]hdu1828 Picture(扫	ACM	ACM	ACM
+36089	[原]一点体会	ACM	Other	Other
+36090	[转]C语言中的typeof关键字	IT	IT	IT
+36091	[转]c语言中的宏，#号##号，可变参数	ACM	IT	IT
+36092	踩方格 微软编程之美测试题 百练试题	ACM	ACM	IT
+36093	POJ 1733 Parity g	ACM	ACM	ACM
+36094	[原]再谈iOS GestureReco	ACM	ACM	IT
+36095	[原]HDU1542 Atlantis（	ACM	ACM	ACM
+36096	[原]XSI IPC——System V	IT	IT	IT
+36097	大端小端,ascii,unicode,u	ACM	IT	IT
+36098	保研了	Other	IT	IT
+36099	HDU 3038 How Many A	ACM	ACM	ACM
+36100	ZOJ 3261 Connection	ACM	ACM	ACM
+36101	素数的特殊性	ACM	Other	ACM
+36102	POJ 2912 Rochambeau（	ACM	ACM	ACM
+36103	[原]NSAttributedStrin	ACM	IT	IT
+36104	[原]相似图片搜索原理	ACM	Other	IT
+36106	Lomox_2013_04_05_Rel	IT	IT	IT
+36113	Asp.net 图片大小转换	ACM	IT	IT
+36114	无法打开登录所请求的数据库DbName	IT	IT	IT
+36115	再论cin 与getline	ACM	IT	IT
+36116	让xp加载指定的内核版本--别以为xp加	IT	IT	IT
+36117	LAC: Demo Dictionary	IT	IT	IT
+36132	[转]shell中if做比较	ACM	IT	IT
+36133	POJ 1417 True Liar	ACM	ACM	ACM
+36134	HDU3364：高斯消元解异或方程组	ACM	ACM	ACM
+36135	[原]认真审题很重要	ACM	IT	IT
+36136	[转]十个利用矩阵乘法解决的经典题目(F	ACM	ACM	ACM
+36137	[原]矩阵乘法和二分求阶乘 解线性递推问	ACM	ACM	IT
+36138	JSTL学习笔记	IT	IT	IT
+36139	[原]记录	IT	IT	IT
+36140	一个Java小程序，帮助理解Java继承	ACM	ACM	IT
+36141	[原]POJ 2352 Stars	ACM	ACM	ACM
+36142	时间真的好快	Other	Other	IT
+36143	[原]编程之美	IT	ACM	IT
+36144	Handshaking<DP>	ACM	ACM	ACM
+36145	[原]hdu 4214 Crash an	ACM	ACM	ACM
+36146	[原]USACO Shopping Of	ACM	ACM	ACM
+36147	2012年度总结	IT	Other	Other
+36148	[原]eclipse远程部署，静态文件实	IT	IT	IT
+36149	Column Picture	ACM	Other	IT
+36150	MYSQL使用笔记	ACM	IT	IT
+36151	2013年04月06日	Other	Other	IT
+36152	[译]概率估计（极大似然估计、拉普拉斯平	ACM	ACM	IT
+36153	postfix + courier-im	IT	IT	IT
+36154	[原]map的查找	ACM	IT	ACM
+36155	[原]c++中的string分割	ACM	IT	ACM
+36156	[原]mysql常用监控脚本命令列表	IT	IT	IT
+36157	[原]Kerberos（1.9）Apac	IT	ACM	ACM
+36158	Linux常用命令review	IT	IT	IT
+36159	cygwin中文乱码配置	IT	IT	IT
+36160	走在java的路上，就要做一个合格的程序	IT	IT	IT
+36168	[原]新东方2013杨超长线基础高数90	Other	IT	IT
+36169	HDU-1964 Pipes 插头DP	ACM	ACM	ACM
+36170	[原]HDU 1559 最大子矩阵	ACM	ACM	ACM
+36171	[原]HDU 1160 FatMouse	ACM	ACM	ACM
+36172	[原]创建BMP图像	IT	IT	IT
+36173	[原]POJ 3461 kmp	ACM	ACM	ACM
+36174	[转]Win32中安全的子类化	IT	IT	IT
+36175	[转]mciSendString用法	IT	ACM	IT
+36176	[原]PHP抓取页面	IT	IT	IT
+36177	[原]PHP验证码的实现	IT	ACM	IT
+36178	[原]PHP开启PDO	IT	IT	IT
+36179	郁闷的出纳员 平衡二叉树（SBT）	ACM	IT	ACM
+36180	POJ-1026 Cipher 置换群	ACM	ACM	ACM
+36181	[原]Restricted Boltzm	IT	ACM	IT
+36182	[原]深入研究之回音抑制算法（echo	IT	ACM	Other
+36183	[原]Codeforces Round	ACM	ACM	ACM
+36184	DirectUI中模态对话框和菜单的原理	IT	IT	IT
+36192	POJ-3270 Cow Sorting	ACM	ACM	ACM
+36193	ACE网络编程笔记（1）：ACE自适配通	IT	IT	IT
+36194	ACE网络编程笔记（1）：ACE自适配通	IT	IT	IT
+36195	《重构》摘要	IT	IT	IT
+36196	word03设置分级标题、生成目录	IT	Other	IT
+36197	linux 前后台进程切换	IT	IT	IT
+36198	[原]2013.4.8早会	Other	Other	IT
+36199	[原]ip地址，子网掩码，网关，dns	IT	IT	IT
+36200	【转】var_dump() 与 prin	ACM	IT	IT
+36201	[原]poj 3468 A Simple	ACM	ACM	ACM
+36202	Vs 2008 解决方案的目录结构设置和	IT	ACM	IT
+36203	[原]hdu 3065 病毒侵袭持续中	ACM	ACM	ACM
+36204	[转]Spring3.0的Jar包详解	IT	ACM	IT
+36205	[原]php零散知识笔记	IT	IT	IT
+36206	[原]Drupal零散知识笔记	IT	ACM	IT
+36207	【转】各大OJ题目分类	ACM	ACM	ACM
+36208	[原]linux用互斥量进行同步	ACM	IT	IT
+36209	[原]linux用信号量进行同步	ACM	IT	IT
+36210	100个著名初等数学问题[转载]	ACM	ACM	ACM
+36211	POJ-1286 Necklace of	ACM	ACM	ACM
+36212	.hpp与.h的区别（转载）	IT	ACM	IT
+36213	[原]关于Android Handler	ACM	IT	IT
+36214	[原]jsp乱码问题的解决	IT	IT	IT
+36215	[原]Cavy框架	IT	IT	IT
+36216	[转]在CHtmlView中判断页面加载	IT	IT	IT
+36217	[转]ubuntu12.10：通过锐捷认	IT	IT	IT
+36218	[原]POJ 1870 Bee Bree	ACM	ACM	ACM
+36219	[原]POJ 1436 Horizont	ACM	ACM	ACM
+36220	宠物收养所 SBT模板题	ACM	ACM	ACM
+36221	[原]抽象数据类型Triplet的表示和	ACM	IT	ACM
+36222	POJ-1707 Sum of powe	ACM	ACM	ACM
+36223	[转载]谈“测试驱动的开发”	IT	Other	IT
+36224	[原]chrome 新浪微博分享插件	IT	ACM	IT
+36225	POJ-1674 Sorting by	ACM	ACM	ACM
+36242	从一道面试题来阐释一个普遍的认知误区	IT	IT	IT
+36250	SRM 575 DIV2	ACM	ACM	ACM
+36251	C++中结构体的大小与内存对齐	ACM	IT	IT
+36252	ACE网络编程笔记（2）：IPC SAP	IT	IT	IT
+36253	URAL1297：后缀数组、最长回文子串	ACM	ACM	ACM
+36254	[原]线性表的顺序表示和实现	 1	ACM	IT
+36255	poj1554	ACM	ACM	ACM
+36256	[原]插入排序	ACM	ACM	ACM
+36257	[原]选择排序	ACM	ACM	ACM
+36258	poj1581	IT	ACM	ACM
+36259	poj2871	IT	ACM	ACM
+36260	[原]hdu	/* hdu	2398 Savings Account - 数学 */ #inc	ACM
+36266	移植Linux的外围设备驱动到QNX系统	IT	IT	IT
+36269	BZOJ 1047: [HAOI2007	ACM	ACM	ACM
+36270	[原]Surounded Regions	ACM	IT	ACM
+36271	[原]日志	Other	IT	IT
+36272	[原]管道 子进程	ACM	IT	IT
+36273	[转]Android 异步加载图片(As	IT	IT	IT
+36274	SGU 321 : The Spy Ne	ACM	ACM	ACM
+36275	[原]hdu 2577 How to T	ACM	ACM	ACM
+36276	[原]hdu 2395 Alarm Cl	ACM	ACM	ACM
+36277	[转]智能聊天机器人小黄鸡及其制作方法	IT	ACM	IT
+36281	[转]【html/css】CSS中去掉l	ACM	IT	IT
+36282	[原]Mysql----浅入浅出之查询	ACM	IT	IT
+36283	支离破碎	Other	Other	Other
+36284	[转]【html/css】如何设置HTM	ACM	IT	IT
+36285	[原]求二进制数中1的个数	ACM	ACM	ACM
+36286	[原]中国象棋将帅问题	ACM	ACM	ACM
+36287	[原]希尔排序	ACM	ACM	IT
+36288	[原]HDU4419 Colourful	ACM	ACM	ACM
+36289	密码保护：我爱你，仅此而已	IT	Other	IT
+36290	HDU-4003 Find Metal	ACM	ACM	ACM
+36291	[原]Palindrome Partit	ACM	ACM	ACM
+36292	复习linux进程和线程	ACM	IT	IT
+36293	POJ-3070 Fibonacci 矩	ACM	ACM	ACM
+36294	Fzu 2119 祖先问题 line-c	ACM	ACM	IT
+36295	NJUPT1362 汽车加油行驶问题	ACM	ACM	ACM
+36296	POJ-1699 Best Sequen	ACM	ACM	ACM
+36297	[原]通过小练习掌握MFC知识点之起步篇	ACM	IT	IT
+36298	[原]POJ 1632 Vase col	ACM	ACM	ACM
+36299	[原]POJ 1687 Buggy Sa	ACM	ACM	ACM
+36300	[原]maven eclipse web	IT	ACM	IT
+36301	[原]UICollectionView	ACM	IT	IT
+36302	[原]MFC分割字符串	ACM	ACM	IT
+36303	[原]Sum Root to Leaf	ACM	ACM	ACM
+36304	linux下清除^M特殊符号	IT	IT	IT
+36305	[原]Kerberos 工作原理	IT	IT	IT
+36308	给年轻程序员的建议	IT	Other	IT
+36314	POJ 3225 Help with	ACM	ACM	ACM
+36315	POJ-3974 Palindrome	ACM	ACM	ACM
+36316	HUD-4513 吉哥系列故事——完美队	ACM	ACM	ACM
+36317	HDU-3068 最长回文 Manach	ACM	ACM	ACM
+36318	Manacher算法--O（n）回文子串	ACM	ACM	ACM
+36319	shellcode之简单的栈溢出实验	ACM	IT	IT
+36320	[原]通过小练习掌握MFC知识点之起步篇	IT	Other	IT
+36321	[原]ubuntu12.10更新包后的问	IT	IT	IT
+36322	[原]HDOJ 1540 Tunnel	ACM	ACM	ACM
+36323	[原]Longest Consecuti	ACM	IT	ACM
+36324	C/C++输入输出八进制，十六进制的方式	ACM	ACM	IT
+36325	POJ 1177 Picture （	ACM	ACM	ACM
+36326	一路风雨走过来：那些我亲密接触过的项目	Other	ACM	IT
+36327	irrlicht引擎：为什么我会想着捣鼓	IT	IT	Other
+36328	irrlicht引擎:Bloom效果	ACM	IT	IT
+36350	Codeforces Round #17	ACM	ACM	ACM
+36351	CentOS 6.4 安装配置 LAMP	IT	IT	IT
+36352	[原]原地归并排序	ACM	IT	IT
+36353	[原]交换	IT	ACM	ACM
+36354	[原]MFC文件类CStdioFile读	IT	IT	IT
+36355	[原]USACO Camelot 解题报	ACM	ACM	ACM
+36356	[原]关于Serializable的se	IT	IT	IT
+36357	[原]Mysql----浅入浅出之JDB	IT	IT	IT
+36358	[原]HDOJ 4529 - N骑士问题	ACM	ACM	ACM
+36359	HDU 3642 Get The Tr	ACM	ACM	ACM
+36360	[转]由Spring管理的Struts2	ACM	IT	IT
+36361	[原]LA 3211 Now or la	ACM	IT	ACM
+36362	[原]UVa 11235 Frequen	ACM	ACM	ACM
+36363	[原]LA 3027 Corporati	ACM	ACM	ACM
+36364	[原]LA 4329 Ping pong	ACM	ACM	ACM
+36365	[原]LA 3942 Remember	ACM	ACM	ACM
+36366	ICE 连接 参数 说明	ACM	ACM	IT
+36374	[长姿势了]android:paddin	ACM	IT	IT
+36375	vim代码收起/展开和命令	IT	IT	IT
+36376	[原]VS2010为新添加的对话框添加O	IT	IT	IT
+36377	BZOJ 1055: [HAOI2008	ACM	ACM	ACM
+36378	[原]HDOJ - 4559 排兵布阵	ACM	ACM	ACM
+36379	明天的下载链接	IT	ACM	IT
+36380	BZOJ 1050 1050 [HAOI	ACM	ACM	ACM
+36381	[原]hdu 3265 Posters	ACM	ACM	ACM
+36382	[原]三向切分快排	ACM	ACM	ACM
+36383	[原]快排算法	ACM	ACM	ACM
+36384	Codeforces Round #17	ACM	ACM	ACM
+36385	[原]效率和羞耻应该是程序员的特性	IT	ACM	IT
+36386	Gentoo udev upgrade	IT	IT	IT
+36387	[原]Palindrome Partit	IT	ACM	ACM
+36388	[原]Merge Sorted Arra	ACM	IT	ACM
+36389	poj 2236 Wireless Ne	ACM	ACM	ACM
+36390	poj 2240 Arbitrage	ACM	ACM	ACM
+36391	[原]LightOj 1111 - Be	IT	ACM	ACM
+36396	Seed Engine中的输入系统（一）	ACM	IT	IT
+36400	Codeforces Round #17	ACM	ACM	ACM
+36401	[原]Codeforces Round	ACM	ACM	ACM
+36402	[原]网络基础笔记	IT	IT	IT
+36403	[原]二叉查找数	ACM	ACM	IT
+36404	[原]POJ - 1185 跑兵阵地	ACM	IT	ACM
+36405	[原]hdu 2578 Dating w	ACM	IT	ACM
+36406	[转]MFC实现程序开机自启动	IT	IT	IT
+36407	[原]horner法则求字符串散列值	ACM	ACM	IT
+36408	MVC框架学习	IT	Other	IT
+36409	HDU 1074 Doing Home	ACM	ACM	ACM
+36410	[原]USACO A Game 解题报告	ACM	ACM	ACM
+36411	[原]USACO Home on the	ACM	ACM	ACM
+36412	[原]HDOJ 4529 - N骑士问题	ACM	ACM	ACM
+36413	[转]关于java的编译与执行	IT	IT	IT
+36414	ACE前摄器Proactor最好的讲解（	IT	IT	IT
+36415	[原]c# 连连看	IT	IT	IT
+36416	[原]Valid Palindrome	ACM	IT	ACM
+36417	[原]Word Ladder	ACM	ACM	ACM
+36418	[原]湖南工业大学个人选拔赛第一场 解题	ACM	ACM	ACM
+36419	POJ-2891 Strange Way	ACM	ACM	ACM
+36420	模线性方程组	ACM	ACM	ACM
+36421	[原]设计模式零散知识笔记	IT	Other	IT
+36422	[原]数据挖掘所需的微积分的一些基本概念	ACM	IT	IT
+36423	[原]hdu Dating with g	ACM	ACM	ACM
+36424	[原]百度笔试题合并a[0..mid]和	ACM	IT	ACM
+36434	做一个有理想的程序员	IT	ACM	IT
+36441	[原]hdu 2576 Another	ACM	ACM	ACM
+36442	[原]Two Sum	ACM	ACM	ACM
+36443	【转载】出租司机给我上的MBA课（转载）	Other	Other	Other
+36444	Visual Studio 2010 中	IT	IT	IT
+36445	[原]深度搜索	ACM	IT	IT
+36452	erlang和RabbitMQ学习总结	IT	ACM	IT
+36454	逃离天朝计划	ACM	ACM	Other
+36455	Single Round Match 5	ACM	ACM	ACM
+36456	[原]K-D树 C++实现	ACM	ACM	ACM
+36457	perl module ExtUtils	IT	IT	IT
+36458	安装mysql	ACM	ACM	IT
+36459	subclipse	IT	ACM	IT
+36460	[原]浙大2013年机试题解（pat 1	ACM	ACM	ACM
+36461	可配置语法分析器开发纪事（六）——构造一	ACM	IT	IT

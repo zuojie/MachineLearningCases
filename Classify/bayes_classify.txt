@@ -1,0 +1,947 @@
+博客搬家	Other
+[原]mahout源码分析之贝叶斯算法	ACM
+Google Reader	IT
+无关3.15	Other
+[原]Eclipse开发andrioid	Other
+[原]java 正则表达式2	IT
+[原]java 正则表达式	IT
+[原]简单web安全框架	Other
+【IE10】打开网页不正常的解决方法	Other
+[转]Log4j入门教程	Other
+小白学习android（四）： 如何在e	IT
+小白学习android（三）：andro	IT
+[转]JUnit4初级到高级	Other
+[转]dpkg:处理 xxx (--co	ACM
+【算法学习】【AC自动机】+【例题】HD	Other
+[原]UVA - 141 - The S	ACM
+[原]UVA - 10591 - Hap	ACM
+[原]shengka laba ton	Other
+[原]函数的设计	Other
+POJ 3368 : Frequent	ACM
+POJ 3067 : Japan	ACM
+[转]ubuntu插上耳机 扬声器/喇叭	IT
+[原]UVA 12530 Game o	Other
+[原]UVA 12529 Fix the	Other
+好き	Other
+[转]找出2->N之间的所有质数	Other
+[BZOJ1468][POJ1741]T	ACM
+[BZOJ2599][IOI2011]R	ACM
+[原]绫辻行人《杀人偶人馆》读后感	Other
+(搬用工)各种标点符号和数学符号的英文读	IT
+内存池的实现(一)	ACM
+内存池实现 (思路)	ACM
+两个容积互质的水杯可倒出任意从1到容积和	IT
+进程和线程的区别	IT
+[BZOJ2329][HNOI2011]	ACM
+[BZOJ2588]Spoj 10628	ACM
+tomcat与apache	IT
+[SPOJ GSS2]Can you a	ACM
+android绘制五子棋棋盘	IT
+[HNOI2002]营业额统计	Other
+poj1234	ACM
+C++流重定向到文件	IT
+Mersenne Twister wit	Other
+进程和线程的区别	IT
+记一次周赛	Other
+选课脚本剖析	IT
+poj1862	ACM
+poj1426	ACM
+【HDU 2243】考研路茫茫——单词情	ACM
+poj1423	ACM
+[原]poj1143Number Gam	ACM
+[原]ZOJ Unrequited Lo	ACM
+[原]ZOJ 3607 Lazier S	ACM
+[原]ＺＯＪ　BCD Code　记忆化搜	Other
+[原]ＺＯＪ　３４９７Mistwald　	Other
+[原]ZOJ 3606 Lazy Sal	ACM
+Codeforces Round #17	ACM
+[原]不自损八百，何以伤敌一千——ACM	ACM
+[原]你若是天才，我便是疯子————AC	ACM
+[原]POJ 1821 Fence	ACM
+[转]Hadoop M/R second	IT
+近期任务	Other
+[原]实时仿真软件Sofa的安装（Win	IT
+TRAINING 2013.3.17 S	IT
+fibonacci 的进化	Other
+WAMPserver配置	IT
+Codeforces Round #17	ACM
+#pragma once 与 #ifnd	IT
+[原]【web开发】spring中ses	Other
+[原]POJ 3299 水题	ACM
+[读书]如果人类只有一种性别的话	Other
+模重复平方算法	ACM
+[原]POJ 3662 Telephon	ACM
+[转]ubuntu下终端路径只显示当前目	IT
+vim多行注释	IT
+[原]Google Code Jam20	Other
+[原]ZOJ 2900 Icecream	ACM
+[转]ent0 en0 et0 专题总结	Other
+[原]POJ 1868 Antiarit	ACM
+[好朋友0002] 南北	Other
+ginx启动，重启，关闭命令	IT
+php 字符编码转换 mb_conver	ACM
+[转]在Linux下查看端口的使用情况及	IT
+configure: error: ne	Other
+error:is not in the	Other
+configure error the	Other
+Allowed memory size	IT
+向量的简单运算	ACM
+Python中的函数（三）	IT
+最小费用最大流	ACM
+Palindrome Partition	ACM
+Palindrome Partition	ACM
+[原]HDU 2639 Bone Col	ACM
+[原]POJ 2923 Relocati	ACM
+晒一下键盘	Other
+WebKit和Chromium代码目录结	IT
+[转]Eclipse安装aptana	IT
+[转]不可多得的Javascript(A	ACM
+[原]Codeforces Round	Other
+IOS 绘制PDF	IT
+LingosHook: Compatib	Other
+Longest Consecutive	ACM
+[原]POJ 1611 The Susp	ACM
+[原]POJ 2524 Ubiquito	ACM
+[原]Unicode和字符串处理	IT
+[转]献给那些浮躁的年轻人	Other
+[原]POJ 3624 Charm Br	ACM
+[原]HDU 2602 Bone Col	ACM
+[原]HDU 3635 Dragon B	ACM
+[原]HDU 1856 More is	ACM
+[原]POJ 1182 食物链	ACM
+[转]Java HashMap 分析之四	IT
+[转]java中HashMap详解	IT
+[原]CF 269D Maximum W	Other
+AVEVA .Net 菜单自定义	IT
+foobar2000 设置评级	IT
+6个变态的C语言HelloWorld程序	IT
+POJ 2761 : Feed the	ACM
+[原]POJ 1236 Network	ACM
+[原]CF 283E Cow Tenni	Other
+[原]POJ 3167 Cow Patt	ACM
+SDUT 2412 （单调队列 + dp	ACM
+[原]ZOJ 1170 String M	ACM
+[原]ZOJ 1159 487-3279	ACM
+[原]2Sum/3Sum/3SumClo	IT
+[转]Qt4.8下应用OpenCV2.4	IT
+[原]Codeforces Round	Other
+Python中的模块	IT
+uva 12583 可持久化treap	ACM
+不觉又两载，已是物是人非了	Other
+隔了大半年后，终于想起这博客了	Other
+[原]ZOJ 1181 Word Ama	ACM
+2013年03月19日	Other
+[原]系统间歇性超时问题的分析与解决	IT
+如何使用Process Monitor查	IT
+如何养成良好的 C++ 编程习惯（一）—	IT
+C语言获取当地时间	IT
+Codeforces Round #17	ACM
+独自开发的时候，所考虑的事情	Other
+php 页面控制程序并查看程序运行状态	ACM
+JAVA 正则表达式的应用——split	IT
+[原]K-SVD简述	ACM
+[原]ZOJ 1243 URLs	ACM
+[转]HTML中id、name、clas	IT
+[转]setTimeout和setInt	IT
+[转]引导式教育	Other
+[转]营销高手，一定是讲故事的高手！	Other
+更新证书错误Code Sign erro	Other
+[原]ZOJ 1970 All in A	ACM
+[原]ZOJ 1831 Substitu	ACM
+[原]ZOJ 1698 Easier D	ACM
+[原]ZOJ 1582 Careless	ACM
+[原]ZOJ 1392 The Hard	ACM
+[原]ZOJ 1325 Palindro	ACM
+How to make package	ACM
+[原]c# 小游戏 俄罗斯方块	IT
+数据真实性的探索——对百度电影推荐系统算	ACM
+[Ubuntu]手动安装Eclipse	IT
+Eclipse Pydev Instal	IT
+[原]开坑预告，2013年新番来袭。	Other
+[转]Linux内核源码分析方法	IT
+程序代码相似性检测研究与实现 开题报告	IT
+经典排序之归并排序	Other
+Read from socket fai	IT
+[原]poi解析excel内存溢出	Other
+[原]CF 266E More Quer	Other
+[转]透明窗口（窗口上面文字图片等内容不	Other
+[原]APUE学习笔记——第三章文件I/	IT
+Hadoop在windows上安装与配置	IT
+poj2516Minimum Cost	ACM
+2013腾讯马拉松初赛第0场（3月30）	Other
+[转]网络编程学习笔记一：Socket编	IT
+基于boost asio实现的支持ssl	IT
+[原]ZOJ 1720 Polynomi	ACM
+PHP中this,self,parent	Other
+[原]ZOJ 1713 Haiku Re	ACM
+[原]ZOJ 1315 Excuses,	ACM
+[原]HDU 2126 Buy the	ACM
+[原]HDU 3466 Proud Me	ACM
+转：vc6.0 打开文件的时候出现Mic	IT
+[原]BOJ 316 Password	Other
+C++实用技巧之配置Visual C++	IT
+TCP协议流的理解	ACM
+[原]ZOJ 3487 Ordinal	ACM
+[原]ZOJ 2947 Abbrevia	ACM
+[原]ZOJ 1729 Hidden P	ACM
+[原]CF 240F TorCoder(	ACM
+[原]APUE学习笔记——第四章 文件和	IT
+eclipse启动时弹出Failed t	IT
+[原]只用4行代码编写出一个从字符串到长	Other
+[原]HDU 4502 吉哥系列故事——	ACM
+poj1860	ACM
+[原]【剑指offer】【九度oj】整数	Other
+SRM 573 div2	Other
+领悟	Other
+[原]【MFC Windows程序设计（	Other
+[原]HDU 4501 (二维费用背包)	ACM
+【POJ P3016】K-Monoton	ACM
+数据库连接池的工作机制	IT
+夜	Other
+[原]绫辻行人《杀人惊愕馆》读后感	Other
+Moving the database	ACM
+hdu 2147 kiki's	ACM
+HDU 4509 湫湫系列故事——减肥记	ACM
+HDU-3555 Bomb 数位DP	ACM
+POJ-3345 Bribing FIP	ACM
+POJ-3280 Cheapest Pa	ACM
+HDU 4508 湫湫系列故事——减肥记	ACM
+面试题: 找出数组中三个只出现一次的数	IT
+mingw gcc的头文件存在结构定义错	IT
+浅析软件工程开发方法学RUP	IT
+安卓手机上跟存储有关的几个名词解释	IT
+[转]如何弹出一个窗口气泡	Other
+[原]ZOJ 2476 Total Am	ACM
+[原]【POJ 3233】矩阵快速幂+二	ACM
+Gvim —— win 7 下 vim	ACM
+【转】Be Pythonic	Other
+[转]Kerberos 错误消息	Other
+科技的罪恶	Other
+[原]CF 228D Zigzag(线段	ACM
+[原]Codeforces Round	Other
+[转]数据库技术发展历史	Other
+[原]libSVM源码分析	Other
+[转]SMO算法	ACM
+hdu3308LCIS(线段树区间合并）	ACM
+Codeforces Round #17	ACM
+[原]APUE学习笔记——标准I/O库	ACM
+[原]httpclient4 模拟新浪微	Other
+[原]HDU 4507 吉哥系列故事——	ACM
+[原]ZOJ 1854 Election	ACM
+[原]ZOJ 1838 Crypt Ki	ACM
+codeforces #174 E	ACM
+[原]soppYcell 1.0	Other
+[原]soppYcell 2.0	Other
+[原]HDU 4509 湫湫系列故事——	ACM
+HDU 4510 小Q系列故事——为什么	ACM
+hadoop资料	IT
+解决无法正常启动Oracle OEM控制	IT
+[原]EOJ 2855 贪吃蛇 [201	Other
+工厂方法Factory Methods	IT
+[原]BOJ 319 3230391&#	Other
+[转]简单聊聊加密、口令的问题——成为黑	Other
+[转]WPA破解原理简要——无线网络破解	ACM
+[转]无线网络加密方式研究	Other
+[原]for循环判断条件中尽量不写函数	IT
+poj2195Going Home(最小	ACM
+[原]多线程编程散记	IT
+[警告] 苹果apple id密码重置漏	Other
+中文文本特征提取的一些资料	IT
+HDU 4514 湫湫系列故事——设计风	ACM
+[原]2013腾讯编程马拉松初赛第一场（	IT
+[原]2013腾讯编程马拉松初赛第一场（	IT
+【转】《Visual C++ 2010入	IT
+[原]CF 213E Two Permu	Other
+[原]XMU 1308 单词联想 （双向	Other
+[原]windows eclipe C+	IT
+Ubuntu12.04下安装hadoop	IT
+[原]EOJ 2574 Principl	Other
+poj3422Kaka's Ma	ACM
+2013腾讯编程马拉松初赛第〇场	IT
+[转]A*B mod C的计算方法	IT
+【BZOJ P1984】月下毛景树	ACM
+latex中括号大小控制 [转]	Other
+[原]EOJ 2143 端午节快乐 [2	Other
+[原]EOJ 2610 工程 [2010	Other
+hdu 1848 Fibonacci a	ACM
+SG函数模板	Other
+hdu 4512 吉哥系列故事——完美队	ACM
+[原]EOJ 2573 Hub Conn	Other
+[原]EOJ 2572 Sort it…	Other
+[原]EOJ 2571 GCD and	Other
+[原]EOJ 2570 Primes P	Other
+[原]EOJ 2569 Capitali	Other
+[原]EOJ 2568 Sum of d	Other
+[原]EOJ 2857 编辑距离 [20	Other
+[原]EOJ 2856 仰望星空 [20	Other
+[原]2013腾讯编程马拉松初赛第一场（	IT
+[原]2013腾讯编程马拉松初赛第一场（	IT
+HDU 2197 本原串 (数学）	ACM
+mk802的wifi配置	IT
+[原]java 服务降级开关设计思路	IT
+[原]【web开发】spring+hib	Other
+[原]hdu 1864 最大报销额 0-	ACM
+[原]2的幂次方	Other
+[原]APUE学习笔记——第六章系统数据	IT
+HDU 4507 数位dp	ACM
+[原]EOJ 2575 Separate	Other
+hdu 4517 小小明系列故事——游戏	ACM
+Visualization of Cur	ACM
+ubuntu12.04 下的JavaEE	IT
+[原]CF 208E Blood Cou	Other
+POJ 3468 : A Simple	ACM
+HDU 1698 : Just a Ho	ACM
+[原]java学习路线和技术体系	IT
+POJ-2374 Fence Obsta	ACM
+用irrlicht做东西真艰难	Other
+test	Other
+[原]Jquery、 ajax和stru	IT
+[原]大牛代码	IT
+[原]APUE学习笔记——第七章 进程环	ACM
+[译] 为程序员写的Reed-Solom	Other
+[原]USACO Shaping Reg	Other
+自定义 DataList 显示数据行数的	IT
+[原]火星A+B	ACM
+【树分治】【BZOJ P1468】Tre	ACM
+OpenGL如何使用长宽非2次方的纹理	IT
+OpenGL使用位图纹理	IT
+OpenGL使用位图纹理	IT
+[原]二分	ACM
+[原]两次二分查找	ACM
+[转]路由器与猫的区别	IT
+[转]ADSL	Other
+[原]在iOS中使用静态库	IT
+安装配置fedora 18	IT
+HDU 吉哥系列故事——完美队形II	ACM
+[原]动态规划总结	Other
+伴随我成长的编程书	IT
+[原]APUE学习笔记——第八章 进程控	ACM
+[原]ZOJ 3324 Machine	ACM
+[原]ZOJ 3332 Strange	ACM
+[原]ZOJ 3331 Process	ACM
+[原]ZOJ 3623 Battle S	ACM
+[原]Is It A Tree?	ACM
+[原]陈博的完美主义	Other
+[原]最大堆最小堆（自定义类型）	Other
+Codeforces 266E : Mo	Other
+[原]POJ 2609 Ferry Lo	ACM
+[原]1004 大数	Other
+[原]1005	Other
+[原]1001	Other
+【BZOJ P1014】火星人 Pref	ACM
+[原]POJ 3211 Washing	ACM
+[原]POJ 1837 Balance	ACM
+[原]Is It A Tree?	ACM
+[原]数字反转(水）	ACM
+[原]用Word+EndNote+Mat	ACM
+我对谷歌的chromium和androi	IT
+【★更新★】高性能 Windows So	Other
+[原]Kerberos 1.9, Apa	Other
+[原]Manacher算法	ACM
+美帝使馆20分钟游	Other
+[转]Java实现Mysql的jdbc连	IT
+Codeforces Round #17	ACM
+[原]手机键盘	Other
+ubuntu下hadoop的重启后nam	IT
+[原]POJ 2373 Dividing	ACM
+Hadoop在linux上伪分布式单节点	IT
+The Company of Mysel	ACM
+[原]java web实现xp wind	IT
+[原]数组分割	Other
+[转]北大poj题目分类	ACM
+[原]欧拉回路	Other
+sql auto_increment	ACM
+[原]POJ 1312 Numerica	ACM
+[原]逆转一个整数的二进制表示	Other
+svn使用	IT
+[原]实习随感2013/3/25	IT
+[原]hdu4520 郑厂长系列故事——	ACM
+【Windows编程】对DUI的尝试	Other
+ACdream 完美数 数位DP	ACM
+[原]约瑟夫环链表实现	Other
+irrlicht引擎潜能挖掘：硬件蒙皮骨	IT
+七种排序算法的简单分析与实现	ACM
+[原]二叉排序树	Other
+[原]C++ 条件编译	IT
+百度电影推荐系统算法大赛新数据集的简单分	ACM
+[转]truncate 和 delete	IT
+[原]腾讯马拉松 第五场 第一题	ACM
+socket阻塞与非阻塞，同步与异步、I	IT
+[原]C#字符串处理	IT
+poj1252	ACM
+[转]ASP与ASP .net	IT
+在myeclipse中写的jsp程序用相	IT
+[原]腾讯编程马拉松初赛第五场 - 第一	IT
+一些疑问。。。	Other
+ACE网络编程之ACE_NEW_RETU	IT
+poj1570	ACM
+poj1578	ACM
+poj1577	ACM
+poj1409	ACM
+poj1651	ACM
+SRM 574 DIV 2	Other
+C++ 中string 的find与fi	IT
+[原]MD5加密算法C语言实现	Other
+[原]POJ 2951 Cake Cut	ACM
+[原]POJ 3003 Spiderma	ACM
+Visual+C+++6.0（支持win	IT
+[原]APUE学习笔记—— 信号实现系统	IT
+[原]APUE学习笔记——第十章 信号	ACM
+[原]hdu 4528小明系列故事——捉	ACM
+[原]博客搬家至[http://limy	IT
+python test	IT
+POJ-1160 Post Office	ACM
+POJ-2355 Railway tic	ACM
+poj1573	ACM
+poj1572	ACM
+[原]复试前练手...HDOJ - 33	ACM
+poj2386	ACM
+poj1562	ACM
+几个简单的数学题	Other
+poj1566	ACM
+poj1565	ACM
+poj1564	ACM
+poj1563	ACM
+Hadoop集群配置	IT
+[原]java价格处理的一个问题	IT
+Eclipse and My Ecli	ACM
+在C语言中设置浮点数的舍入模式	IT
+[转载]论对东西的崇拜	Other
+[转载]Lisp Machine 为何失	Other
+[原]CodeForces 268A G	Other
+[原]POJ 3308 Paratroo	ACM
+[原]POJ 1325 Machine	ACM
+[原]CodeForces 1B Spr	Other
+[原]CodeForces 266E M	Other
+123	Other
+【转】国家集训队论文分类	Other
+[转]把数据转换成XML格式的好处	IT
+[转]dynamic_web_proje	ACM
+[原]Could not load th	Other
+test for LaTex	IT
+B样条基函数——B-Spline Bas	ACM
+poj2028	ACM
+[原]博客搬家至[http://limy	IT
+[原]EOJ 2782 Welcome	Other
+[原]EOJ 2690 Soda Sur	Other
+[原]EOJ 2537 统计字符 [20	Other
+poj2029	ACM
+[转]推荐10款非常优秀的 HTML5	Other
+[转]C++的五种内存存储区	IT
+poj2030	ACM
+Blog回档	Other
+poj1455	ACM
+[原]剑指offer 调整数组的顺序使奇	Other
+[原]配置SVN过程中出现的问题	IT
+[原]《软件需求规格说明》中的数据元素组	IT
+[原]《软件需求规格说明》中的状态和方式	IT
+2013年03月27日	Other
+bzoj 1208 宠物收养所	ACM
+1057. Stack (30) (浙大	IT
+[原]ruby on rails做的一个	Other
+jquery中getelementbyi	IT
+关于raw_input()和sys.st	IT
+poj 2960 S-Nim(博奕)	ACM
+[原]Qt中通过设置位图掩码生成异形控件	IT
+Use Markdown in Word	ACM
+[原]mallet源码分析之决策树C4.	IT
+伟大又自私	Other
+趁热乎评价下锤子ROM	IT
+[译]使用autoLayout实现适配i	IT
+HDU 4507. 吉哥系列故事——恨7	ACM
+博客更换域名为blog.aikilis.	IT
+Dhaka 2012 Regional	Other
+[原]拼车	Other
+[原]httpclient	Other
+[转]点击<a>标签，禁止页	Other
+[原]艾勒里·奎因《希腊棺材之谜》读后感	Other
+[转]linux下动态链接库的创建和使用	IT
+[转]HTML5边玩边学	Other
+[转]html5指南--拖拽功能的实现	ACM
+[原]玩转十滴水	Other
+2013年03月28日	Other
+python weibo sdk	IT
+[原]POJ 1442 Black Bo	ACM
+移植QT到QNX	IT
+[转]线程退出pthread_exit(	ACM
+[原]APUE学习笔记——第十一章 线程	ACM
+hadoop 4-1源码	Other
+[原]Python学习笔记（一）	IT
+[原]ZOJ 1002 回溯	ACM
+大牛是如何炼成的！？	Other
+关于gcd的8题	ACM
+瞎扯	Other
+[原]accesslog或者cookie	Other
+poj 1704 Georgia and	ACM
+[原]USACO Stringsobit	Other
+java项目目录/发布/打包	IT
+[原]ZJU PAT 1010	ACM
+LomoX Browser -- chr	ACM
+HUD-1693 Eat the Tre	ACM
+关于左移右移的操作 学习	IT
+Java 中equals 与 == 的区	IT
+关于Node.js下的MongoDB阻塞	IT
+SPOJ 3273 Order stat	ACM
+[转]web service的基础教程	Other
+[转]熵，信息增益，信息增益率，Gini	Other
+从代码生成 Html 文本的工具	IT
+Linux系统下的文件和文件夹相关操作（	IT
+html 网页中 如何实现多选框或单选框	IT
+51nod 1182 : 完美字符串	Other
+51nod 1181 : 质数中的质数	IT
+[原]二叉搜索树转换为双向链表	Other
+收到实习通知	Other
+CRC循环冗余校验码的生成	Other
+[原]CyberFlashPlayer	Other
+[原]Python学习笔记（二）	IT
+【★更新★】发布本人所有博客文章中涉及的	Other
+[原]USACO Spinning Wh	Other
+[原]Lartin American 2	Other
+51nod 1179 : 最大的最大公约	ACM
+[原]Python学习笔记（四）	IT
+[原]Python学习笔记（三）	IT
+[原]POJ 2159 模拟	ACM
+[原]网络程序为什么要处理SIGPIPE	IT
+[原]Codeforces Beta R	Other
+[原]Codeforces Round	Other
+[原]hdu 4521 小明系列问题——	ACM
+[原]UESTC 1525 Fruit	Other
+[原]hdu 3950 Parking	ACM
+[转]SVG中Path路径之A	IT
+Python 面向对象编程（一）	IT
+丑数	Other
+在Eclipse上配置hadoop环境	IT
+[原]各路推荐算法	ACM
+[原]位操作练习	Other
+51nod 1040 : 最大公约数之和	IT
+[原]Mac 模态窗口关闭事件的处理	Other
+[原]大笨钟	Other
+[原]不使用加减乘除实现加法	IT
+[原]APUE学习笔记——第十二章 线程	ACM
+关于写Nagios邮件插件的感触	Other
+[原]POJ 2479 Maximum	ACM
+[原]Codeforces Beta R	Other
+[原]ZOJ 3299 Fall the	ACM
+[原]Python学习笔记（五）	IT
+shell 获得当前文件路径	IT
+[原]Apache运行Python的配置	IT
+[原]HDU 4534 郑厂长系列故事—	ACM
+HDU 4531 吉哥系列故事——乾	ACM
+HDU 4533	ACM
+Codeforces Round #17	ACM
+2013腾讯编程马拉松复赛第一场（3月2	IT
+BZOJ 1006: [HNOI2008	ACM
+[转]A* 搜索算法	ACM
+HDU 4530 小Q系列故事——大笨钟	ACM
+HDU 4505 小Q系列故事——电	ACM
+常量指针与指针常量的区别 [转]	IT
+[原]mac下安装gcc，homebre	IT
+POJ-2352 Stars 线段树	ACM
+[原]hdu 2896 病毒侵袭 --	ACM
+const在函数前与函数后的区别 [转]	IT
+[转]JS添加/绑定事件监听函数并传参数	IT
+[转]js 添加事件 attachEve	Other
+Fix Xcode "Code	ACM
+[原]杨氏矩阵中查找某个数	IT
+[转]QT框架中快速应用OpenCV	IT
+【Windows编程】Windows计时	Other
+使用vc内嵌浏览器	IT
+[转载]ubuntu下codeblock	IT
+[转载]ubuntu下codeblock	IT
+[原]hdu 4107 Gangster	ACM
+[原]hdu 4336 Card Col	ACM
+[原]hdu 2993 MAX Aver	ACM
+[原]POJ 1015 Jury Com	ACM
+[原]linux C编程向mysql里	IT
+[原]Codeforces Beta R	Other
+[原]hdu 3308LCIS 线段树	ACM
+[原]hdu 3874 Necklace	ACM
+[原]qobject_cast用法	ACM
+HDU 4536 XCOM Enemy	ACM
+HDU 4535 吉哥系列故事——礼尚	ACM
+[原]hdu 4536	ACM
+[原]错排公式	Other
+poj 1185 & hdu 4	ACM
+一个22岁程序员的辛酸之路	IT
+2013年四月計劃	Other
+POJ 3813 : Euclid	ACM
+hdu 2167 Pebbles（状态压	ACM
+[转]Winning the Netfl	Other
+POJ 3815 : The Ninja	ACM
+Word文档里超链接打不开，显示“可打开	Other
+帮朋友寻找一个后台开发	Other
+[转]Ubuntu下Nginx的安装及W	IT
+最短路径的变种与应用	IT
+修改论坛首页到极致简约	Other
+[转]在SVG中使用滤镜效果和输出文字	IT
+[原]html+css+js实现简易的x	ACM
+ubuntu下的google拼音输入法	IT
+[转]OpenGL 的渲染流水线	Other
+[原]mallet源码分析之baggin	IT
+[原]【javascript】使用pro	Other
+[原]【web开发】spring mvc	Other
+[原]APUE学习笔记——第十三章 守护	ACM
+毕业离校，新的开始	Other
+[转]CSS3 基础知识汇总1 基本功能	Other
+[Ubuntu] dpkg: error	Other
+[原]POJ 3164 Command	ACM
+HDU 4544 湫湫系列故事——消	ACM
+HDU 4541 Ten Googol	ACM
+HDU 4540 威威猫系列故事——打	ACM
+[原]腾讯马拉松复赛第三场,HDOJ-4	ACM
+POJ 1845 : Sumdiv	ACM
+[原]CF 220E Little El	Other
+POJ-1739 Tony's	ACM
+Ural 1519 Formula	ACM
+[原]POJ 2632	ACM
+[原]4月1号早会	Other
+[转]buntu 9.10 安装ngin	IT
+[原]hdu 2844 Coins -	ACM
+[原]编程之美4.3扩展问题(卡特兰数)	IT
+Blog宕机风波	Other
+[原]【SPOJ KQUERY】【HDU	ACM
+HDU 4534 郑厂长系列故事——新闻	ACM
+[原]POJ 2739 满足条件的连续素	ACM
+排列组合中关于捆绑法、插空法、插隔板法	IT
+[原]USACO Feed Ratios	Other
+[原]欧拉回路及哈密顿回路浅见（UVA1	Other
+【转两篇】yield 产生器 和 for	Other
+[原]POJ 3437 Tree Gra	ACM
+Java类内变量初始化的顺序	IT
+从函数近似角度看softmax	Other
+[二分+最大流]zoj 3691：flo	ACM
+愚人节的一些念想	IT
+[原]APUE学习笔记——第十四章 高级	ACM
+[原]Qt Creator中无法使用Op	IT
+裁剪图片	IT
+[DP]hdoj 4502：吉哥系列故事	ACM
+[原]编程之美4.7蚂蚁爬杆扩展问题附猎	IT
+LPTSTR转换为std::string	Other
+进程和程序的区别 - 分享一个故事	IT
+如何搭建个人独立博客	Other
+ZOJ-3399 Classes Div	ACM
+HDU 湫秋系列故事——安排座位 组和	ACM
+[转]用HTML5来开发一款Androi	Other
+Academic Ranking of	ACM
+C++与Java的访问权限修饰符	IT
+Computer Science Con	ACM
+[转]类中静态变量与const常量成员的	IT
+Oracle分页技术--rownum	ACM
+[转]HTTP Status 404(T	ACM
+[转载][贵圈真乱]绝对领域未经许可使用	Other
+巧用CSS文件愚人节恶搞	IT
+[原]USACO Magic Squar	Other
+[原]值得思考的一道题 2013腾讯编程	IT
+[原]寻找宝藏	Other
+杨辉三角	Other
+[原]编程之美3.11 二分查找常见问题	IT
+ZOJ1122 Clock	ACM
+HDU 1325 Is It A T	ACM
+POJ 1182 食物链(并查集）	ACM
+POJ 1611 The Suspect	ACM
+[原]Java 5和6的改进	IT
+[转]海量数据 处理方法	IT
+POJ 1703 Find them	ACM
+2013腾讯编程马拉松复赛第三场(3月3	IT
+关于身份证号的那些事	Other
+[原]非递归实现归并排序	Other
+[转]汇总java日期格式大小写简写	IT
+[原]APUE学习笔记——第十五章 进程	ACM
+HDU 1166 敌兵布阵	ACM
+[原]实现索引遇到的问题	Other
+SRM167 DIV1	Other
+LA 3942 Remember the	Other
+vc内嵌wmplayer播放器	IT
+“非计算机专业如何转行做程序员” - 我	Other
+Python正则表达式指南	IT
+poj1547	ACM
+POJ-3133 Manhattan W	ACM
+数据库——startup,startup	ACM
+[原]归并树 第K大值	ACM
+poj1552	ACM
+Python面向对象编程（二）	IT
+ZOJ-1977 Pandora adv	ACM
+HashTable (poj2785)	ACM
+[原]为什么这么难？	Other
+Sublime Text 使用简介	IT
+[转]拓展欧几里得	Other
+MinHeap without dele	Other
+[原]输出二叉树路径上的所有和为K的路径	IT
+【MyLife】温暖	Other
+[原]hdu 4015 Mario an	ACM
+[原]Python开发在线辞典	IT
+山寨STL	IT
+也许以后再也不能与你相见	IT
+[原]线段树模板（lazy标记）ZOJ	ACM
+[原]USACO Sweet Butte	Other
+[原]北邮12年网研 -二叉树的层数	Other
+HDU 4542 小明系列故事——未	ACM
+[原]妈妈说偶尔也要开始努力一下下了	Other
+poj 2230 Watchcow	ACM
+poj 2231 Moo Volume	ACM
+codeforces #1	ACM
+[原]类似约瑟夫环	Other
+[原]确定临界楼层	Other
+[原]检测毒药	Other
+[原]猴子吃坚果	Other
+[原]hdu 3422 Triangle	ACM
+2013考研初试复习经验（计算机统考）	IT
+[原]hdu 3421 Max Sum	ACM
+[原]主方法研究	IT
+MaxHeap (poj2388)	ACM
+[转]将无向无环连通图转换成深度最小的树	ACM
+Bernoulli_number前n个自	ACM
+[原]USACO Riding the	Other
+POJ 1984 Navigatio	ACM
+POJ 1988 Cube Stack	ACM
+POJ 2524 Ubiquitous	ACM
+POJ 2492 A Bug'	ACM
+POJ 2236 Wireless N	ACM
+POJ 1456 Supermark	ACM
+[原]找出直系亲属	Other
+The Tail at Scale(译)	ACM
+Codeforces Round #17	ACM
+irrlicht引擎：镜子效果	IT
+irrlicht引擎：真实的水面渲染	IT
+[原]hdu1828 Picture(扫	ACM
+[原]一点体会	Other
+[转]C语言中的typeof关键字	IT
+[转]c语言中的宏，#号##号，可变参数	IT
+踩方格 微软编程之美测试题 百练试题	IT
+POJ 1733 Parity g	ACM
+[原]再谈iOS GestureReco	Other
+[原]HDU1542 Atlantis（	ACM
+[原]XSI IPC——System V	ACM
+大端小端,ascii,unicode,u	Other
+保研了	Other
+HDU 3038 How Many A	ACM
+ZOJ 3261 Connection	ACM
+素数的特殊性	ACM
+POJ 2912 Rochambeau（	ACM
+[原]NSAttributedStrin	Other
+[原]相似图片搜索原理	Other
+Lomox_2013_04_05_Rel	ACM
+Asp.net 图片大小转换	IT
+无法打开登录所请求的数据库DbName	IT
+再论cin 与getline	IT
+让xp加载指定的内核版本--别以为xp加	ACM
+LAC: Demo Dictionary	Other
+[转]shell中if做比较	IT
+POJ 1417 True Liar	ACM
+HDU3364：高斯消元解异或方程组	ACM
+[原]认真审题很重要	Other
+[转]十个利用矩阵乘法解决的经典题目(F	ACM
+[原]矩阵乘法和二分求阶乘 解线性递推问	IT
+JSTL学习笔记	IT
+[原]记录	Other
+一个Java小程序，帮助理解Java继承	IT
+[原]POJ 2352 Stars	ACM
+时间真的好快	IT
+[原]编程之美	IT
+Handshaking<DP>	ACM
+[原]hdu 4214 Crash an	ACM
+[原]USACO Shopping Of	Other
+2012年度总结	Other
+[原]eclipse远程部署，静态文件实	IT
+Column Picture	ACM
+MYSQL使用笔记	IT
+2013年04月06日	Other
+[译]概率估计（极大似然估计、拉普拉斯平	Other
+postfix + courier-im	ACM
+[原]map的查找	Other
+[原]c++中的string分割	IT
+[原]mysql常用监控脚本命令列表	IT
+[原]Kerberos（1.9）Apac	Other
+Linux常用命令review	IT
+cygwin中文乱码配置	IT
+走在java的路上，就要做一个合格的程序	IT
+[原]新东方2013杨超长线基础高数90	Other
+HDU-1964 Pipes 插头DP	ACM
+[原]HDU 1559 最大子矩阵	ACM
+[原]HDU 1160 FatMouse	ACM
+[原]创建BMP图像	Other
+[原]POJ 3461 kmp	ACM
+[转]Win32中安全的子类化	IT
+[转]mciSendString用法	Other
+[原]PHP抓取页面	IT
+[原]PHP验证码的实现	IT
+[原]PHP开启PDO	IT
+郁闷的出纳员 平衡二叉树（SBT）	IT
+POJ-1026 Cipher 置换群	ACM
+[原]Restricted Boltzm	Other
+[原]深入研究之回音抑制算法（echo	ACM
+[原]Codeforces Round	Other
+DirectUI中模态对话框和菜单的原理	IT
+POJ-3270 Cow Sorting	ACM
+ACE网络编程笔记（1）：ACE自适配通	IT
+ACE网络编程笔记（1）：ACE自适配通	IT
+《重构》摘要	Other
+word03设置分级标题、生成目录	IT
+linux 前后台进程切换	IT
+[原]2013.4.8早会	IT
+[原]ip地址，子网掩码，网关，dns	Other
+【转】var_dump() 与 prin	ACM
+[原]poj 3468 A Simple	ACM
+Vs 2008 解决方案的目录结构设置和	IT
+[原]hdu 3065 病毒侵袭持续中	ACM
+[转]Spring3.0的Jar包详解	IT
+[原]php零散知识笔记	IT
+[原]Drupal零散知识笔记	IT
+【转】各大OJ题目分类	Other
+[原]linux用互斥量进行同步	IT
+[原]linux用信号量进行同步	IT
+100个著名初等数学问题[转载]	Other
+POJ-1286 Necklace of	ACM
+.hpp与.h的区别（转载）	IT
+[原]关于Android Handler	IT
+[原]jsp乱码问题的解决	Other
+[原]Cavy框架	Other
+[转]在CHtmlView中判断页面加载	IT
+[转]ubuntu12.10：通过锐捷认	IT
+[原]POJ 1870 Bee Bree	ACM
+[原]POJ 1436 Horizont	ACM
+宠物收养所 SBT模板题	ACM
+[原]抽象数据类型Triplet的表示和	IT
+POJ-1707 Sum of powe	ACM
+[转载]谈“测试驱动的开发”	Other
+[原]chrome 新浪微博分享插件	Other
+POJ-1674 Sorting by	ACM
+从一道面试题来阐释一个普遍的认知误区	Other
+SRM 575 DIV2	Other
+C++中结构体的大小与内存对齐	IT
+ACE网络编程笔记（2）：IPC SAP	IT
+URAL1297：后缀数组、最长回文子串	IT
+[原]线性表的顺序表示和实现	IT
+poj1554	ACM
+[原]插入排序	Other
+[原]选择排序	Other
+poj1581	ACM
+poj2871	ACM
+[原]hdu	ACM
+移植Linux的外围设备驱动到QNX系统	IT
+BZOJ 1047: [HAOI2007	ACM
+[原]Surounded Regions	Other
+[原]日志	Other
+[原]管道 子进程	Other
+[转]Android 异步加载图片(As	IT
+SGU 321 : The Spy Ne	Other
+[原]hdu 2577 How to T	ACM
+[原]hdu 2395 Alarm Cl	ACM
+[转]智能聊天机器人小黄鸡及其制作方法	Other
+[转]【html/css】CSS中去掉l	IT
+[原]Mysql----浅入浅出之查询	ACM
+支离破碎	Other
+[转]【html/css】如何设置HTM	IT
+[原]求二进制数中1的个数	Other
+[原]中国象棋将帅问题	Other
+[原]希尔排序	Other
+[原]HDU4419 Colourful	ACM
+密码保护：我爱你，仅此而已	IT
+HDU-4003 Find Metal	ACM
+[原]Palindrome Partit	Other
+复习linux进程和线程	IT
+POJ-3070 Fibonacci 矩	ACM
+Fzu 2119 祖先问题 line-c	Other
+NJUPT1362 汽车加油行驶问题	Other
+POJ-1699 Best Sequen	ACM
+[原]通过小练习掌握MFC知识点之起步篇	IT
+[原]POJ 1632 Vase col	ACM
+[原]POJ 1687 Buggy Sa	ACM
+[原]maven eclipse web	Other
+[原]UICollectionView	Other
+[原]MFC分割字符串	Other
+[原]Sum Root to Leaf	Other
+linux下清除^M特殊符号	IT
+[原]Kerberos 工作原理	Other
+给年轻程序员的建议	IT
+POJ 3225 Help with	ACM
+POJ-3974 Palindrome	ACM
+HUD-4513 吉哥系列故事——完美队	ACM
+HDU-3068 最长回文 Manach	ACM
+Manacher算法--O（n）回文子串	ACM
+shellcode之简单的栈溢出实验	IT
+[原]通过小练习掌握MFC知识点之起步篇	IT
+[原]ubuntu12.10更新包后的问	IT
+[原]HDOJ 1540 Tunnel	ACM
+[原]Longest Consecuti	Other
+C/C++输入输出八进制，十六进制的方式	IT
+POJ 1177 Picture （	ACM
+一路风雨走过来：那些我亲密接触过的项目	IT
+irrlicht引擎：为什么我会想着捣鼓	IT
+irrlicht引擎:Bloom效果	Other
+Codeforces Round #17	ACM
+CentOS 6.4 安装配置 LAMP	IT
+[原]原地归并排序	Other
+[原]交换	Other
+[原]MFC文件类CStdioFile读	IT
+[原]USACO Camelot 解题报	Other
+[原]关于Serializable的se	Other
+[原]Mysql----浅入浅出之JDB	ACM
+[原]HDOJ 4529 - N骑士问题	Other
+HDU 3642 Get The Tr	ACM
+[转]由Spring管理的Struts2	Other
+[原]LA 3211 Now or la	Other
+[原]UVa 11235 Frequen	Other
+[原]LA 3027 Corporati	Other
+[原]LA 4329 Ping pong	Other
+[原]LA 3942 Remember	Other
+ICE 连接 参数 说明	IT
+[长姿势了]android:paddin	Other
+vim代码收起/展开和命令	IT
+[原]VS2010为新添加的对话框添加O	Other
+BZOJ 1055: [HAOI2008	ACM
+[原]HDOJ - 4559 排兵布阵	ACM
+明天的下载链接	IT
+BZOJ 1050 1050 [HAOI	ACM
+[原]hdu 3265 Posters	ACM
+[原]三向切分快排	Other
+[原]快排算法	ACM
+Codeforces Round #17	ACM
+[原]效率和羞耻应该是程序员的特性	IT
+Gentoo udev upgrade	Other
+[原]Palindrome Partit	Other
+[原]Merge Sorted Arra	Other
+poj 2236 Wireless Ne	ACM
+poj 2240 Arbitrage	ACM
+[原]LightOj 1111 - Be	ACM
+Seed Engine中的输入系统（一）	IT
+Codeforces Round #17	ACM
+[原]Codeforces Round	Other
+[原]网络基础笔记	IT
+[原]二叉查找数	Other
+[原]POJ - 1185 跑兵阵地	ACM
+[原]hdu 2578 Dating w	ACM
+[转]MFC实现程序开机自启动	IT
+[原]horner法则求字符串散列值	Other
+MVC框架学习	IT
+HDU 1074 Doing Home	ACM
+[原]USACO A Game 解题报告	ACM
+[原]USACO Home on the	Other
+[原]HDOJ 4529 - N骑士问题	Other
+[转]关于java的编译与执行	IT
+ACE前摄器Proactor最好的讲解（	Other
+[原]c# 连连看	IT
+[原]Valid Palindrome	Other
+[原]Word Ladder	Other
+[原]湖南工业大学个人选拔赛第一场 解题	Other
+POJ-2891 Strange Way	ACM
+模线性方程组	Other
+[原]设计模式零散知识笔记	IT
+[原]数据挖掘所需的微积分的一些基本概念	Other
+[原]hdu Dating with g	ACM
+[原]百度笔试题合并a[0..mid]和	Other
+做一个有理想的程序员	Other
+[原]hdu 2576 Another	ACM
+[原]Two Sum	Other
+【转载】出租司机给我上的MBA课（转载）	Other
+Visual Studio 2010 中	IT
+[原]深度搜索	Other
+erlang和RabbitMQ学习总结	IT
+逃离天朝计划	ACM
+Single Round Match 5	ACM
+[原]K-D树 C++实现	IT
+perl module ExtUtils	IT
+安装mysql	IT
+subclipse	Other
+[原]浙大2013年机试题解（pat 1	Other
+可配置语法分析器开发纪事（六）——构造一	ACM

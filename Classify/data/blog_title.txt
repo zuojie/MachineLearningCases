@@ -1,0 +1,5000 @@
+2012 Multi-University Training Contest 4
+[原]poj 1325 Machine Schedule--最小点覆盖
+Programming Pearls笔记之〇
+[原]设计模式学习笔记之单一责任模式
+[转]托勒密定理 圆的内接四边形
+【转】数学题目
+[原]小M的回文串
+[转]c语言  对排两个答案文件
+poj 2676 Sudoku(深搜)
+[原]设计模式学习笔记之策略模式
+iPhone应用程序 将图片保存到相册实例
+[原]线索二叉树
+C\C++  extern 关键字
+[原]求几个数的组合数   容斥原理
+[原]三分法（Ternary Search）求解凸（凹）函数的极值问题&lt;方法篇&gt;
+Linux下命令 du 统计目录(或文件)所占磁盘空间的大小
+[原]对于CSDN博客文章不能爬取的问题
+[原]调bug就像修路
+2012年7月感想
+[原]poj 3164 Command Network#有向最小树形图
+hdu 4339  Query  树状数组+二分
+POJ 1729 Hidden Password
+POJ 1509 Glass Beads
+基本数据结构：树（tree）
+[转]10种技巧可提升Android应用运行效果
+欧拉函数模板
+[转]快速判断一个数能否被1、2、3、4、5、6、7、8、9、10、11、12、13、17、19、23等整除的规律总结
+POJ 1007 DNA Sorting
+欧拉函数: 欧拉定理：费马小定理
+hdu 4334 Trouble hash
+【Ural】1701 Ostap and Partners  [并查集]
+【Ural】1037 Memory Management  [单点 模拟内存]
+[原]图的BFS - HDU 1241/HDU 2612/POJ 3984
+[原]poj 1175 starry night#BFS#模拟
+[转]命令，不要去询问(Tell, Don’t Ask)”原则
+SPOJ 10628. Count on a tree
+SPOJ 2798. Query on a tree again!
+hdu4334 Trouble
+【套题】QTREE 系列
+HDOJ 1800 Flying to the Mars hash
+HDOJ  1496 Equations  hash
+[原]多多看DVD（加强版）（多维DP）
+[原]HDU4331 Image Recognition
+[原][深搜+剪枝] POJ - 1011 Sticks
+[原]随机数，自己老忘
+Java编程中“为了性能”尽量要做到的一些地方
+[原]找啊找啊找GF （多维动态规划）
+[原]HDU4337 King Arthur&#39;s Knights
+hdu 1425 sort
+[原]hdu 4339 query#线段树
+[原]hdu 4337 King Arthur&#39;s Knights#DFS
+[原]linux tcpdump的使用详解
+三道简单树型dp+01背包～～hdu1561，poj1947，zoj3626
+[原]HDU4339 Query
+ZOJ 3613 Wormhole Transport
+iOS使用照片選取器(UIImagePickerControllerDelegate)後儲存至資料庫、圖片壓縮
+[原]HDU4336 Card Collector
+poj 3463 Sightseeing（dijkstra 二维）
+[原]HDU4334 Trouble
+[转]VC中标签控件CTabCtrl的使用
+[原]设计模式之--Bridge,Command,State,Mediator,Facade
+[原]设计模式之--责任链模式
+[原]设计模式之--动态代理
+基本数据结构：队列（queue）
+[原]HDU  3547  DIY Cube  Ploya定理
+hdu 4337 King Arthur’s Knights dfs
+[原][编辑长度/字符串dp] HDOJ - 4323 Magic Number
+POJ 2388 Who&amp;#39;s in the Middle
+POJ 2299 Ultra-QuickSort
+[原]划分树
+POJ 3764 The xor-longest Path
+POJ 3630 Phone List
+单元测试的mock技术
+[原]POJ  2154   Color  Ploya定理
+排序大聚会（快速，堆，归并，希尔，计数，基数，插入，冒泡）
+C++ virtual 虚函数
+[转]搜索题
+[原]Ibatis分页查询你不知道的秘密
+[原]如何改变MyEclipse工作区的背景色
+[转]网站颜色搭配
+hdu 2112赤裸裸的最短路
+[原]POJ_3071 Football  概率dp
+HDU 4085 Peach Blossom Spring
+SPOJ 4556 Think I will Buy Me a Football Team
+[原]观察者模式
+POJ 1056 IMMEDIATE DECODABILITY
+Programming Contest用語日英中対照　２．５／４
+9种哈希算法代码
+SPOJ 2939. Query on a tree V
+[转]TCP连接:SYN ACK RST UTG PSH FIN
+[转]android下判断一个应用app是否是系统rom集成的方法
+[原]从摄像头获得图像的坐标原点是在左下角(OpenCV中IplImage结构中的origin成员)
+POJ 2513 Colored Sticks
+[转]Python list、tuple、dict区别
+[原]HDU  3923  Ploya定理
+hdu 2184模拟
+noi2012 迷失游乐园
+[转]python 之字典排序
+[原]设计模式学习笔记之抽象工厂设计模式
+HDU4328
+[原]hdu3658 How many words
+Minimum Inversion Number 1394(线段树法)
+HDU 4082 Hou Yi&amp;#39;s secret
+[原]设计模式学习笔记之简单工厂模式
+hdu 4324 Triangle LOVE &amp;lt;拓扑排序&amp;gt;
+hdu 4324
+[转]android 入门xml布局文件
+[原]如何获得汉字拼音的首字母序列
+SPOJ 2666. Query on a tree IV
+[原]旋转门算法的简单实现
+博客搬家
+http://hi.baidu.com/patriking
+[原]poj 3761 bubble sort#排列组合
+hdu 2175水题
+hdu 3746KMP的应用
+hdu 4300KMP
+[转]解决RPM包依赖的几种方法
+[转]RPM包rpmbuild SPEC文件深度说明
+c和c++一些细节优化的地方
+2012 Multi-University Training Contest 3
+[原]TCP三次握手
+关于python的执行过程
+[原][线段树+离散化+单点查询] HDOJ - 4325 Flowers
+[原]jquery preventDefault()将会阻止默认方法的执行
+[原]netfilter应用场景
+[原]jquery 显示鼠标坐标
+[Solution] NOI 2012
+[原]poj 1269 Intersecting Lines(判断直线相交 求交点)
+HDU 3584 Cube
+[转]wireshark 实用过滤表达式（针对ip、协议、端口、长度和内容）
+hdu1059 Dividing （多重背包） 经典
+[原]POJ  1286  Necklace of Beads  Ploya定理
+取石子问题（转）
+【解题报告】POJ 2941 Homogeneous Squares（转）
+【招数】用next_permutation和prev_permutation函数的使用
+Flood Fill种子染色法
+【解题报告】POJ 3356 AGTC(先挂着）
+【解题报告】POJ 2192 Zipper(先挂着）
+【解题报告】POJ 1159 Palindrome
+【解题报告】POJ 1080 Human Gene Functions
+【解题报告】POJ 2250 Compromise
+【解题报告】POJ 1463 Strategic game
+【解题报告】POJ 1862 Stripies
+【解题报告】POJ 3661 Running
+【解题报告】POJ 1401 Factorial
+Power up C++ with the Standard Template Library: Part I(2)
+Power up C++ with the Standard Template Library: Part I(1)
+集训一个星期了
+Using Tries
+C++ STL轻松导学(2.3-2.4)
+C++ STL轻松导学(2.1-2.2)
+C++ STL轻松导学(1.4)
+C++ STL轻松导学(1.2)
+C++ STL轻松导学(1.3)
+C++ STL轻松导学(1.1)
+巴菲特的一次演讲（4）
+巴菲特的一次演讲（3）
+巴菲特的一次演讲（2）
+树状数组（大牛写的）
+poj 1011
+poj 1050
+[原]POJ  2409  Polya定理
+noip 2010 PJ 解题报告
+这空间干什么的。
+【声明】我是大SB
+[笔记]极大极小过程的alpha-beta剪枝不可与记忆化搜索一起使用
+乡关何处
+[原]hdu 4324 Triangle LOVE 拓扑排序 多校联合赛（三）第四题
+[原]hdu 4320 Arcane Numbers 1 多校联合赛（三）第一题
+FRM-92050 问题
+[原]poj 3304 Segments(判断直线与线段相交)
+[原]POJ 3498 拆点 最大流
+[原]HDU4330 DUIDUI Bang
+[原]hdu 4325 Flowers 离散化+线段树   多校联合赛（三） 第六题
+[原]jquery error
+[原]jquery  live和die
+[原]快乐大脚
+[zz]稳定婚姻问题 —— 我要我们在一起
+[原]jquery delegate() 方法为指定的元素（属于被选元素的子元素）添加一个或多个事件处理程序，并规定当这些事件发生时运行的函数
+[原]jquery blur 函数 当输入域失去焦点 (blur) 时改变其颜色
+[原]设计模式学习笔记之迭代器模式
+POJ 1521 Entropy
+POJ 2752 Seek the Name, Seek the Fame
+[原]jquery 实现各行换颜色
+基本数据结构：栈（stack）
+[原]jquery append追加，preppend预置
+[原]POJ 2482 Stars in Your Window（扫描线）
+[原]jquery html改变div当中的内容
+[原]sgu 242 Student&#39;s Morning--最大流
+[原]jquery  callback函数（当函数执行完成的时候执行callback函数）
+POJ 2406 Power Strings
+[原]【ACM】2012 Multi-University Training Contest 3 AC代码总结
+[原]jquery animate实现动画效果
+[原]jquery fadeTo实现图像淡入效果
+[原]zoj 3627#模拟#枚举
+[原]jquery  slideToggle实现滑动
+[原]HDU4326 Game
+[转]获取android手机信息
+[原]poj1364-还是建模
+poj 1990
+poj 1195 Mobile phones
+poj 2019 Cornfields
+hdu 4217 (用树状数组来求第k小的元素)
+[原]设计模式学习笔记之组合模式
+帮忙发个招聘 【实习招聘】百度_商务搜索部_实习产品设计师
+[原]sgu 176 Flow construction--有源汇 有上下界 最小流
+字符串编辑距离（转载）
+pku 2492 A Bug&amp;#39;s Life (并查集应用)
+[原]HDU - 4324 Triangle LOVE
+poj 2155
+[原]艾诺迪亚#八门神器
+[原]POJ 3469 最小割 最大流
+[原]codeforces 183 B Zoo--计算几何+枚举
+[原]cloud foundry 默认文件路径列表
+[转]30种编程语言的比较选择问题
+划分树
+[原]二叉树的几种操作
+[原]POJ 2007 计算几何水题
+[原]poj 3368 Frequent values#线段树
+[原]HDU - 4320 Arcane Numbers 1
+HDU 1823 Luck and Love
+[原]POJ 2624 简单计算几何
+[原]Objective-C新特性
+传送门
+hdu 3342 Legal or Not &amp;lt;拓扑排序&amp;gt;
+[原]Navicat for MySQL 8 中文版注册码
+cf 191A – Dynasty Puzzles
+[原]hdu 4328 cut the cake#单调队列#DP
+hdu1285确定比赛名次&amp;lt;拓扑排序&amp;gt;
+[原]2012 Multi-University Training Contest 3[hdu4320~4330]
+[原]Access数据表转化成mysql数据表
+[原]一些偏的数据结构整理【整理+复习】
+poj 2065SETI &amp;lt;高斯消元&amp;gt;
+Java JFace之TreeViewer
+hdu 1541 Stars 树状数组
+[原]CodeForces 180E Cubes--后续指针--当前个数
+组合框的风格极其功能
+MFC获取文本框长度的方法
+zoj 3623 Battle Ships(动态规划)
+[原]线段树 矩形并周长 picture
+hdu1025 Constructing Roads In JGShining&amp;#39;s Kingdom（最长上升子序列 + 二分处理）
+hdu1055 Color a Tree（贪心）
+[原]GCD初探小结
+MFC编程过程中备选函数不自动显示解决方案
+[原]灵活而神奇的 伸展树！
+MFC把int型数据转化为CString型数据方法
+线段树+离散化
+Watashi&amp;#39;s BG(搜索)
+POJ 3461 Oulipo
+常规文件操作
+[原]Target of Augest
+程序员领导的, 以测试联盟为基础的世界第四次大战(1)
+树状数组(转）
+Trie树|字典树的简介及实现（转）
+poj3304解题报告
+poj2653解题报告
+人类无法抗拒的10种心理
+又见飘雪有感
+poj1915解题报告
+三个背包问题
+(ZZ)【爆笑】句经典流行俏皮语
+哈夫曼树
+poj 2192 soj 1978  Zipper
+poj 1276 Cash Machine  多重背包
+poj 2738 Two Ends
+二阶小魔方。。。欢迎下载传播
+poj 2308 连连看 WA了一晚上。。。还是没A
+poj 1176 分析状态然后
+poj 1186 二分查找时用stl的lower_bound函数
+poj 1186 方程解的个数 分解为两个dfs+二分查找
+poj 1078 game 很水的bfs
+(IOCP)完成端口使用的问题总结
+[转]如何优雅地关闭一个socket(WINDOWS)
+Ubuntu的安装问题
+Google C++ 风格指南 小结
+TCP 粘包问题的解决
+TCP带外数据
+世界坐标系到屏幕坐标系的转换
+点积 和 叉积的几何意义 以及点积的另一种几何意义
+详述世界坐标系到视图坐标系(摄像机坐标系)的矩阵变换
+会改变地址的类型转换
+数学类题目小结 （原创）
+zoj 2083 win the game
+zoj 1039 状态压缩+博弈
+Calc C(N,M)%MOD
+poj 1011
+poj 1849 树形dp
+Lucas定理求解组合数求模
+【组合数求模】
+poj 2286 IDA*
+poj2054&amp;&amp;hdu1055 并查集与堆
+如何自定义autoproxy代理规则
+让ubuntu 不自动显示盘符
+warning C4251 needs to have dll-interface解决办法
+win7中库不能使用的解决方法
+dumpbin使用时mspdb100.dll找不到的问题
+eclipse导入已存在的项目
+Dependency Injection
+POJ 1201-差分约束的一点思考
+厦门大学OJ
+POJ 3694
+[原]来迟
+[原]PKU 3320 Jessica&#39;s Reading Problem
+[原]PKU 2774 Long Long Message
+[原]PKU 3436 ACM Computer Factory
+[原]PKU 1947 Rebuilding Roads
+[原]PKU 3111 K Best
+[原]PKU 3700 Missile Defence System
+[原]PKU 3159 Candies
+[原]PKU 1873 The Fortified Forest
+[原]PKU 2564 Edit Step Ladders
+[原]PKU 3702 Chessman
+[原]PKU 1152 An Easy Problem!
+[原]PKU 1325 Machine Schedule
+[原]PKU 2352 Stars
+[原]hdu 2008 数值统计
+[原]hdu 2009 求数列的和
+[原]hdu 2010 水仙花数
+[原]hdu 2011 多项式求和
+[原]hdu 2012 素数判定
+[原]hdu 2013 蟠桃记
+[原]hdu 2014 青年歌手大奖赛_评委会打分
+[原]hdu 2015 偶数求和
+[原]hdu 2016 数据的交换输出
+[原]hdu 2017 字符串统计
+[原]hdu 2018 母牛的故事
+[原]hdu 2019 排列有序
+[原]hdu 2020 绝对值有序
+[原]hdu 2021 发工资咯
+[原]hdu 2022 海选女主角
+[原]hdu 2023 求平均成绩
+[原]hdu 2024 C语言合法标识符
+[原]hdu 2025 查找最大元素
+[原]hdu 2026 首字母变大写
+[原]hdu 2027 统计元音
+[原]hdu 1050 moving tables
+[原]hdu 1028 Ignatius and the Princess III
+[原]hdu 1211 RSA
+[原]hdu 1233 还是畅通工程
+[原]hdu 1146 Ferry loadingIII
+[转]poj1067/hdoj1527  取石子游戏
+[原]hdu1465 不容易系列一
+[原]hdu 1494 跑跑卡丁车
+[原]hdu 1385 Minimum Transport Cost
+[原]2010acm/icpc杭州赛网络赛1001
+[原]fzu 1979 福州网络赛I题
+[原]6TH HUNAN COLIGIANTE PROGRAMING CONTEST -- PROBLEM D
+[转]计算机网络知识体系
+[原]hdu 1501 Zipper
+[原]hdu 4001 (2011ACM/ICPC大连网络赛)
+[原]hdu 4002
+[原]hdu 3741 Ferry Loading V
+[原]严蔚敏-- 顺序栈的代码实现
+[原]emacs 使用sudo
+[转]Emacs定制与扩展
+[转]动态口令身份认证技术的应用与发展
+[转]负载均衡策略深入剖析
+[原]快速排序
+[原]c/c++程序员面试指南
+[原]Qt TreeView 添加滚动条
+[原]QtableWidget常用属性设置
+[原]QMessageBox 用法详解
+[原]c++ 位运算 技巧
+[原]qt 移动无边框的窗体
+[原]Qt MD5加密算法
+[转]【转载】北大acm 题目分类
+[原]POJ 1001解题报告
+[原]发一句牢骚
+[原]usaco problem76:mixing milk解题报告
+[原]POJ 1002解题报告
+[原]POJ 1006解题报告
+[原]POJ 1007解题报告
+[原]POJ 1008解题报告
+[转]MySQL数据库备份和还原的常用命令【转】
+[转]平面最近点对 转载
+[转]求Fibonacci数的几种方法[转载]
+[原]POJ 1009不算解题报告的解题报告
+[原]pdf文件中的汉字无法显示（问题解决）
+[转]求数组中最长递增子序列
+[原]Fast bit count问题（即计算一个unsigned int的二进制表达中1的数目）
+[原]effective C++学习笔记
+[转][转载]完美解决drupal6上传中文文件名附件乱码问题
+[原]beautiful sites
+[原]Hulu笔试编程题--大整数加法
+[原]链表中是否有环及环的起点 cycle detect 及确定环的长度
+BZOJ 1095. [ZJOI2007]Hide 捉迷藏
+[原]LightOJ 1042 - Secret Origins
+[原]zoj 1027 Human Gene Functions
+[原]zoj 1526 Big Number
+[原]zoj 1951 Goldbach&#39;s Conjecture
+[原]zoj 2520 Amicable Pairs
+[原]zoj 2954 Hanoi Tower
+[原]zoj 1792 Gap Punishment Aligment Problem
+[原]zoj 2882 Nested Dolls
+[原]zoj 2412 Farm Irrigation
+[原]zoj 1711 Sum It Up
+[原]zoj 2416 Open the Lock
+[原]zoj 1091 Knight Moves
+[原]zoj 2050 Flip Game
+[原]zoj 1649 Rescue
+[原]zoj 2081 Mission Impossible
+[原]zoj 1310 Robot
+[转]寻找OEP的几种常用方法
+[转]如何对抗硬件断点之一 --- 调试寄存器
+[原]汇编笔记3
+[原]配置lxr
+[转]C++成员函数指针的应用（转）
+[原]收藏的题目
+[转]相似数据检测算法
+[转]微软等公司数据结构+算法面试100题系列
+[转]一道智商测试题
+[转]Linux scalability
+[原]c libcurl usage in multi-thread application summary
+[转]Linear hash table paper reference for read
+[转]How do I Find Out Linux CPU Utilization on linux
+[转]A few notes on InnoDB PRIMARY KEY
+[转]程序员编程艺术
+[原]Non-reentrant functions
+[转]如何迅速秒杀掉：99%的海量数据处理
+[转]Linux memory management overview
+[转]Posix_Linux_Threading
+[转]Exception safe coding
+[转]Threading Issues
+[转]Data alignment
+[原]A note: OpenStack
+[转]Linux 3.5
+mark
+shell里的文本怎么换颜色
+列表控件 listctrl
+vc获得系统时间的方法；
+Java Heap Dump
+error C2146: 语法错误 : 缺少“;”(在标识符“PVOID64”的前面)
+内部函数、外部函数
+引用的使用
+幅度调整通信系统simulink仿真
+画PCB时对电容的考虑
+自动控制算法的学习笔记 （PID控制）待续
+PID控制算法
+用单片机做FFT~
+基2快速傅里叶变换FFT的C语言实现
+DSP 汇编与c混合编程
+hdu 1504蛋疼的模拟
+[原]poj1607
+[原]poj2304
+[原]poj2403第一次用指针写程序
+[原]poj2453
+[原]poj3176
+[原]poj1008
+[原]poj1032
+[原]poj3672
+[原]poj比赛题1006
+[原]poj2388
+[原]poj3256
+[原]poj2533
+[原]poj1022
+[原]poj2386
+[原]1004
+[原]1020
+[原]1001
+[原]poj3250
+[原]poj1862
+[原]lambda表达式的一个简单示例
+sgu 109
+sgu 105
+sgu 104
+sgu 103
+sgu101
+poj 2892
+RQNOJ 99
+RQNOJ 85
+Usaco 5.3 Milk Measuring
+Usaco 5.2 Electric Fences
+UVa 414 Machined Surfaces 490 Rotating Sentences 488- Triangle Wave 445 - Marvelous Mazes
+10300 - Ecological Premium
+AOJ Lake Counting
+在Uva上做的第一题  100 - The 3n + 1 problem
+hdu 1050 Moving Tables
+八皇后问题
+hdu 2059 龟兔赛跑
+迷宫  回溯
+hdu 2084 数塔
+动态规划之最长之序列
+栈的链式实现
+hdu 2049考新郎
+hdu 2048 神、上帝以及老天爷
+[原]MyEclipse &quot;Some code changes cannot be hot swapped into a running virtual machine&quot;
+hdu Arcane Numbers 1 (某进制小数能否转换成另一进制)
+[原]HDU4327 Shooting
+做一个优秀的男人
+凸包算法中qsort里cmp的错误
+暑假到来前的学习计划
+zju1410——number sequence
+zju1453_凸包
+浮躁
+订个目标吧
+大牛们对于新手的建议
+李阳谈如何征服英语
+（DP）zju1234——chopsticks
+[原]搭建VS2005 Wince开发环境
+[原][Wince]对话框全屏显示
+[转]GetLastError()返回值的意义
+[原]Linux下安装与配置Apache
+[原]QT中设置窗口的图标
+[原]QT设置程序的桌面图标
+[原]QT编写Windows开机启动程序
+[原]Windows多显示器编程--VC
+[原]android端设置adb connect
+[原]装Win7后Ubuntu11.10不能启动处理方法
+[原]QT 操作Sqlite数据库
+[原]vim配置
+[原]QT Socket编程--UDP Server
+[原]QT Socket编程--TCP Server
+更改blog地址为blog.csdn.net/weiren2006
+获取主机名和IP地址
+map的使用
+matlab的几个插值函数
+pku1218
+pku2696
+pku2608
+pku1579
+pku2140
+pku2196
+pku2105
+pku2656
+pku2470
+pku2403
+pku3219
+pku2242
+pku2027
+pku2017
+pku1731
+pku1844
+hdu 1210
+hdu 1200
+hdu 1108
+hdu 1076
+hdu 1048
+hdu 1040
+hdu 1032
+hdu 1012
+hdu 1008
+hdu 1002
+hdu 1001
+hdu 1000
+ACM简介
+ZJU 1016 Parencodings
+ZJU 1161 Gone Fishing
+ZJU 2401 Zipper
+ZJU 2388 Beat the Spread!
+ZJU 2345 Gold Coins
+zju 2966 Build The Electric System
+ZJU 2417 Lowest Bit
+ZJU 2330 A^B == B^A?
+ZJU 2376 Ants
+ZJU 2256 Mincost
+ZJU 1078 Palindrom Numbers
+ZJU 1622 Switch
+ZJU 1292 Integer Inquiry
+ZJU 1797 Least Common Multiple
+ZJU 2416 Open the Lock
+ZJU 2482 IP Address
+ZJU 2480 Simplest Task in Windows
+ZJU 1884 WERTYU
+ZJU 1871 Steps
+final、finally和finalize的区别
+单态之饿汉，懒汉
+Java 多线程入门大全(适用于有一定基础者)
+SQL各个子句: outer join,on,where,group by,ha
+union，union all，join
+设计模式之Singleton(单态)
+深搜之简单排序
+SQL之纵表转横表问题
+深入DB2索引
+删除表中重复数据模板
+向表中插入原表已有数据（复制插入）模版
+Kill the monster HDU2616
+HDU 1130 How Many Trees?
+Rescue HDU1242 广搜
+Asteroids! hdu1240
+FatMouse and Cheese hdu1078 搜索
+Fast Food HDU1227 DP
+Fourier&#39;s Lines HDU Dp
+hdu1480  钥匙计数之二
+钥匙计数之一 hdu1438
+分享一些在软件开发中的实用小工具
+ORA-00911: 无效字符(用jdbc执行sql是不要加分号)
+win XP使用小技巧
+一个女程序员twitter上发了一条tweet。。。
+CentOS下安装Oracle Express
+Linux下VIM高亮语法的设置
+Javaeye论坛规则小测验答案
+【分享软件】分享一个老版本的暴风影音
+【E-Book】Beginning Linux Programming 4th Edition
+pku3169Layout(spfa)
+pku3159Candies(spfa差分约束)
+zju1221Risk(Flody)
+备份vimrc
+退役了
+解决Fedora Rhythmbox中文显示乱码的问题
+pku 2286
+pku 1077 IDA*版
+uva 11626
+uva 11624
+pku 2987
+pku 2289
+topcoder变绿了
+pku 1815
+对待编程
+国庆
+POJ3592 回来后做的第一题
+SAP 模板  PKU 3469
+HDU 3488 KM模板
+最小费用最大流模板
+哈尔滨四个男人的青春故事
+POJ 1637 Sightseeing tour
+Packing Rectangles
+Broken Necklace
+POJ 1087 A Plug for UNIX
+pku 3013
+某次队内赛题(LCIS)
+HDU 1561 The more, The Better
+HDU 2196 Computer
+HDU 1503 Advanced Fruits
+一个软件项目研发的设计流程
+pku 3067 Japan
+(转)[hdu]1394 Minimum Inversion Number -- 暴力求逆序、树状数组求逆序、线段树求逆序、归并排序求逆序
+hdu 2461 容斥原理,计算矩形面积并
+poj 1062 昂贵的聘礼
+poj 1012 Joseph
+poj 3277 City Horizon
+poj 2492 A Bug's Life
+poj 1463 Strategic game
+poj 3264 Balanced Lineup
+[原]hdu 4322 Candy(最大费用流)2012 Multi-University Training Contest 3
+[原]poj1275 差分约束难再建模
+Linux命令之tar包
+差分进化g05测试代码
+C语言复杂的类型声明
+POJ_2593最大两不想交子段和问题
+POJ_1001 Exponentiation
+取石子游戏POJ1067
+华中科技大学2010年复试上机题a+b
+scanf与gets函数读取字符串的区别
+【转】 对正在学习二分图的朋友会有用
+Bellman-Ford 算法
+POJ1753
+Topcoder留念
+poj1251
+java 读取xml的方法
+log4j的一个简单例子以及 Could not read configuration file [log4j.properties]的解决方法
+用MyEclipse链接上了mysql
+随便写写
+poj2230深度搜索 欧拉回路
+JAVA 基础
+【PHP web 2.0 开发实践】2.9 Smarty 模板引擎
+【最长公共子序列】杭电 HDU 1423 Greatest Common Increasing Subsequence
+【最长非升子序列】北大 POJ 1887 Testing the CATCHER
+【最长上升子序列】北大 POJ 1631 Bridging signals
+【最长下降子序列】北大 poj 1952 BUY LOW, BUY LOWER
+【最长下降子序列+nlog(n)】北大 POJ 1548 Robots
+Chapter 8 Thread Synchronization in User Mode
+【ZOJ坑爹的题意和数据】浙大 zoj 4706 Draw Something Cheat
+【线段树+离散化+离线方法】杭电 hdu 3333 Turing Tree
+【树状数组+二维】杭电 hdu 1892 See you~
+pku1017
+pku1657
+pku1006
+jqGrid java小实例 及 ajax方式无数据显示解决
+jqGrid学习笔记1 - - - - jqGrid英语PDF文档
+oracle语法细节备忘2
+oracle语法细节备忘1
+oracle分页查询
+eeeeeeeeeeeeeee
+aaaaaaaaaaaa
+POJ 1727-Advanced Causal Measurements (ACM)
+POJ 1723-SOLDIERS
+POJ 1694-An Old Stone Game
+{闲得慌}看auto_ptr模板类源码玩
+Poj2039 (基本题 decode一下就可以了)
+poj2014 Flow Layout(基本题 模拟统计)
+CAP原理
+console 输入输出
+-1.#IND00
+malloc 和 calloc
+hadoop 实践
+svn trunk branch  tag
+时间戳与字符串转换
+pat-1022 Digital Library
+pat-1016 Phone Bills
+pat-1018 Public Bike Management  有问题
+apache 虚拟主机配置示例
+php正则表达式例子
+安装ubuntu各分区大小推荐
+How to use PHPUnit (CIUnit) with CodeIgniter 2.1.0
+linux命令组合
+jquery常用的插件1000收集(转载)
+lighttpdp配置
+lighttpd with lua的安装配置
+apache URL重写
+apache log格式设置
+颜色特征提取
+hdu 2089  这道题并不难哟。不过，我还是看了别人才写的代码。因为先前的不行哟。我的用是栈
+依据六大特征综合判断烟叶成熟度
+灾难渎职发生后，2984名全国“民意代表”哪里去了？(转)
+李开复：给中国学生的一封信--从诚信谈起
+《沁园春· 药》
+PKU 2019 RMQ 二维ST
+PKU 2464 Brownie Points II 好题
+pku 3321 Apple Tree 很好的一道题
+pku 1838 并查集
+pku 1140 Expanding Fractions
+pku 1405 Heritage
+pku 2421 Constructing Roads
+cudaMallocPitch
+python之random
+字符串哈希
+python基础教程之------条件，循环和其他语句
+高斯分布
+python基础教程之------字典
+Discriminative 和 Generative model
+Pattern Recognition and Machine Learning
+如何在WORD2007去掉封面上（首页的）页码
+软考各级别历年真题以及软考答案
+数据恢复常见的误操作
+数据恢复小窍门
+数据恢复的原理
+分区丢失数据恢复
+自己动手恢复常犯的几个错误
+格式化的原理
+文件或目录损坏且无法读取
+硬盘未格式化（RAW）分析
+兔斯基 人生感悟
+双击总是在新窗口打开文件夹(分区)的解决方法
+打开文件时显示“不是有效的WIN32（应用）程序”
+建立二叉树的先序遍历（用递归的方法）c语言源代码
+二叉树的几种创建和遍历方法
+转地了、
+HDU 2084 数塔
+HDU 1003 Max Sum
+HDU 2037 今年暑假不AC
+HDU 1009 FatMouse' Trade
+HDU 1425 sort
+STL的队列和栈简单使用
+hdu 1205 吃糖果
+HDU 1556 Color the ball
+POJ 2255 Tree Recovery
+[转载]树链剖分
+[转载]【转】对于0-1分数规划的Dinkelbach算法的分析(一)
+[转载]【转】对于0-1分数规划的Dinkelbach算法的分析 (二)
+[转载]A*(A星)算法
+[转载]POJ 2449 Remmarguts' Date(第K条最短路A*+Dijstra)
+取火柴的游戏
+[转载]由poj 1067引发的——取石子游戏【转自各类博弈】
+[转载]由poj 1067引发的——取石子游戏【转自各类博弈】
+[转载]ACM大牛！！！！！！
+splaytree hdu1890
+2^x mod n = 1
+幻方矩阵 公式
+祭祀广场 在矩阵中寻找最大的正方形
+hoj 10183 道路
+poj 3636
+2011年08月20日
+poj3280 最小的回文代价
+1122 通向女友之路 ——邻接表建图
+hdu1531 poj1364
+hdu1110
+zoj 1337 C语言
+zoj 1334 C语言
+欢迎您在新浪博客安家
+转载，一位ACMer的心得,,,
+[转载]树状数组和线段树及扩展（上）
+转载，树状数组 ，要学习的好多好多。~
+转载，学习网络流。~
+poj 图论汇总（转）
+转载的RMQ算法，
+转载的LCA算法。~
+学习sprintf函数
+poj 1330
+笔记（8）类型限定词const等--C Primer Plus
+笔记（7）掷骰子游戏--C Primer Plus
+笔记（6）存储类、链接和内存管理--C Primer Plus
+笔记（5）字符串和字符串函数--C Primer Plus
+笔记（4）指针和数组--C Primer Plus
+一日小记
+笔记（3）递归思想--C Primer Plus
+笔记（2）ctype.h的字符映射函数--C Primer Plus
+笔记（1）一些简单的输入输出--C Primer Plus
+hdu 2046骨牌铺方格【递归】
+挪窝
+SGU 176
+ZOJ 3229
+HDU 3157
+hdu 1874 畅通工程续
+hdu 2066 一个人的旅行
+hdu 2544 最短路
+hdu 3811 Permutation
+2012年04月10日
+单调队列poj2823 Sliding Window
+hdu 3593 The most powerful force
+hdu Coins
+TZC 精明的采购员John
+2012年03月20日
+hdu 2825 Wireless Password  ac自动机+dp
+POI #7 病毒  trie图的灵活运用+拓扑排序
+poj 1743 男人八题之一
+spoj 220 Relevant Phrases of Annihilation 后缀数组+二分答案
+poj 3294 Life Forms 后缀数组神题
+spoj694、spoj705--Distinct Substrings 后缀数组
+poj 3468 树状数组解法
+spoj 1182 数位统计
+ural 1057 数位统计
+sicily 1195 数位统计
+还是学数学去吧
+光棍节前夜 ural 终于200AC了，自贺一把^_^,继续努力！
+坑爹啊！原来URAL上的tricky problem 都是YY题！！！
+URAL 1040. Airline Company
+URAL 1097. Square Country 2
+戒骄戒躁，宁静致远
+hdu 3341 Lost's revenge
+zoj 3535 Gao the String II
+2011年09月27日
+HDU 2243	 考研路茫茫――单词情结 (AC自动机+快速幂+二分幂和)
+[原]HDU4322 Candy
+虚拟服务器
+如何生成Jar文件
+poj  1067 博弈
+poj  1265
+欧几里得算法
+poj  2154
+快速求幂
+poj  2409
+poj  2208
+poj  2478
+南方IT企业年薪16.8万疯抢吉大计算机专业人才 [新闻转载]
+hdu 1004 Let the Balloon Rise
+qsort函数应用大全
+hdu Arithmetically Challenged
+hdu 3328 Flipper
+Hdu 1203 I need a offer
+thnu :1369 Dark roads
+hdu 3006 a number of set
+//thnu 1386 Crossing Rivers
+thnu  1387 Download Manager
+Alpha--Beta搜索
+素数判断
+ZOJ 2750(Dijkstra)
+POJ 1135(Dijkstra)
+POJ 1679(判定MST是否唯一)
+ZOJ 1586(prim算法)
+ZOJ 1406(Minimum Spanning Tree(Kruskal))
+ZOJ 1542(Minimum Spanning Tree(Kruskal))
+ZOJ 1203(Minimum Spanning Tree(Kruskal算法))
+HDU 1213(Union-Find Set)
+图的染色+类似背包 pku 1112 Team Them Up!
+强连通分量+拓扑排序 pku 2762 Going from u to v or from v to u?
+求极大强连通分量 pku 1236 Network of Schools
+强连通分量（tarjan算法） pku 2186 Popular Cows
+求字典序最小的点割集 pku1815 Friendship
+最小点权覆盖 pku 2125 Destroying The Graph
+最大点权独立集 hdu 1569 方格取数(2)
+pku 2112 Optimal Milking
+二分图多重匹配+枚举边界 pku 3189 Steady Cow Assignment
+二分图多重匹配+二分 pku 2289 amie's Contact Groups
+poj4047  garden
+理性和感性
+poj 1170
+poj 2054
+ACM
+Two Machines Scheduling
+2011年11月19日
+How many seats
+poj 1141
+2011年11月03日
+[转载]USACO 部分题目分类
+[转载]tarjan算法详解
+【FOJ】【有奖月赛】【买票三人行】
+【FOJ】【有奖月赛】【幸运图】
+【FOJ】【有奖月赛】【电动车通行证制度】
+【山东省第一届省赛】【Phone number】
+【POJ】3687【拓扑排序】【Labeling Balls】
+[转载]转：人民论坛——当前中国八种不良社会心态
+【N！】
+【HDU】1171【Big Event in HDU】
+博客搬家了。。。。。
+poj 2992（因子分解）
+poj 3090（法雷级数）
+poj 2478（优化求解欧拉函数）
+poj 2773（欧拉函数）
+poj 2407（欧拉函数）
+poj 2429(因子分解再加一点处理)
+poj 1284（欧拉定理 和 完全剩余系）
+poj 1811（素数测定以及整数的因子分解）
+zoj  2562 More Divisors（反素数的应用）
+数据结构之并查集
+[转载]LCA算法
+Linux文件查找命令find和xargs详解
+[转载]【转载】析构函数的浅谈
+[转载]什么时候调用析构函数（笔记）
+ubuntu 下开机启动mentohust
+shell 中数学计算总结
+shell 中数学计算总结
+随笔
+[转载]大学生
+2012年07月31日的日记
+2012年07月23日的日记
+sql server 2000安装不上，提示有什么程序挂起！
+2012年07月15日的日记
+2012年07月15日的日记
+MyEclipse 9.0安装教程及破解
+JDK环境变量配置
+2012年07月12日的日记
+2012年07月11日的日记
+2012年07月04日的日记
+poj 3677
+hdu 1503 Advanced Fruits
+2011年06月10日
+hdu 1505 City Game
+HDU 1226 超级密码
+HDU 2579 Dating with girls(2)
+HDU 1728 逃离迷宫
+USACO 2.4.2 Overfencing
+USACO 2.4.4 Bessie Come Home
+poj 1062 昂贵的聘礼
+为学
+读《伊索寓言》
+葛底斯堡演说
+socket
+pthreads
+GCD
+Cygwin &amp; MinGW
+FLTK + OpenGL + MinGW
+CodeBlocks + GCC + FLTK
+HDOJ1003 Max Sum
+[转载]写在5.12的爱国帖
+新博客地址：http://www.fcjy.org
+练习赛解题报告
+Do it
+ZOJ 3540  Adding New Machine 线段树
+ZOJ 3545 Rescue the Rabbit (AC自动机+状态压缩dp)
+费马点
+hdu 3644 A Chocolate Manufacturer's Problem（模拟退火）
+ZOJ 3525 Disappearance 线段树
+[转] Pick定理的几个出人意料的应用 by matrix67
+[转载][算法思考]网络流(最小割)问题中的基础构图及分
+[转载]【转】最小割的一点理解
+漫画二分   转自matrix67
+真心。。。。
+[转载][转]大量ACM/ICPC书籍与网站资源
+[转载]二分图匹配 我对konig定理的理解
+[转载]poj 图论、网络流入门题总结、汇总
+[转载]并查集特点总结
+繁星点点之夜—献给文森特梵高
+半数集分析
+foj 2028 bfs
+二叉搜索树
+poj 2418 二叉搜索树
+foj 1205 bfs+回溯
+poj 3414
+poj 2975
+Nim游戏的必胜策略和Xor运算的神奇应用
+poj 2234
+poj 1915 bfs
+#新博#
+转：初试MS05039远程溢出攻击
+欧拉函数 （转载）
+vector容器中find（）函数的使用
+CString,int,string,char*之间的转换
+【转】std::string.assign()的用法
+【转载】ubuntu压缩打包命令使用方法 详解
+[转载]约瑟夫问题数学解法
+【转】字典树（Trie树）
+眼花缭乱的string find 函数
+Codeforces Round #131 (Div. 1)  B &amp;&amp; C
+poj 3814 Museum Guards
+USACO
+spoj 371 最小费用流
+poj 3680 最大费用流
+hdu 4107 线段树
+poj2452 线段树
+USACO Tree Decoration
+hdu3436 线段树
+Codeforces Beta Round #89 (Div. 2) D题
+HDOJ 1233 最小生成树
+POJ 1840 hash
+POJ 2309
+POJ 2785 哈希表
+POJ3781 调用系统快排qsort
+POJ 2845 二进制高精度
+POJ 3411 Paid Roads  DFS
+POJ 3096 Surprising Strings
+BNUOJ 1057 动态规划
+poj 2533
+POJ2575 Jolly Jumpers C语言
+POJ1247 Magnificent Meatballs 水题 C语言
+POJ1046 Color Me Less 水题 C语言
+POJ1183 反正切函数的应用 数学 C语言
+POJ3981 字符串替换 C语言
+POJ2864 Pascal Library 水题 C语言
+POJ1067 取石子游戏 Wythoff's game C语言
+HDU3400 Line belt 三分法 C语言
+POJ1002 487-3279 字符串 C语言
+POJ1007 DNA Sorting 排序 C语言
+Poj 3368(RMQ)
+poj 2528(离散化线段树）
+poj 2942(点双连通分量）
+tzc 3901
+按位dp专题
+hdu 3046(最大流）
+hdu 4203（SG值的运用）
+zoj 2297(状态压缩DP)
+zoj 2224(数值较大的01背包）
+zoj 2156(多重背包)
+ZOJ-3620
+ZOJ-3621
+ZOJ-1423
+ZOJ-1838
+ZOJ-1199
+ZOJ_1086
+ZOJ_1078
+ZOJ-1073
+ZOJ-1070
+ZOJ-1610
+安装Fedora
+比较C程序中除法运算和移位运算的速度
+try
+UESTC 校赛G
+pollard-rho
+poj2406
+[3.19]
+CF46D(线段树)
+poj3667
+poj2528（离散化+线段树）
+ZOJ1489_解题报告（基本数论）
+ZOJ2014_解题报告
+ZOJ1366_解题报告（经典多重背包~）
+ZOJ1365_解题报告
+ZOJ1392_解题报告
+ZOJ1331_解题报告
+ZOJ1382_解题报告
+ZOJ1350_解题报告
+ZOJ1241_解题报告
+ZOJ1240_解题报告
+PC装android系统
+android 游戏框架 libgdx
+window android ndk 环境配置
+2012年01月23日的日记
+android google 获取本地电脑MD5
+android 环境搭建
+[转载]android 如何获取手机信息总结
+Android工程res文件下的三个drawable
+google map 根据地点 查找经纬度
+研究了好久 终于写出了 google map 定位附近的大概地址
+HDU_1052田忌赛马
+HDU_1142
+HDU_3521
+POJ_2299
+HDU_1671 字典树
+HDU_2222
+HDU_3006
+Ural_1010
+Ural_1020
+Ural_1033
+Poj1979 red and black
+Poj1061 青蛙的约会
+Poj1401 Factorial
+POJ1166 THE CLOCKS
+POJ1458 解题报告Common Subsequence 最长公共子序列
+[构图+网络流]POJ 3281 Dining
+[判断混合图中是否存在欧拉回路]POJ1637 Sightseeing tour
+[ZT]假如没有OI
+[巧妙构图+网络流]POJ1149 PIGS
+[巧妙构图+KM]POJ3686 The Windy's
+[树套树+二分]ZOJ2112 DynamicRankings 动态区间第k大
+[微积分笔记]序
+[犯二]一段很犯二的代码
+[数论]Miller-Rabbin大素数判定算法
+[平衡树经典例题]  NOI05 Sequence
+生命必须有裂缝，阳光才能照的进来
+愿做你的“早安”和“晚安”
+我们中间隔着一片海
+暖暖
+我是个呆子
+或许这又是一次逃避
+日记
+有风吹过的日子
+poj2370解题报告
+poj3673解题报告
+poj 1145 Tree Summing
+poj 1264 SCUD Busters 计算几何
+POJ1258 图论 prim算法
+POJ3259 图论 Bellman-Ford算法
+欢迎您在新浪博客安家
+hdu 3732 Ahui Writes Word
+hdu 2578 Dating with girls(1)
+hdu 2579 Dating with girls(2)
+hdu 1372 Knight Moves
+hdu 2102
+hdu 1253 胜利大逃亡
+hdu 3368 Reversi
+hdu 1181 变形课
+hdu 3790 最短路径问题
+hdu 1016 Prime Ring Problem
+hdu 1869赤裸裸的最短路
+hdu1238水题
+hdu4006(SBT &amp;&amp; 树状数组）
+hdu1543||zoj2747(离散化）
+hdu3743（树状数组）
+hdu1394（树状数组）
+hdu3887（树状数组）
+hdu3030（树状数组）
+hdu1199(离散化）
+poj2892(树状数组）
+poj2155(树状数组）
+poj1195(树状数组)
+windows7下开启、关闭wifi热点
+android连接Tomcat 提示Connection refused
+C语言 文件IO操作
+C#自定义控件——垂直进程条
+HDOJ steps 1.3.3
+HDOJ steps 1.3.2
+HDOJ steps 1.3.1
+夏普8128u 使用第三方桌面
+poj 2017计算速度乘以时间。。。
+poj 2013 一组字符串，从短到长再到短排列
+poj 1969小螺旋数组
+poj 1922 上学骑车追人求时间
+poj 1799大圆内能放几个内切小圆
+poi1674 乱序数组排序所需次数
+poj 1657国际象棋王后车象
+int数组中有几组数是两倍的关系
+数字反转（要去0）
+n！后有几个0
+[转载]ubuntu使用十五：搭建LAMP（Apache+PHP+MYSQL）
+新博客网址
+poj 1696 Space Ant 点积叉积的性质
+[转载]其实很多男孩不知道~~
+poj 1410 线段与矩形相交
+poj 1066 Treasure Hunt
+ZOJ 2818  Root of the Problem
+ZOJ 2744 Palindromes
+ZOJ 1109 Language of FatMouse
+&lt;网上资源检索&gt;作业
+PAL4经典对白
+游侠war
+儿子和妈妈都掉在河先救那个
+历史上最玄的10大巧合
+JSON学习
+Windows 下完全卸载Oracle
+javascript 整除 四舍五入 问题
+javascript 中的location.pathname
+JQuery上传插件Uploadify使用详解
+10个免费的javascript富文本编辑器（jQuery and non-jQuery）
+[转载]序言一篇
+ZOJ3486
+ZOJ3479
+[转载]POJ数学题目（转载）
+hdu  4063 Aircraft
+poj  1556  The Doors
+poj 1584  A Round Peg in a Ground Hole
+hdu  4006  The kth great number
+zoj  3203  Light Bulb
+hdu 4165
+poj  1847  Tram
+Intersection
+hdu 2522 A simple problem
+hdu2439(The Mussels)贪心
+HDU 2444(The Accomodation of Students)染色法判断二分图 + 匈牙利二分图最大匹配
+poj 2823 (Sliding Window)单调队列
+2011亚洲赛大连现场赛B题 (Adding New Machine） HDU4052  离散化+线段树+扫描线（矩形面积并）
+hdu 4054 Hexadecimal View 模拟 字符串处理(2011 Asia Dalian Regional Contest D题)
+hdu4007	（Dave）离散化+暴力枚举
+hdu4001(To Miss Our Children Time)DP   亚洲11大连网赛
+hdu1542 （Atlantis）线段树 + 离散化 （扫描线处理矩形面积）
+poj3667 (Hotel)线段树区间合并
+一原则，三梦想！
+2012年05月21日的日记
+2012年05月03日的日记
+我的未来不是梦
+Just do it!
+2012年04月17日的日记
+极小值
+问题的出现
+java坦克大战游戏小结
+OnlyForTHU_KHP
+[转载]Java程序设计中setFont()函数的用法
+401 Palindromes
+694 The Collatz Sequence  纠结
+jsp+javaBean小例子，理解cookie
+循环数（acm pku 1047 Round and Round We Go）
+动态规划(acm pku 1014 Dividing)
+动态规划(acm pku 1080 Human Gene Functions)
+acm pku 2602 Superlong sums
+随便写写。。
+二叉树已知前序中序求后序(acm pku 2255 Tree Recovery)
+全排列next_permutation用法
+最短路径(acm pku 3767 I Wanna Go Home)
+A*路径寻找算法入门(转)
+有道难题答案（有道谜题答案）2010网易编程挑战赛(图文版)
+poj2485
+poj2553
+poj2449
+总结FLEX4.5与J2EE通讯，基于FB4.5、MyEclipse10和Tomcat7实现
+poj1459
+无聊而已
+poj1163
+2012年05月31日
+[转载]mysql的一些插入错误解决方法集锦
+无题
+反编译 chm文件
+[原]codeforces 183A  Headquarters
+[转载]龙血树
+南极“死亡冰柱”秒杀路过一切生物
+ASP.NET案例_输入验证控件
+关于人生的一些建议
+计算男生价格的方法，超过3500的就赶紧嫁了吧
+ASP.NET验证控件详解
+网页制作中js提示后跳转代码集合 ASP.NET版
+ASP.NET dropdownList读取xlm文件
+《格林童话》面包屑的故事
+经典语录受用一生
+Java:HashTable和HashMap的区别
+C++中的四种强制类型转换的区别
+《编程之美》读书笔记23： 1.1 让CPU占用率曲线听你指挥
+《编程之美》读书笔记23： 1.1 让CPU占用率曲线听你指挥
+HDU 1251 统计难题
+ZOJ 2478 – Encoding &amp;&amp; 28 ...
+兴城古城
+欢迎您在新浪博客安家
+[转载]ACM比赛经验
+POJ3657——二分，贪心，路径压缩
+HDU4126——福州赛F题
+HDU4125——福州赛E题
+HDU4128福州赛H题——贪心+三分法求单峰函数极值
+HDU4111成都赛A题博弈
+SGU185——最短路+最大流
+HDU3879——有向图的最大权闭合子图
+SGU176——上下界最小流
+splay部分模板
+【POJ】3162 Walking Race
+【树形DP】Zoj3506 Cut the tree
+【图论】poj2186Popular Cows
+【图论】poj2349 Arctic Network
+【图论】poj1679The Unique MST
+【图论】poj1639 Picnic Planning（最小度限制生成树）
+【图论】最优斜率生成树POJ2728Desert King
+【线段树】sicily1136山海经
+欢迎您在新浪博客安家
+计算几何——求多边形重心的思路
+POJ 3414 BFS回溯
+逆境更能使人成长
+[转载]云崛起与中国机会
+马克一下，做一题就红一题。
+gnome.h: No such file or directory解决方案
+积累奋进不能挂。
+情圣把妹大法总结……
+信息化社会中的所思所感（一）
+4312 Meeting point-2(2012 Multi-University Training Contest 2)
+SRM 518 解题报告
+SRM 522 解题报告
+SRM 521 解题报告
+[原创]简易版Socket聊天室 附源码
+再谈C#扫雷
+C#实现扫雷出炉
+如何通过P/Invoke返回Struct和String Array
+计算文件的散列值
+zz .NET抽象工厂模式 from cnblogs
+清空VSTFS cache
+[转载]推荐引擎概述
+[转载]研一屌丝坎坷出国路
+小妖的金色城堡
+树状数组解析与例题练习
+MFC  windows通用对话框简单调用
+数独 DFS暴力 搜索  soj 2485 Sudoku
+MFC简单绘图以及文本操作
+C/C++编程中的内存（参考程序员面试宝典）
+linux下bash命令
+“失恋33天”小感
+MFC/VC6.0 ClassView视图中无法显示某个类的解决方法
+初老症&amp;&amp;熟女魅力
+Codeforces 115E Linear Kingdom Races
+PKU 3415 后缀数组+栈扫描或并查集
+[转载]SGU Problem List -- Volume 1
+POJ 2152 树形DP
+poj 2127 最长上升公共子序列
+POJ 2047 减少状态转移的DP
+POJ 2018 斜率优化DP
+POJ 2991 线段树+计算几何
+POJ 1740 构造的博弈
+poj 2373 单调队列DP
+相思
+【转】VMWare+WinDbg搭建(驱动)调试环境
+2012年07月16日
+人算不如天算
+握手
+2012年07月02日
+最舍不得
+败给了自己
+意云又如何？
+为何向自己服输
+[原]无监督特征学习——Unsupervised feature learning and deep learning
+聚合和组合的区别
+String、StringBulider和StringBuffer
+Java中重载和重写的区别
+集合类的使用注意
+static误区
+poj1010 STAMPS
+配置Hibernate使用Proxool连接池
+Hibernate主键生成方式
+poj1009 Edge Detection
+tomcat开80端口
+POJ3264
+POJ3259（转）
+poj 2387 : Til the Cows 最短路
+[转载]看了受用一辈子，七个顶级心理寓言
+[转载]人性的经验总结 （转载）
+2011年05月08日
+hdu1175
+poj 1125 Stockbroker Grapevine (转)
+POJ1251  prim
+poj 1287（转）
+2012年7月
+近期有感
+2012-4-13
+我永不放弃
+消除用电脑眼睛疲劳的设置
+2012-3-22
+考试终于结束了~~~~~
+TopCoder入门教程 — sqybi完善版
+[转载]ZOJ10周年纪念赛解题报告
+HDU 1022Train Problem I（数据结构 栈）
+hdu 2852 线段树
+hdu 1075 What Are You Talking About
+pku 3114 Countries in War
+poj 1236 Network of Schools
+poj 2186 Popular Cows
+pku 2186 Popular Cows
+poj 3249 Test fo job
+pku 1125 Stockbroker Grapevine
+pku 1240  Pre-Post-erous!
+pku 2255
+POJ1091 跳蚤
+树状数组
+最小点覆盖数等价于二分图的最大匹配数
+POJ3026 Borg Maze
+POJ2253 Frogger
+关于ACM中查找RuntimeError数据的方法
+姑苏行
+命起涟漪
+POJ1651 Multiplication Puzzle
+生成树计数
+[转载]我的南京大学地图学与地理信息系统考研经历
+[转载]高光谱数据应用于植被监测与分析
+[转载]快速排序
+[转载]Digital Roots
+[转载]Digital Roots
+[转载]map::find()
+[转载]Digital Roots
+[转载]ZOJ 2478 Encoding
+[转载]zju 2476
+[转载]是谁毁了GIS企业和毕业生？（1）
+已死
+集训总结
+2010-6-15
+POJ1273-Drainage Ditches
+[补充]POJ1113-Wall
+POJ1113-Wall
+POJ 300AC!
+POJ1308-Is It A Tree?
+POJ1060-Modular multiplication of polynomials
+POJ3625-Building Roads
+[转载]你真的相信“毛泽东晚年糊涂了”吗？
+[转载]东瀛日记之六月篇
+[转载]用这些图告诉你,一个我们再也回不去的时代!
+plsql自动补齐
+jobdu1091 棋盘游戏
+[转载]一篇介绍毛主席的文章 看完的中国人都被感动了!
+[转载]主席您好！【名家画册】
+[转载]孔庆东老师腾讯微博辑录（49）
+[转载]按这些穴位让你百病不侵
+[转载]孔庆东老师腾讯微博辑录（46）
+POJ1458 最长公共子序列 LCS
+hdu1032 数学+模拟
+hdu1022 栈
+POJ必做题 转来的
+小激动下
+poj1159-Palindrome
+1562-oil deposits
+poj2603-Brave balloonists
+poj1269-Intersecting Lines
+poj3751-时间日期格式转换
+文艺之夜
+不敢说
+友达以上、以下
+あの...
+止步，如何?
+如何是好
+这次不晚睡
+如果
+又晚睡
+晚睡日记
+最近在学习点数学的  写写日志。。
+二分枚举
+poj 1840 poj 2785 hdu 2141这几题
+poj 3744 分阶段比较容易   矩阵加速
+（转）ZOJ题目分类
+(转)多版本的POJ分类
+zoj 2416 bfs  ★★ dfs★★★
+zoj 1204 dfs ★★
+zoj 1202组合公式★
+zoj1649 poj2312 bfs的一点小变形★★
+仙五符文使用心得
+【转】 数论公式
+最近对（分治法）
+堆排序
+图的遍历
+归并排序 C代码
+希尔排序 C++代码
+防御导弹
+队列迷宫
+[转载]背包问题九讲（转)
+SRM538 450
+zoj
+codeforces 66#
+CodeForces 53# D.Journey
+Topcoder SRM497 1000分题目
+小小总结
+hdu 1789
+01背包的问题
+无向图的最大匹配数
+web学习
+[原]HDU_4317 Unfair Nim 状态压缩dp
+第二年 暑假集训
+DOTA校赛第一轮
+HDU DOTA 校赛
+DOTA
+[转载]冰蛙公布6.68宣传视频！大量war3模型加入！！
+纪念 DOTA 之高三（5）班
+[转载]算法的力量
+ACM暑期联合训练赛 1
+HDU 1385 Minimum Transport Cost
+HDU 2962 Trucking
+BNUOJ 12889 Alice and Bob
+BNUOJ 12883 回文锁
+树的最小表示法（转载）
+poj 1364 king
+poj 2188 Cow Laundry
+poj 2104 K-th Number
+poj 3233 Matrix Power Series
+poj 3368 Frequent values
+poj 1470 Closest Common Ancestors
+[转载]高斯消元法(Gauss Elimination) 分析 &amp; 题解 &amp; 模板
+自己写的线段树
+poj 3321 树状数组
+poj 2155
+树状数组
+并查集 模板（可以用在kruskal中）
+矩阵乘法-运算符重载 模板
+矩阵乘法（转）
+十个利用矩阵乘法解决的经典题目
+二分匹配 最大匹配
+hdu 1081 DP
+poj1556 最短路+计算几何基本
+[转载]poj 图论、网络流入门题总结、汇总
+poj2502最短路
+poj1062最短路
+poj3268矩阵转置 很强大
+poj2240简单的最短路floyd
+hdoj2049排列组合+错排
+poj1094 topusort拓扑排序
+poj1182经典并查集
+POJ2075最小生成树prim。处理人名查找用二分
+山大计算机导师
+若缇诗裙子尺码对照表
+二级竖向导航菜单
+关闭窗口的几种JS代码
+网站二级导航栏的代码
+marquee
+[转载]公共基础知识试题及答案【山东简为教育】
+2011年山东选调生考试在即，细节不容忽视!考试必须携带和必不携带物品清单
+选调生面试流程
+表
+hdu 2104
+hdu 1032
+hdu 1021
+hdu 1002 高精度加法
+单链表实现线性表
+Ubuntu 9.10 _Karmic Koala_ - Release amd64 (20091027)
+赵本山的书法
+变种Fibonacci
+关于c语言汉字问题
+输出带千位分割符的数，小数点保留后两位
+字典树（trie）
+天地图和google地图在北航大运村的比较
+ZOJ3313 clock
+欢迎您在新浪博客安家
+证书函数
+VS2005和VS2008提速办法
+最近
+vs2008清除最近打开文件和工程批处理
+windows7系统笔记本设置成虚拟WiFi热点
+chrome视频看到一半就会卡住的解决办法（转）
+windows下控件定制
+SSL原理
+chrome窗口焦点管理系统
+WebKit之页面加载
+pku Supermarket 1456
+pku 1988 Cube Stacking
+pku 1182 食物链
+hdoj 2473 Junk-Mail Filter 解题报告
+hdoj 1829 A Bug's Life
+JAVA程序员之路（转载）
+给中国学生的第六封信——选择的智慧
+给中国学生的第五封信——你有选择的权利
+给中国学生的第四封信——大学四年应该这么度过
+给中国学生的第三封信——成功、自信、快乐
+zyxwvutsrqponmlkjihgfedcba
+一个人的精彩
+受打击了，悲剧，泪奔
+2011 第一天
+欢迎您在新浪博客安家
+最近的状态（一些心情）
+工作二个月有感
+毕业了，不是学生了。
+记5月23日晚上IT实验室聚会----我大醉
+说说3月份我的大学找工作面试之旅
+[转载]看美剧学英文之最全攻略
+[转载]耶鲁大学心态 ，送给正在奋斗的人
+[转]在聪明和踏实之间，我更愿意选择后者。
+[转载]Eclipse代码出现删除线原因
+[转载]jar cvfm打包时invalid header field错误
+[转载]很好的SOLR、LUCENE学习资料（LUCENE）
+[转载]Solr笔记 Schema.xml和solrconfig.xml中文分析
+思想汇报[2011-3-6]
+[转载]学ACM有什么用(转载)
+忆-MSN Space - 2011年03月08日
+Pku 3325
+Pku  3589
+Pku 3619
+Pku 3632
+Pku 3664
+Pku 3302
+Pku 3299
+Pku 3224
+pku 3117
+Pku 3094
+[？？？]多边形面积
+[URAL]1014 The Product of Digits
+[URAL]1008 Image encoding
+[？？？]求和(sum)
+[???]CC分配防晒霜
+[雅礼中学2005分区联赛模拟试题]求和
+[雅礼中学2005分区联赛模拟试题]工作
+[雅礼中学2005分区联赛模拟试题]编码
+[雅礼中学2005分区联赛模拟试题]奖金
+[NOIP09]靶形数独
+2010年03月15日
+2010年01月09日
+2010年01月05日
+...
+...
+...
+poj 1236
+boj 1593
+poj 3463
+poj 2452
+【高级本】计数器
+【回溯】驾车旅游
+【USACO 2.1.1】castle
+【USACO 1.4.4】 Mother's Milk
+【USACO 1.3.3】calfflac
+【HDU 1075】What Are You Talking About
+【Vijos 1152】肥猫的游戏
+【Vijos 1042】捕风捉影
+【Vijos 1039】最小差距
+一篇关于AC自动机论文的译文：《Biosequence Algorithms, Spring 2005 Lecture 4: Set Matching and Aho-Corasick Algorithm》
+字符串匹配：KMP &amp; AC 自动机个人学习总结
+线性规划与网络流24题
+HDU 3496 Watch The Movie (二维背包)
+POJ 1486 (完全二分匹配的必须边)
+POJ 1904 (确定完全二分匹配的所有可能边)
+POJ 2112 (二分图多重匹配)
+POJ 2060 (最小路径覆盖)
+HDU 1133 (数论 or DP、高精度；Java版)
+sudoku
+8数码 POJ 1077
+季后赛
+POJ 1087
+POJ 3178 Roping the Field
+POJ 3222 Edge Pairing
+POJ 3201 Little Quilt
+POJ 3198 Polygon Encoder
+POJ 3171 Cleaning Shifts
+POJ 3168 Barn Expansion
+uva 10564 - Paths through the Hourglass
+HDOJ 1541 Stars
+HDOJ 2709 Sumsets
+HDOJ 2602 Bone Collector
+HDOJ 1534 Schedule Problem
+HDOJ 1250 Hat&#39;s Fibonacci
+HDOJ 1133 Buy the Ticket
+uva 193 - Graph Coloring
+POJ 3468 A Simple Problem with Integers
+HDOJ 1698 Just a Hook
+清点人数vijos1320
+Japan pku3067
+1090. In the army now
+Palindrome pku1159
+Bridging signals pku1631
+1028. Stars
+树状数组【转】
+无
+零件分组
+Blocked Road
+zju 1004
+zju 1003
+USACO Name That Number
+N皇后问题
+POJ 2346 Lucky Ticket
+一年便是一世
+[转载]玩具装箱toy(斜率优化DP)
+CDOJ 1055 The Most Wonderful Competition
+POJ 2181 Jumping Cows
+POJ 3254 Corn Fields
+等等故乡
+复旦女博士于娟 患癌后的思考 给全世界的警示良言~~~~
+数组应用-大数阶乘
+KMP算法
+霍夫曼编码及解码算法
+链式基数排序算法
+选择排序算法
+找工作网址
+快速排序
+冒泡排序
+Let it be
+又是一次错误的选择！
+沪江小D与sqlite。。。
+夏休み
+そろそろうちに帰る
+我的博克
+统计难题
+Jungle Roads——最小生成树
+.
+搬家了
+Summer 2009 Round 2 by Django
+Summer 2009 Round 2 by CError
+Summer 2009 Round 1 by Django
+Summer 2009 Round 1 by CError
+zoj 1992 最大流&amp;&amp;欧拉回路
+Summer 2009 Round 1 by atouSk
+孤独
+Summer 2009 Preliminary II
+2010年12月07日
+多重背包
+ethtool.h中的部分
+struct net_device数据结构
+Linux内核NAPI机制分析
+Struct net_device_ops数据结构
+linux进程状态
+ip首部数据结构和ip数据报
+udp头部数据结构udphdr
+tcp头部数据结构tcphdr
+新人报道
+网络流
+湖南省第七届程序竞赛酱油总结
+Android 借机取号开发过程（1）
+先收着
+kinect相关学习的一些网址
+LATEX公式学习
+转 各种ON_EVENT
+关于SetCapture（）函数
+c++命名规则
+PostMessage 和SendMessage 举例说明
+MATLAB绘图随记(2)
+MATLAB绘图随记（1）--如何画一个透明平面
+udp connect()
+有关map的用法
+string 的基本操作
+匈牙利算法求二分图的最大匹配(转)
+http://acm.pku.edu.cn/JudgeOnline/problem?id=1456
+http://acm.tju.edu.cn/toj/showp2976.html
+散列函数与散列表（哈希函数、哈希表.Hash函数、Hash)
+数论中的一些公式（转）
+http://acm.pku.edu.cn/JudgeOnline/problem?id=1107
+sprintf用法
+删除U盘时提示无法停止‘通用卷’设备的解决方法
+2009年考研英语翻译题详细分析
+考研过来人谈考研秘籍
+2008年考研数学线性代数真题详解
+LCA问题（最近公共祖先问题+RMQ问题+笛卡儿树
+2009全国大学生英语竞赛答案（A,B,C,D类）
+2009全国大学生英语竞赛样题C级
+pku 2684 Polygonal Line Search
+计算机几何算法
+《算法衍论》第一章《计算几何（1）》
+随机数生成 程序
+ZJNU1480 Gardenia in blossom
+ZJNU1367 执着的龙哥（续）
+HDU2816 I Love You Too
+ZJU3193 Accurately Say \"CocaCola\"! Again
+ZJNU1308 快速排序
+最小生成树：最短网络
+[转]第9届浙大校ACM解题报告[BY CAOPENG]
+PKU2719 Faulty Odometer
+PKU2389
+告别了
+不知道是退役了，还是我放弃了
+除了校内， 原来新浪博客里也又好友买卖与抢车位啊
+搞笑
+卡尔奈亚迪斯的木板传说
+来新浪里也安个家
+嗨！亲爱的朋友们，欢迎您光临我的BLOG
+ZJNU 1340 编号 老题，数据扩大
+ZJNU 1337 LG历险系列3－mountains
+ZJNU 1336 LG历险系列2－Topcoder
+字符串处理训练总结报告
+数据结构训练报告总结
+KMP的get_next另一种求法
+思考生活
+学生学习的分类
+素数筛选
+新生军训了
+ZOJ 1394(POJ 1229)
+ZOJ 1383
+ZOJ 1382
+poj 3436
+poj 3017
+poj 2391
+poj 2289
+poj 2353
+poj 2935
+http 500内部服务器错误的解决办法
+a href=#与 a href=javascript:void(0) 的区别
+如何在IIS上配置多个网站
+网页中META的作用
+如何解决浏览器的兼容性
+IIS部署问题
+js控制radiobutton选择显示
+存储过程自动生成订单号
+SQL2005安装时“性能监视器计数器要求错误”解决方法
+ASP.NET的Web.config文件
+hdu1002
+没有事业的女孩子生活很惨 ，没有事业的男人，会更加的悲惨
+加油哦！ECJTU的acmer！
+hdu2087
+hdu2031
+hdu2063
+pku  1325
+ecjtu 1162
+hdu2034
+hdu1804
+AC小记——HDU 3578 类背包  最大平分和
+AC小记——hdu 3535 综合分组背包
+AC小记——HDU 3499 依赖背包
+AC小记——HDU 3496 二维背包
+AC小记——HDU 1007 最近点对
+AC小记之斯特灵公式
+AC小记之RMQ算法
+AC小记之字符串hash函数
+AC小记之求字符串最小表示法
+AC小记之后缀数组
+相濡以沫不如相忘于江湖
+括号序列
+寝室表白被拒绝实录
+select(random)找到第I小的元素（n算法）
+count_sort(计数排序)
+Quicksort(快速排序)+随机化
+heap_sort(堆排序)
+merge_sort 归并排序
+插入排序
+单链表插入排序
+poj1008-Maya Calendar
+poj1007-DNA Sorting
+poj1006-Biorhythms
+poj3087-Shuffle'm Up
+poj2148-Color the Map
+poj1652-Holey Cloth
+poj1651-Multiplication Puzzle
+poj1650-Integer Approximation
+poj1648-Countryside Highway
+poj2739-Sum of Consecutive Prime Numbers
+珠海ACM总结
+Risk
+hdu1009FatMouse' Trade.CPP
+Houses
+hdu1239Calling Extraterrestrial Intelligence Again
+hdu1297Children’s Queue
+hdu1866   A+Bforever
+ACM日记
+外面光鲜，脑子都是草
+我成了一个憨包
+POJ2838
+POJ1059Chutes and Ladders
+POJ2159 Ancient Cipher
+POJ2503 Babelfish
+POJ 1164 The Castle
+POJ 1014 Dividing
+POJ1001 Exponentiation
+POJ题目分类
+新的开始
+POJ 2946 BFS HASH
+人生能有几回赌,此时不赌何时赌
+明天先回家
+呆住了,以后只吃二食堂的馒头
+肖申克的救赎幕后花絮
+生日快乐
+要去上海了
+又看到了那个”女孩“...
+嗨！亲爱的朋友们，欢迎您光临我的BLOG
+POJ1189  钉子和小球
+POJ1188   Gleaming the Cubes
+POJ1185  炮兵阵地
+POJ1182  食物链
+POJ1163   The Triangle
+POJ1160   Post Office
+POJ1157  LITTLE SHOP OF FLOWERS
+POJ1147  Binary codes
+POJ1141  Brackets Sequence
+POJ1112 Team Them Up!
+西塘
+夜骑
+srm 539 div1
+写在2012
+zoj 1108 FatMouse's Speed
+表情做作很显浮夸
+无聊摘录
+TCO'10 Qualifier 1A DIV 1
+Sunshine Girl_Moumoon
+祝福我外婆 早日康复 阿门
+poj1002
+poj 3907
+久违了
+我的博客今天4岁64天啦！
+10。12
+电子制作1
+工程制图作业1
+工程制图作业2
+重生了
+高考，不是生命的突变……
+基于ssh的团购网站
+hdu 4311 Meeting point-1 (2012 Multi-University Training Contest 2)
+PKU 1009，1010，1011，1014，1015都可以说是难题了吧……前三道做一道卡一道。后面的不写了。
+PKU 1013 Counterfeit Dollar
+ZYF老师讲DP时布置的一道题 ZOJ 1093
+PKU 1012 Joseph 哈希表
+PKU 1011 Sticks 【从网上拷贝的。我发现我提交的题里——只有水题的思路是原创的】
+两个半成品，Sigh……PKU 1010 偶也搞不定 我觉着我适合去做水题
+POJ题目分类 先转载前50道题
+PKU 1009 Edge Detection 【放弃，用暴力切它铁定TLE】只贴题目
+PKU 1008 Maya Calendar 日期计算
+PKU 1007 DNA Sorting 稳定排序
+《算法》作业分支限界解01背包
+计组大概也就这么一回事吧
+《算法》作业 剪枝 第k小数
+JAVA连接mySQL
+POJ 3974最长回文子串 Manacher Algorithm O(n)
+2012广东ACM省赛
+Android从SD卡读取图片并显示为点阵图
+Android手机加速度传感器和方向传感器的应用
+北邮OJ 67  SBT树
+[转载]大数据量，海量数据 处理方法总结
+hdu 4310 Hero(贪心)
+POJ 1201 Intervals
+SPFA算法（转载自百度知道）
+POJ 1364 king
+差分约束系统
+关于#pragma warning（转载）
+在vc2005中动态调用其他项目
+转载 令人醒悟——谈谈我对攻读计算机研究生的一些看法
+poj 1195 Mobile phones(二维树状数组应用）
+poj 2481 cows(树状数组应用）
+poj 2155 Matrix（二维线段树或二维树状数组）
+POJ Challenge 超级笔记
+POJ Challenge 吉他英雄
+HAOI2008 圆上的整点
+NOI2010 energy
+hdu2297 Run
+fzu1971 A math problem
+ural1781 Clean Code
+poj2764 Unequalled Consumption
+poj3167 Cow Patterns
+hdu2481 Toy
+SGU-340 Tex2HTML
+SGU-397 Text Editor
+SGU-207 Robbers
+SGU-406 Goggle
+SGU-460 Plural Form of Nouns
+SGU-404 Fortune-telling with camomile
+SGU-403 Scientific Problem
+SGU-302 BHTML 1.0
+SGU-274 Spam-filter
+SGU-297 Fair-play
+selective1_2_g 01背包 hdu 2955
+selective contest1_2_h hdu 1115
+hdu 3591取石子（一堆）
+usaco_clocks dfs/bfs/位运算
+usaco_packrec暴搜
+DS_stack忆往昔——经常做错的一道铁路调度
+Dp poj 1159(multiple solutions)
+线性DP 两次最长上升子序列 1836_POJ
+线性DP——POJ 3276
+usaco_calflac多行文件中找出最长回文串
+UVa 297 Quadtrees
+UVa 548
+UVa 112 poj 1145
+Greater New York Regional 2009 解题报告
+hdu 4109 Instrction Arrangement
+poj 1177 Picture
+poj 1151 Atlantis
+poj 1001 Exponentiation
+poj 1114 Chemical Reactions
+poj 1064 Cable master
+常用数据结构 可视化
+《科学》评出年度科学突破 HIV防御方法居首
+中国护照可以免签的10个旅游天堂国家(地区)
+最短路径系列【最短路径、哈密顿路等】
+我遇到的互联网公司的面试题
+二叉树中序遍历【一道MS面试题】
+二叉树中序遍历【一道MS面试题】
+江湖秘籍：如何用百度打击对手【360借百度之刀站金山】
+江湖秘籍：如何用百度打击对手【360借百度之刀站金山】
+插值算法应用【拉格朗日插值、牛顿插值】
+混合图欧拉路例题 ZOJ1992
+树形动态规划 例题POJ3107
+美NASA发现&quot;宜居带&quot;类地行星开普勒-22b, 科学家乐观悲观各执己见
+最小树形图
+JOJ1043：Atlantis 离散化+扫描线
+JOJ1040：Trees（卡特兰数+递归）
+JOJ1037：Operand
+POJ1679:The Unique MST
+POJ3463：Sightseeing
+POJ3522:Slim Span
+POJ2449：Remmarguts' Date
+最短路径问题No.1
+算法导论学习 插入排序法
+POJ 1742 多重背包
+完全背包
+sort排序
+strcmp返回值布尔类型的判断
+qsort用法
+并查集 HDU1863
+并查集~最小生成树 HDU1233
+并查集 HDU1232
+并查集 HDU1856
+并查集 HDU1213
+并查集 POJ2524
+并查集 POJ1611
+并查集
+http://acm.hdu.edu.cn/discuss/public/post/reply.php?postid=2413&amp;messageid=1&amp;deep=0
+双向的动态规划问题 POJ 2593
+ACM中 文件的输入与输出用法
+今天复习母函数的一些感受
+字符串处理 A-Metsys Laremun
+花生的问题
+约瑟夫问题
+基础深搜题
+树状数组 不太会 留下慢慢看
+最长公共子序列  记录子序列~
+母函数~Fruit
+母函数~Holding Bin-Laden Captive!
+母函数~Square Coins
+母函数~Ignatius and the Princess III
+hdu 1384(Intervals)
+hdu 1423(Greatest Common Increasing Subsequence)最长不降公共子序列
+hdu 1124(Factorial)
+hdu 1113(Word Amalgamation)
+hdu 1400(Mondriaan's Dream)
+hdu 1204(糖果大战)
+hdu 1561(The more, The Better)
+hdu 1513(Palindrome)
+hdu 1502(Regular Words)
+hdu 1227(Fast Food)
+[导入]VK Cup 2012 Qualification Round 1    E. Phone Talks
+[导入]VK Cup 2012 Qualification Round 1   D. Ice Sculptures
+[导入]VK Cup 2012 Qualification Round 1    B. Taxi
+[导入]VK Cup 2012 Qualification Round 1     A. Next Round
+[导入]迎接2012新赛季——HDOJ系列热身赛（2）  Problem E  HDU4165 Pills
+[导入]迎接2012新赛季——HDOJ系列热身赛（2） Problem A HDU 4161  Iterated Difference
+[导入]店长推荐Ⅱ~~~~
+[导入]青蛙过河~~~~
+[导入]告别2011，迎接2012
+[导入]HDU 1006 Tick and Tick
+Producers and Consumers
+Producer and Consumer
+The Dinning Philosophers Problem
+动态规划专练(不断练习更新中)
+pell方程解法--学习笔记
+HDOJ 1813 Escape from Tetris
+Copying DNA  PKU3633
+POJ2823 Sliding Window
+SGU134Centroid
+POJ3700 Missile Defence System
+LIS的nlogn算法
+POJ 3214 HEAP
+POJ 1201 Intervals 差分约束+spfa
+poj1338 Ugly Number
+3752 字母旋转
+2663 tri tiling
+POJ2506 递推+高精
+hdu 3401 Trade
+hdu 2993  MAX Average Problem
+poj 1133 stars
+poj 1271 Nice Milk
+poj 3347 Kadj Squares
+bupt 1849 Counting Sequences
+hdu 3433 A Task Process
+hdu 3437 Garden
+poj 2155 Matrix
+poj 1011 Sticks
+ACM算法
+计算几何题目总结及分类
+任意四面体体积公式 以及几点计算几何注意事项
+读陈海峰的《计算几何算法概览》
+二维下计算几何分类
+判断点是否在三角形内
+HDU1292 \"下沙野骆驼\"ACM夏令营 递推
+上海交大ACM队长建议--谈谈ACM比赛中的代码能力
+直线分空间问题
+HDU2510 符号三角形
+特殊的汉诺塔！HDU  汉诺塔II 1207
+图论
+简单的DP（TJU 2794.Bus ）O(∩_∩)O~
+经典的打表 zoj 3193 Accurately Say \"CocaCola\"! Again
+HDU 2690 Boys and girls
+HDU 2687 Matrix Rotation
+简单博弈！！HDU 1847
+追踪法求解洗牌问题 HDU 1210
+HDU 2608 AC了好久，最终列出了前50才找到规率！晕啊！！
+因为我是菜鸟！
+hdoj_1468解题报告
+zoj1017 The Bermuda Triagle
+zoj3261  Connections in Galaxy War
+zoj 3279 Ants
+POJ 3126  学会广搜队列的用法
+POJ 3278 (第一道队列题,爽)
+POJ 2157
+硬币找钱问题
+表达式求值
+幻方问题
+新开的模块-数据结构和算法
+[原]HDU4321 Arcane Numbers 2
+fzu OJ Problem 2064 找位置
+HDU  2084  数塔
+HDU 1160  ZOJ 1108  FatMouse's Speed
+HDU 1087  Super Jumping
+ZOJ1292 , HDU  1047 Integer Inquiry
+ZOJ 1061  Web Navigation_数据结构_栈
+HDU  1862 EXCEL排序
+POJ 2273  An Excel-lent Problem
+HDU 1166敌兵布阵
+HDU 1022  Train Problem I_数据结构_栈
+简单的贪心（最优）
+欧拉回路问题~
+STL（map）
+hdoj 1878 欧拉回路
+从一堆数中找出连续的若干个的和 能被P整除~
+第六届itat C语言复赛~~~郁闷
+转
+兼职
+F(N) HDOJ 2802
+大菲波数 hdoj 1715
+zoj2563
+zoj2498
+zoj2283
+zoj2144
+zoj1554/poj2176
+zoj1475
+zoj1490
+zoj1446
+zoj1346
+zoj1245
+dhtmlxTree 10分钟做一个树
+[转载]【转】一个程序员对学弟学妹建议
+poj 3752字母旋转
+hdu 1698-线段树成段更新-裸题
+hdu-2795-线段树单点更新-理解理解
+hdu-1394-线段树
+zoj一道求最短路条数以及点权和最大的题目
+hdu 4027-上海网络赛
+计算机专业研究生毕业后，各大IT公司所给薪水的调查
+poj 3308-最小点权覆盖
+[原]hdu 4328 Cut the cake(最大子矩阵)2012 Multi-University Training Contest 3
+PKU 3076 Sudoku Dancing Links (DLX) 果然很生猛……
+TOPCODER SRM405 DIV1 250分题 Relative Path
+PKU2318 TOYS
+PKU1077 Eight
+HDOJ2185 Chess
+就业信息
+pian
+一切皆整数的FFT
+[转]使用快速傅里叶变换计算大整数乘法
+ac自动机模板(hdu2222)
+又一个sap
+继续收集网络流模板。。。
+有向图的强连通分量的三个算法【转】
+[计算几何]求一点对圆的两个切点
+中国剩余定理(孙子定理)模板
+高斯消元法解方程组
+hdu 2222 ac 自动机
+hdu 2222 继续tle。。。
+trie  hdu2222(tle)
+sap sap sap ...
+欧几里德算法和扩展欧几里德算法[转]
+最近几日要集训的数学题{转}
+我的成长日记
+推荐BLOG  http://hi.baidu.com/polymorphism_1/home
+人生，正如dota
+带上下界的网络流总结
+USACO 5.2 fence3
+枚举真的很牛X
+揭秘最露骨的大学生活——如果你也是大学生
+从今天起
+USACO 3.1 Shaping Regions 神迹模拟秒杀此题，跪拜！
+汇编中标志位OF设置规则
+消除文件夹被病毒置上的隐藏属性
+一键清理系统垃圾文件.bat
+如何解决opencv读取avi视频文件一闪而过
+【GAME】男人游戏，撑过20Sec
+【NEWS】高清组图：客车渝宜高速重庆垫江段冲出护栏致5死43伤（11P）
+【学好日语】千と千寻の神隠
+【语录】创造条件也要上
+重庆市第二十五届科技创新大赛
+【影评】【站长推荐】リング（午夜凶铃）
+批处理之ren命令-可批量修改文件名
+【解题报告】【网络流24题】#03 最小路径覆盖问题
+【仓木麻衣】Tonight，I Feel Close TO You
+【解题报告】【网络流24题】#07 试题库问题
+【解题报告】【网络流24题】#20 深海机器人
+水樹奈々-ETERNAL BLAZE
+artery 积累一点是一点
+2012年初寄语
+js动态生成页面高度
+给超链接 添加 点击确认
+日期和字符间转换
+做技术的，不要搞封建迷信活
+和大家分享一下
+团队中 什么养的人会被淘汰
+win7中 运行regsvr32
+总结：怎样把php与MySQL建立连接
+好无聊哦
+在GAE安家咯
+GLUT Tutorial--第四篇 Animation
+Cannon(TW版)
+Hello World (OpenGL版)
+GLUT Tutorial--第三篇 Preparing the window for a reshape
+GLUT Tutorial -- 第二篇 Initialization
+GLUT Tutorial -- 第一篇 setup
+花开暖春
+HDU 2670 -- Girl Love Value
+HDU 1160 --FatMouse&#39;s Speed
+什么样的公司是好公司？
+推荐一个网站
+zoj1965
+zoj1097
+zoj1948
+zoj1189
+zoj2508
+c++条款（转载）
+C语言编程易犯毛病集合(转载）
+使用GDB和Valgrind调试C程序（转载）
+stl 之vector
+iota()
+POJ1008-Maya Calendar 模拟
+POJ3239-Solution to the n Queens Puzzle
+random_shuffle
+文件目录操作 ls_pwd_cd
+poj 百练 2698:八皇后问题
+POJ3295-Tautology   （构造）
+poj 2954 Triangle(pick定理)
+POJ2586-Y2K Accounting Bug
+获取机器名+cpu编号+硬盘编号 C#代码
+获取本机的IP+本机主机名+获取本机MAC  C#代码
+繁体简体互相转换 C#代码
+Excel文件导入导出 C# 代码
+6.6---竞争
+5.6  微博的利与弊
+EditPlus 快捷键
+5.30   大学的讲座
+5.29   大学生就业选择
+5.29    志愿者工作
+IT行业是吃青春饭的?
+第三,四章 ................
+K短路 A*
+N!约数的个数
+POJ 2723 Get Luffy Out (2-SAT)
+POJ 1201 Intervals (差分约束)
+HDU 3663 Power Stations(DancingLinks精确覆盖)
+SPOJ 1771 Yet Another N-Queen Problem(dancinglinks精确覆盖) N皇后问题
+POJ 3635 Full Tank?（BFS+堆优化）
+POJ 3613 Cow Relays(S到T经过K条路的最短路)
+sgu 148 B-Station (堆+枚举)
+Ural1078 Segment（最长下降子序列）
+这也叫生活~
+about done
+又是一年元旦。
+转一篇官方的VIM教程
+杯吹了~~~~~~~~~又杯吹了~~~~
+关于UNION ORDER BY 排序第二个子句的问题
+头疼, 转一些GAE 中BLOGSTROE的东东吧
+转一篇不错的关于吉他学习的文章吧~!
+ZZ: 程序员咆哮体--程序员尼码伤不起
+新年上班第一天,
+[Java]读取文件方法大全 (2)
+[Java]读取文件方法大全 (1)
+JQuery 库文件引用
+MySQL数据库管理常用命令
+IE标题栏被修改解决方法
+搭建SSH框架 基本步骤
+js 判断非法字符
+ssh中如何使用count取得表中记录总数
+IE无法解析HTML
+MySQL常用命令
+若干思绪
+单调队列DP
+又是题目
+数独问题
+AC自动机
+各种题目，刷不完啊
+好不爽
+xxxxxxxxx
+题目分类
+waterloo
+并查集
+poj2386 and poj1856
+poj1423
+poj1256 and poj1731
+poj1664(递推的奥妙)
+poj1745
+数论中常用的公式（转）
+poj 1579(DP or 递归)
+qsort的七种用法
+poj2231的解题报告
+去优酷广告
+hdu/hdoj1279 验证角谷猜想
+hdu/hdoj1021 Fibonacci Again
+hdu/hdoj1019 Least Common Multiple
+hdu/hdoj1016 Prime Ring Problem
+hdu/hdoj1103 Flo&#39;s Restaurant
+hdu/hdoj1042 N!(解题报告,再接上文3/3)
+hdu/hdoj1042 N!(解题报告,接上文2/3)
+hdu/hdoj1042 N!(解题报告1/3)
+hdu/hdoj1051 Wooden Sticks
+win7自动网络搜索安装驱动设置
+win7 ie9修改about:wz值
+删除多余的系统启动项
+eclipse配置jdk路径
+SQL servers 安装时出现重新启动计算机的解决方法
+归并排序分析
+制作GHOSTXP的完整过程+GhostXP超详细制作过程(新增视频教材-教你制作GHOST XP系统，在最下面 )
+ZOJ Problem Set - 3365  Integer Numbers
+ZOJ Problem Set - 2414 Index of Prime
+java程序打包时指定主类
+poj1201(差分约束)
+poj1511(dij+heap)
+poj1408(简单多边形面积)
+poj1850(杂题推理)
+poj2513(并查+trie)
+poj3253(哈夫曼树的思想)
+poj2002(hash)
+poj2503(二叉树法)
+poj2299
+poj(字符串匹配)
+zoj 2745 01-K Code(dp)
+Reverse the prefix (福州网络预赛）
+hdu 1695 GCD
+pku 2773 Happy 2006(二分+容斥原理验证）
+pku Cut the Sequence(dp+单调队列优化）
+Subsequence(dp+单调队列优化）
+2823 Sliding Window（单调队列）
+hdu 3433 A Task Process(二分+dp验证）
+Network Connection（dp优化）
+Max Sum Plus Plus Plus
+C#对话框总结
+C#打包文件夹成zip格式
+DataGridView 按下Enter键后 不向下移动一行
+DataGridView 添加新行
+C#通过文件路径获取文件名
+C#中TreeView控件的用法
+WinForm C# 打开文件
+sgu 118  Digital Root
+sgu 113 Nearly prime numbers
+sgu  105 Div 3
+poj 3404 Bridge over a rough river
+poj 1283 Moving Computer
+poj 1289 The Cat in the Hat
+计算表达式...
+关于爱情
+用践实现迷宫问题
+大学不该这样
+川大之行感慨
+POJ 3104详解
+单向链表的建立实例
+颓废笔记
+我还很菜啊...太菜啦
+HDU 1004
+poj 1038 Bugs Integrated, Inc.
+2301: [HAOI2011]Problem b
+poj 3904 Sky Code
+poj 3764 The xor-longest Path
+2115: [Wc2011] Xor
+poj 2448 A New Operating System
+Command Network
+2304: [Apio2011]寻路
+poj 1419 Graph Coloring
+poj 2289
+仙剑年表_百度百科
+POJ2528-Mayor&#39;s posters
+POJ3308-Paratroopers
+POJ2186-Popular Cows
+POJ3177-Redundant Paths
+POJ3352-Road Construction
+POJ2942-Knights of the Round Table
+POJ1523-SPF
+PKU_1088
+PKU_1013
+PKU_1012
+PKU_1009
+PKU_1008
+PKU_1007
+PKU_1006
+PKU_1005
+PKU_1004
+PKU_1003
+C#调用SQL Server存储过程里例子代码
+数字签名
+ACM 做题计划（转）
+【转载】ACM常用算法及其相应的练习题
+hdu 1788 Chinese remainder theorem again
+__int64的用法（转）
+中国剩余定理
+最大二分匹配（匈牙利算法）
+欧拉函数
+Pseudoprime numbers ——POJ3641/hdu1905
+欢迎大家访问我的QQ空间
+ZOJ3396  Conference Call
+错排问题
+zoj1789 并查集
+200位以内大数相乘
+毕达哥拉斯数
+HDU2066一个人的旅行
+1042  N! (大数)
+HDU1253
+南京航空航天大学ACM1562（简单的广搜）
+程序员的成长
+http://acm.hdu.edu.cn/showproblem.php?pid=2061
+http://acm.hdu.edu.cn/showproblem.php?pid=2073
+http://acm.hdu.edu.cn/showproblem.php?pid=2135
+http://acm.hdu.edu.cn/showproblem.php?pid=2032
+http://acm.hdu.edu.cn/showproblem.php?pid=2015
+http://acm.hdu.edu.cn/showproblem.php?pid=2005
+http://acm.hdu.edu.cn/showproblem.php?pid=1870
+http://acm.hdu.edu.cn/showproblem.php?pid=1302
+http://acm.hdu.edu.cn/submit.php?pid=1397
+zoj 1610 线段树+区段覆盖
+zoj2952
+hdu3123
+poj1579
+poj 2051
+zoj2165(还是广搜)
+ZOJ1091(广搜和队列)
+poj3278(广搜和队列)
+zoj1005
+ZOJ1338
+zoj2313
+1099http://acm.hdu.edu.cn/showproblem.php?pid=1099
+hdu3793
+我
+17
+cccccccc
+2010.12.22
+10.11.24.
+2010,11,21,shu kuailai ba.
+纠结了半天啊！！
+xinde 10,11,20
+纯净centos安装pgpool-II
+linux(centos) 防火墙的添加端口与重启操作
+远程登录ssh与远程拷贝scp
+hdu 1695GCD容斥原理的应用
+UESTC 1552 最大公约数
+map用法
+ZOJ 1160
+ZOJ 1205
+ZOJ 1292
+ZOJ 我真的是不懂你
+ZOJ 3487 3488
+ZOJ 3490 3492 3498 3499
+ZOJ 1622 Switch
+ZOJ 1858 Soundex
+ZOJ 1871 Steps
+noip最后的废话
+[Usaco2006 Nov]Roadblocks第二短路 解题报告
+[Usaco2005 Mar]Out of Hay 解题报告
+[Usaco2005 Jan]Moo Volume 解题报告
+[Usaco2005 Dec]Knights of Ni 解题报告
+[Usaco2009 Open]工作安排Job 解题报告
+[Usaco2007 Nov]Milking Time 解题报告
+[Usaco2007 Feb]The Cow Lexicon 解题报告
+ABCDEF(ABCDEF.c/cpp/pas) 解题报告
+锯木 (cut.c/cpp/pas) 解题报告
+poj1504
+POJ1493
+自己该读的书，该做的事情
+POJ题目分类---水题（给自己用来刷的）
+POJ1484 注意一定要等到系统数据输入完才能break
+POJ1450 要学会找规律的推导问题
+POJ1350 这题注意题意
+POJ1326 这题很狗 虽然不难
+POJ1316 水题 但是公式很难找 或者暴力 或者打表
+POJ1318 两次快排
+Boyer-Moore算法学习
+HDU 1999
+HDU 1170
+HDU 2802
+HDU 2565
+HDU 1045
+HDU 2023
+HDU 2116
+HDU 1222 &amp; 2104
+HDU 1097
+休息的下午
+说些不能随便说的。。。
+不知道用什么题目了！
+等。。。xxx天——4
+等。。。xxx天——3
+等。。。XXX天——2
+等。。。XXX天（忘记等了小准有多少天了）
+等。。。344
+萌物~
+等。。。301
+Process Thread Window之关系
+[转]Window 中窗口的层次关系以及窗口的属性
+c++/c字符串操作函数
+php 中文数字化为阿拉伯数字
+基于svnserve的服务器，权限文件authz配置的常见问题及解答
+socket.io获取客户端IP
+linux at crontab 命令
+Linux_CentOS常用命令讲解
+linux shell 常用命令
+linux shell编程读写文件
+（原创）让VS2008和VC助手点亮&quot;*.cl&quot;文件
+VIM设置代码折叠
+(转)打开vim语法高亮
+[转]NumPy学习笔记--入门篇
+CentOS－5.4安装Nvidia显卡驱动
+【转】chmod
+《女人善变》歌词
+【转】SVN服务端和客户端安装配置
+【转】Windows下svnserve安装及配置
+index of rmvb mp3 rm百度、google突破网站入口下载
+oracle和linux
+jdk1.6环境变量的设置
+静
+特别美的图片
+改变
+抄来的
+CSDN专家
+STRTOL
+string转int C++
+string转int
+POJ 3262 Protecting the Flowers——贪心
+POJ 2387 Til the Cows Come Home——裸最短路+SPFA
+POJ 1014 Dividing ——二进制拆分的背包问题
+P1504 Adding Reversed Numbers——字符串与整数灵活转换
+POJ 1207 The 3n + 1 problem——深搜+记忆化
+POJ 1002 487-3279——字符串处理+判重
+POJ 3250 Bad Hair Day——单调队列
+POJ 2823 Sliding Window——滑动窗问题，单调队列
+POJ 1001 Exponentiation——高精度小数乘法
+USACO Section 1.3 Prime Cryptarithm
+POJ-3624 背包问题 基础DP
+POJ-1159 最大公共子串 基础DP
+POJ 3268  Bookshelf 2 基础DFS
+让CPU跑正弦曲线
+从外圈到内圈读取二维矩阵
+回车和换行的区别
+SRM 404 DIV 2(谨以此贴悼念我的第一个TC账号--proudboy）
+Agri-Net(POJ-1258)Prim
+简单的倒计时程序
+(转)详解KMP算法中Next数组的求法
+毕业
+Rational Rose 2003 下载、破解及安装方法（图文）
+hdu3019  java AC版
+hdu3018
+hdu3017
+hdu3013
+hdu3012
+hdu3011
+hdu3010
+hdu3009
+CMD下的FTP命令
+如何在windows环境下安装linux os
+AIX操作系统及HACMP群集系统安装步骤
+好东西
+socket错误代码与描述
+字符串最小表示法
+pku 2085
+pku 3697
+Codeforces Beta Round #23 problem-C
+zoj 3332
+pku 1986(lca）
+看到的一个很不错的分析LCA和RMQ的文章（转载，先收着）
+sgu 168
+pku 1273(dinic)
+pku 1273(最大流——isap)
+软件产业发展趋势（转）
+NB的死循环
+美国计算机教育...（转载)...  话说最近有点颓
+计算机科学与技术学习反思录
+The Halting Problem
+2010年 Fighting For TSH-CS
+sage for ubuntu 杯具
+编译原理(词法+语法)复习心得
+An Application Of Chmosky Normal Form
+POJ 1155
+PIC18f452 写的时钟程序
+同轴电缆为什么抗干扰能力强？
+宽带放大器
+非线性失真
+全排列
+HDU 1010 Tempter of the Bone
+求和
+迷宫搜索
+ACM to the max  子矩阵
+substrings  HDU1238
+pku 1160 Post Office
+Codeforces Beta Round #69 (Div. 2 Only)
+pku 1679 The Unique MST求次小生成树
+Codeforces Beta Round #62
+hdu   1978(记忆化搜索）
+hdu 1502
+pku 1988 Cube Stacking
+pku2155 Matrix(二维树状数组应用）
+pku 1195(二维树状数组运用）
+pku 2352树状数组
+A GUIDE TO RESUME WRITING （转)
+pku1186
+WOJ1150 Problem 1150 - Stock Investment  区间dp
+woj1074
+woj1138 矩阵求和+二分快速幂   acm必备良药
+woj1128 矩阵求和公式的应用
+第一个java程序，woj1412
+java中的classpath设置
+java中的import和package
+树状数组——tju2144
+pku 1091扩展欧拉函数
+pat1016Phone Bills
+最小生成树kruskal+并查集实现
+让cpu画正弦曲线
+九度oj1019-简单计算器
+九度oj1007--奥运排序问题
+哈佛学生是如何度过大学4年的(转)
+关于vs2010中的error LNK2001错误
+（转）两个类相互包含引用的问题--类前向声明
+miniJava的语法分析
+八数码问题 IDA*算法+曼哈顿距离 poj 1077
+VC实现系统热键激活后台服务程序(转)
+累
+东北赛结束了
+郁闷的一上午
+每个中国人都应该看看
+pku3565 Ants
+有向图的强连同分量
+pku2917 Diophantus of Alexandria
+pku2337 Catenyms
+火箭输了
+hdu 4160 Dolls （最大独立集）
+hdu 1281 棋盘游戏（最大匹配）
+hdu 1150  最小点覆盖=最大匹配
+hdu 1213 （并查集模板题）
+hdu 1142 A Walk Through the Forest（spfa+记忆化搜索）
+hdu 1116 Play on Words （并查集+欧拉回路/通路）
+hdu 2082
+一些吐槽
+poj 29414 Minimum Cut （最小割模板）
+poj 2438 Children&#39;s Dining （求哈密顿回路）
+搬家
+HDU3551 一般图最大匹配
+ural1099 一般图匹配模板题
+[BUPT]204 Palindrome 后缀数组+RMQ+RMQ+二分
+【HDU3681】Prison Break 状态压缩DP+BFS+二分答案
+【ZOJ4257】【POJ2411】状压DP
+【POJ2288】【TOJ1189】代码
+【POJ2288】【TOJ1189】Islands and Bridges 状压DP
+【HDU3001】TSP三进制状态压缩DP
+【POJ3311】类似TSP问题——状压DP
+【POJ3254】简单状压DP
+【POJ1185】炮兵阵地——经典状态压缩DP
+【NOI1997】积木游戏
+【TOJ3645】Are You Busy
+【TOJ2357】【POJ1753】Flip Game
+睡觉吧
+hdu2583
+vs2005  vs2008 使用teechart心得
+或可
+javascript笔记
+CSS笔记
+十四夜的月
+梦里雁门行
+html笔记
+和清明
+绝句
+好久没写文章了
+Oled -X综合测试系统
+MFC绘图（转载）
+joj 2077
+HDU 1016 正确版本
+匈牙利命名法 匈牙利命名法规则 匈牙利命名法规则大全 匈牙利表示法
+str.erase 和 str.find
+scanf 用法小议
+fopen()函数的参数说明
+fprintf
+关于typedef学习的两个实例
+HDU 1322
+HDU 1207 汉诺塔 DP
+hdu 2056
+Dest: case 与 switch
+Dest: 引用 的使用
+hdu 1143
+A code to test enum
+a test about extern
+http://acm.pku.edu.cn/JudgeOnline/problem?id=1129
+多边形面积http://acm.hdu.edu.cn/diy/contest_showproblem.php?cid=880&amp;pid=1002
+http://acm.pku.edu.cn/JudgeOnline/problem?id=2403
+任意进制转换 POJ1546
+简单广搜 POJ1164 The Castle
+pku 1496排列组合
+pku 3517 约瑟夫环演化
+斐波那契数列
+中等题 pku 1050
+中等偏简单题 pku 2955
+简单题 pku 1163
+pku 1573
+pku 2907
+pku 1519
+ACM之java速成(转)
+pku3176  hdu2084(数塔中的部分体会)
+zoj 3223
+zoj3230 Solving the Problems
+树状数组
+浙江省第五届大学生程序设计竞赛题目zoj 2965~~2976
+扩展gcd--
+Equation Again
+简单dp
+BST Binary Search Tree
+巧妙的dp
+Root :: Contest Volumes :: Volume CXV 11582 - Colossal Fibonacci Numbers! 循环节
+诛仙 新电信四区 日月同辉 推广ID
+数的符号问题
+关于工作
+提高 Linux 上 socket 性能(转)
+嵌入式编程字节对齐问题(转)
+linux下vim命令详解
+关于typedef
+Linux SSH远程文件/目录传输命令scp
+莫生气
+冯巩的幽默
+GCC详解（转载）
+条件变量、pthread_cond_init 收藏
+转:【Posix线程】pthread_clean_push和pthread_clean_up的使用
+(zz)线程等待和线程激活
+该死的理论考试
+poj 3225
+poj 4052
+[DP+BST优化]PKU 3017 -- Cut the Sequence
+poj 4044,poj 4045
+qq
+浙江省赛 结题报告 2
+浙江省第8届程序设计竞赛解题报告 1
+求强连通分量 pku2186 Kosaraju算法
+linux下bochs创建最简单的OS(一)
+[转]写给计算机软件专业的大学生
+程序员与技术
+ACM计算几何题目推荐（第二期）
+矩阵乘法题目总结
+SAP Dinic
+网络流算法——SAP（转）
+hdu 3911 Black And White
+SG函数
+hdu 3401 Trade
+fzu 1977 Pandora adventure
+hdu 3377 Plan
+zoj 3526 Tour in the Castle
+ural 1519 Formula 1
+hdu 3893 Drawing Pictures
+hdu 3872
+poj 3017 Cut the Sequence
+BZOJ 1497 最大获利 最大权闭合图
+BZOJ 1412 狼和羊的故事 最小割
+BZOJ 1001 狼抓兔子 平面图最小割
+·轉］Eclipse快捷键
+VIM/多个窗口
+ubuntu下各种乱码
+U盘安装Ubuntu 11.04的问题
+学习Mathematica中
+POJ3921/最大流，最小割，连通度
+BASH 数组用法小结
+RPM中文手册
+将YUM得源设置成本地FTP服务器
+Fedora Core 下的chm阅读器
+C++中处理对象构造对象顺序
+【囧囧发布】漫步小镇
+2010
+省赛小结
+POJ1112 Team Them Up!
+POJ1496 Word Index &amp; POJ1850 Code
+POJ3592 Instantaneous Transference
+POJ2762  Going from u to v or from v to u?  &amp;&amp;  Kosaraju求强连通分支
+终于知道Win和Linux的换行的区别了
+POJ2983 Is the Information Reliable?
+POJ1390 Blocks
+POJ1934  Trip
+POJ2653  Pick-up sticks
+[POJ]3049
+[POJ]3620
+[POJ]3048_ 219ms
+[POJ]3048_657ms
+[POJ]3268翻译
+PKU 1222 高斯消元
+【转】POJ 1286  Necklace of Beads
+hdu 2841 Visible Trees
+PKU 3270 Cow Sorting（置换圈）
+PKU 2429 GCD &amp; LCM Inverse（分解大数因数）
+PKU 3696 The Luckiest number（欧拉定理）
+PKU 2478 Farey Sequence（欧拉函数）
+PKU 2689 Prime Distance（筛区间素数）
+PKU 2891 Strange Way to Express Integers （中国剩余定理普及版？）
+PKU 2142 The Balance（扩展欧几里得算法）
+二叉树 建立 遍历及各种操作。
+hdu acm 1058
+hdu acm 1272
+hdu 2275 multiset 的应用
+hdu  1238 字符串处理
+hdu 2576
+hdu  1798
+hdu 1408
+hdu   1205
+hdu 2504 又见GCD
+南海诸岛
+我国成功发射&quot;天绘一号02星&quot;  转自 新华网
+菲律宾赶紧滚出黄岩岛
+戴旭：中国只有爱国主义不存在狭隘民族主义 转 sina军事
+中国首次采用一箭双星方式成功发射2颗北斗卫星 转
+Linux　awk命令详解
+c++ getopt_long
+debian 更新时出现公钥错误的解决办法 转
+Perl 自娱自乐 模仿 tree
+中俄军方宣布22日起在黄海举行联合军演 转
+去噪
+图像去雾算法
+快速排序
+快速幂
+ZOJ-1370
+ZOJ-2313
+ZOJ-2996
+ZOJ-1376
+ZOJ-3247
+ZOJ-1128
+归并排序算法
+教育部你就别折腾了
+锐捷重启问题
+PL/SQL远程链接数据库
+常用JSP文件上传,下载的一些方法
+命令行出错Exception in thread &quot;main&quot; java.lang.UnsupportedClassVersionError
+Windows下查看端口被程序占用的方法
+Java日期格式化操作
+java泛型
+虚拟机VMware Workstation与主机间共享文件的七种方法
+卡片DC关注
+我愿意陪你从A到Z
+‍JDBC事务处理
+常用的正则表达式
+eclipse各种版本网址
+关于Eclipse中import javax.servlet.*出错
+引入包import javax.servlet错误
+java试卷（程序设计）
+java试卷（程序填空）
+java试卷简答题
+java试卷判断题
+java 考卷填空题
+[ZZ]编译原理小结（比较清晰而且准确）
+mini文件系统
+线程调度和通信
+第一阶段完
+《如果让我重新读次研究生》——王泛森院士(转载)
+关于考研
+奥巴马胜选演说
+POJ 1716   贪心
+POJ 3088 DP
+POJ 3193  set加二分查找
+POJ 3256 DFS
+POJ 3020 二分图匹配
+POJ 1274&amp;&amp;3041  最大二分匹配/匈牙利算法
+POJ 1273 最大网络流
+并查集POJ 1703&amp;&amp;2492
+为什么镜子可以颠倒左右却不能颠倒上下？
+From &quot;Cat&#39;s Cradle&quot;
+Appropriate Conditions of Emotions
+20100508 — POJ 1742
+20100508 — POJ 1742
+20100506 — POJ 2057
+20100505 — POJ 3254
+20100505 — POJ 2948
+20100505 — POJ 1837
+20100430 — POJ 2525
+web.py   -重定向 和web.input（）用法
+linux ps aux|grep post_id
+显示文件第几行到几行
+2011/1/4前段时间的总结
+最近学习了linux，python，mysql
+整数转换成32位二进制数
+hdu 2134
+hdu 2113  这道题的输出格式好奇怪
+HDU 2100没有做对，大概意思我是知道的。
+HDU  2124
+《玉笑零音》　　（明）田艺衡 撰
+【转载】神秘常量复出！用0x077CB531计算末尾0的个数
+[OI笔记]后缀数组学习笔记--后缀数组解题方法总结
+斐波那契序列 (转的)
+总结一下POJ二分图最大匹配的简单题目
+POJ 搜索题目推荐
+[汇总]字符串题目推荐及解题报告
+[汇总]搜索题目推荐及解题报告(8.28更新)
+poj 1915 Knight Moves
+poj 3159 Candies
+poj 1511 Invitation Cards
+福州现场赛 E Fermat Point in Quadrangle
+用归并排序求逆序数
+poj 1751 Highways
+poj 1860 Currency Exchange
+poj 1797 Heavy Transportation
+topcodeC++格式
+hdoj 4123(树形dp+RMQ)
+hdoj4067(最小费用最大流)
+hdoj 4115(2-sat)
+hdoj 4028(离散化dp)
+hdoj 4069(dancing link)
+poj 3074(DLX算法)
+hdoj 4009(有向MST)
+hdoj 4008(树形dp)
+hdoj 4003(树形dp)
+我的成长日记
+Vi学习
+最短路径 之 SPFA算法
+既然来了，就写点什么吧~
+最大子段和 各种算法讨论
+ZOJ50+纪念~小结
+ZOJ-2892 Wavelet Compression
+Codeforces Round 16(B) B. Burglar and Matches
+ZOJ-1205 Martian Addition
+HDOJ-1213 How Many Tables
+【招行助我走大运】推荐福建师范大学的林艳同学参加2011深圳大运会注册大学生记者选拔
+1050fz
+fzu1016
+hdu2061
+hdu2550
+hdu2549
+气球黑红
+bool
+hdu
+hdu1321
+HDU3889 Statistical Problems
+对称排序  NYOJ 283
+HDU 3877 Special sort
+acmer 慢慢来
+ACMer必备知识
+转poj pku搜索题目推荐及解题报告
+HDU 1792  A New Change Problem
+poj 2585 Window Pains 拓扑排序
+hdu 3732 Ahui Writes Word 多重背包
+转载]hdu 3730 贪心
+qsort函数应用大全(转)
+catalan数列(转)
+数列公式大全
+C/C++头文件一览
+C++中string相关函数
+搜索字符串函数的应用，求n个字符串的子串||反串的最大值
+一切皆整数的FFT
+给高中学生写的关于信息学科专业的介绍，大家请指教！
+张小娴的话
+poj1491简单题
+poj1565进制转换
+poj1218
+poj2234简单博弈
+poj2140又是一道水题
+poj1665水题
+poj1401一道数论水题
+hdu 1287
+诟病
+区分什么时候调用构造函数，复制构造函数和赋值操作符
+hdu 1209
+《与狼共舞》鉴赏
+hdu 1385
+hdu 1238
+97年世界编程大赛第一名写的程序
+hdu 3463
+hdu 1075  1251
+【转】小波变换与傅里叶变换
+ＰＫＵ题目分类（7）
+ＰＫＵ题目分类（6）
+ＰＫＵ题目分类（5）
+ＰＫＵ题目分类（4）
+PKU题目分类（3）
+PKU题目分类（2）
+PKU题目分类（１）
+【转】KMP算法详解
+【转】最小树形图
+后现代主义哲学 第四周 3/7/2012
+关于韩松的《地铁》
+SQL server2008 CTE实现递归查询(ZZ)
+latex源代码(zz)
+一个简单的Tex模板(zz)
+核Fisher方法
+说明
+模式识别---SVM算法
+简单神经网络 BP算法----------模式识别作业
+103
+半个月
+x86 arm mips字节对齐问题
+mips堆栈
+20111104 赣州
+关于重构
+查bug
+coder
+为成功找方法
+mii-tool
+vpn学习方向
+OBJ文件格式
+2010-11-11
+顶点法线计算问题
+ZOJ-1234-Chopsticks(DP)
+ZOJ-1227-Free Candies(DP)
+ZOJ-1206-Win the Bonus(dp)
+ZOJ-1196-Fast Food（DP）
+ZOJ-1183-Scheduling Lectures（DP)
+ZOJ-1149-Dividing（多重背包）
+22岁生日一天
+容我碎碎念
+奇特的图形
+POJ2583-Series Determination
+POJ2739-Sum of Consecutive Prime Numbers
+POJ3094-Quicksum
+又一学期过去了
+POJ3253-Fence Repair
+POJ2707-Copier Reduction
+POJ2262-Goldbach&#39;s Conjecture
+POJ3117-World Cup
+Visio2010 画基础类图入门.
+hdu 3567 BFS
+SQL2000安装教程
+poj 1062
+poj 1129
+poj 1141
+poj 1159
+poj 1177
+poj 1191
+poj 1611
+poj 1390
+poj 1286 polya
+poj 1269
+poj 1251
+poj 1222 高斯消元
+double 转换成 int 精度问题处理~商榷
+美好的事物
+我的没有什么问题的 vim 配置
+曾经我cygwin的vim的配置文件 vimrc 的内容如下
+解决 vim显示和输出的乱码问题
+第三次写8皇后。。
+dawn~make~
+vim 常用插件
+如此看来~
+poj 1505 copying Books 动态规划
+Android Out Of Memory(OOM) 的详细研究
+sigaction函数解析
+本空间已停止更新，不再使用。
+stm32库的使用
+在MFC中，要实现这个消息才能改变CEdit的字体颜色
+无题
+CRC校验
+在字符串中读取8bit十六进制数
+显示错误信息getlasterror
+C++复习2
+C++复习1
+修改注册表，恢复显示隐藏文件
+VC++ CLR项目中调用windows API等等
+linux常用命令
+一个男孩的自述
+Bit field
+冰粥
+STL bitset用法总结
+STL里面有个sort函数
+c++标准库——set和multiset容器
+正式进入考研复习！
+算法实现题1-3 最多约数问题
+算法实现题1-2 字典序问题
+算法实现题1-1 统计数学问题
+hdu 1032 (The 3n + 1 problem)
+Fibonacci数列
+旧感情重燃！
+请问堆(heap)和堆栈(stack)有什么区别
+快捷方式链接默认主页更改
+腾讯QQ使用何种开发平台？
+SQL Server数据库降级
+Microsoft Visual C++ 2010 Redistributable Package
+VS2005 和 VS2008 弹出新建想到脚本错误
+C++ STL 中map　的一些用法(转)
+Anagram_1256_pku
+大小写转换和字符数字判断函数
+大小写转换和字符数字判断函数
+初等数论
+Crossed ladders_pku_2507
+Highways_pku_2485
+Hardwood Species_pku_2418
+Agri-Net_pku_1258
+THE DRUNK JAILER_pku_1218
+An Easy Problem_2453_pku
+1102_LC-Display_pku
+1126_Simply Syntax_pku
+tm
+Thank you for everything
+后缀数组
+floor(x+eps) ceil(x-eps)
+[void]手滑
+[学习][被虐]用DLX做数独, POJ3076
+Dancing Links 学习小结
+pku 3155 最大密度子图
+spoj839 Optimal Marks
+pku3294 Life Forms
+pku3693 Maximum repetition substring
+pku3261 Milk Patterns
+pku1783 Fractran
+pku1396 Simple Arithmetics
+pku1743 Musical Theme
+Stringology in POJ – Part 1: Suffix Array
+搬家了~~
+zoj3141 Arnie&#39;s Dog Biscuits(DP)
+zoj2711 Regular Words(DP)
+zoj2202 Alphacode(DP)
+zoj2136 Longest Ordered Subsequence(DP)
+hdu 2067 小兔的棋盘
+poj 3302 Subsequence
+POJ_1995_Raising Modulo Numbers
+poj 2470 Ambiguous permutations
+POJ 1028 Web Navigation
+hdu 1286 找新朋友
+hdu 2072 单词数
+hdu 2672 god is a girl
+hdu 1180 诡异的楼梯
+Miller-Rabbin素性测试
+扫雷
+一道初中几何题目
+Make a choice or not
+这一年
+2010成都赛区总结
+hdu 3264 Open-air shopping malls二分+圆相交面积
+hdu 3589 Jacobi symbol二次冗余的应用（一切皆是枚举题意）
+hdu 3579 Hello Kiki 中国剩余定理（不互质的情况）
+pku 1410 Intersection
+回味仙四之厉江流与欧阳明珠
+zju2723
+zju2420
+read file
+高性能服务器架构(转)
+poj3982
+poj1503
+Problem: 2602
+poj2389大数乘法
+宏是不存在的东西
+bash 遍历文件 2
+7月书摘
+杂谈
+成熟点，送给所有朋友
+zz:告诉你一个真实的中国互联网：精英与草根 陈怀临
+关于LCA
+[转]天津赛区网络赛非正式题解 by RoBa
+天津网络赛 1007 Giant For
+poj 2763  路径剖分+LCA
+戒小说
+poj 3709
+HDU 3854 Glorious Array——据说是水体，出题人本意是出成线段树+二叉平衡树！？
+poj 1511 Invitation Cards SPFA+邻接表
+poj1011木棒问题&lt;深度优先搜索&gt;
+POJ 1995 Knight Moves 第一次被discuss坑了的题
+poj 1101 The Game
+POJ 1001 求高精度幂（坑爹，DEBUG了两小时才AC）
+【转】freopen - C/C++文件输入输出利器，从此告别繁琐输入
+自己写的八皇后问题解法，理论上还可以解小于100的皇后问题
+POJ 2299 Ultra-QuickSort
+HDU 2899 Strange fuction
+这题到底nm有多少做法
+DarkTemple
+PA2008 Dragon Milkdrinker
+想虐数学的可以去这个blog。。
+筛法复杂度之谜
+Solution of SGU 109
+Solution of SGU 108
+Solution of SGU 107
+Solution of SGU 106
+Solution of SGU 105
+学长们毕业了2
+pku 1336 The K-League
+pku 2368 Buttons
+pku 2369 Permutations
+pku 2373 Dividing the Path
+mySQL安装问题
+真爽
+还有一年半
+pku 2985 The k-th Largest Group(接上一页)
+pku 2985 The k-th Largest Group
+最小生成树计数
+Picnic Planning
+分糖果
+NOIP2011 观光公交
+树状数组 高级ADT
+NOIP2011 DAY2 赛后
+NOIP2011 DAY1 赛后
+NOIP数论 数学方法 总结
+[转]小思Catalan数
+神马快跑 NOIP2011复习之图结构
+51单片机 P0口工作原理详细讲解
+poj 2503解题报告
+关于c++循环体里定义变量的说明
+poj2524解题报告
+poj1308解题报告
+poj1521解题报告
+poj1065解题报告
+sort函数的cmp函数的格式
+poj2528解题报告
+快速求正整数次幂
+pku 1682 Clans on the Three Gorges，动态规划（2）
+pku 1682 Clans on the Three Gorges，动态规划
+被校赛的简单题虐！
+pku 1201 Intervals，差分约束
+pku 1716 Integer Intervals，贪心 或 差分约束
+pku 1364 King, 差分约束
+差分约束系统
+pku1739 Tony&#39;s Tour, 连通性状态压缩DP
+AVL树代码
+全局钩子的小流氓程序
+hdu 3434 Sequence Adjustment
+sgu 304
+sgu 302
+sgu 301
+sgu 300
+poj 3728
+zoj 3335
+hdu 1864 bfs+猥琐减枝
+黑莓手机 推荐
+哈工大 自动化（控制）专业考研资料
+免费MD5破解、查询网站——让CMD5这个骗子站长去死吧
+[转]蔡勒公式
+12个乒乓球问题之解决办法
+[转]poj上不错的诗
+【转】C语言文件操作函数
+产生随机数的程序
+当郁闷遇到郁闷……
+魔方阵代码
+[ZZ] word插入参考文献（含中括号
+к моему другу
+ACM/ICPC 哈尔滨赛站现场赛参赛总结
+基于command命令的Windows下自动更改IP设置的方法 - 包学包会
+poj3264 - Balanced Lineup - 线段树解RMQ
+poj1113 - Wall - 凸包模板题
+XJOJ200 - 神秘的宝藏 - 凭感觉优化的Dijkstra
+Kosaraju算法 - 缩点
+poj2635 - The Embarrassed Cryptographer -千进制数与高精度求余数
+求组合 - C(n,r)
+吉歌汽车音响
+test
+逍（和谐）遥游-自（和谐）由门-你懂的
+grub.cfg详解
+解决grub的grldr和win7软破解grldr的冲突
+Javascript 获取在外部css文件中定义的样式值
+js获取当前窗口大小带滚动条
+C程代码一段，大家分析分析。
+历年英语四级【CET4】真题 + 听力MP3下载
+2010有道难题【练习赛1】-2、辛波那切数列
+关于OItraining题目添加的注意事项
+图解匈牙利算法
+十句该记住的话
+试题四：宝物筛选（Treasure.pas/c/cpp）
+试题三：古代人的难题（puzzle.pas/cpp）
+试题二：最接近神的人（spohist.pas/c/cpp）
+试题一：符文之语（chars.pas/c/cpp）
+1039. Anniversary party
+1018. A Binary Apple Tree
+1740. Deer is Better!
+hdu 4097 Triangles and Quadrangle
+poj 2066
+poj 1380
+hdu 3685 Rotational Painting
+hdu 2440
+fzu 2009
+fzu 2004 最小费马点
+hdu 1075
+hdu 1251
+poj 2451 Uyuw&#39;s Concert
+struct timeval结构体
+自制空间音乐链接的方法
+map最简单的应用
+蓝桥杯--第二题(水)
+hdu 1754  I Hate It----线段树
+hdu  1166   敌兵布阵----线段树
+hdu 1007   Quoit Design
+POJ 1700    Crossing River
+poj 1405 (贪心+递推+高精度)
+World Finals 2002. Balloons in a Box
+vim用法点滴
+windows 关机指令
+poj 3277
+poj 2155
+poj 1195
+HDU_1823
+hdu 3083
+hdu-3637 Find a Fraction
+stl map 简单用法
+二维数组字典排序
+和以前一样
+Windows 7 内部版本7601此Windows副本不是正版
+C#输入年份和月份判断天数
+如何在win7系统上安装Jdk版本1.6
+ASP.NET中GridView导出Excel文档
+ASP.NET之cookies入门
+asp.net cookies用法
+ASP.NET Cookies 实例应用与注意事项
+ASP.NET常用语句33条代码
+Win7下用IIS发布网站
+win7下安装oracle10g
+杭电/hdu 1106
+杭电/hdu 1431 素数回文
+杭电/hdu 1042 N！
+杭电/2602 Bone Collector
+杭电/hdu 2108  Shape of HDU
+杭电/acm 1392  Surround the Trees
+杭电/hdu 2026
+杭电/hdu 2025
+杭电/hdu 2024
+杭电/hdu
+非平衡数据处理
+python __call__ 语法
+Smallest Circle
+Dijkstra
+树型动态规划浅谈
+Ural 1054
+Ural 1022
+POJ 1330
+POJ 1228
+poj1179 DP
+POJ 1129 搜索...
+POJ 1118 简单计算几何
+BackGround  in   mfc
+hdu 1561
+pku 1947
+pku 1155  树形dp
+pku 1170 完全背包
+pku 3362
+foj 2030
+foj 2028
+pku 3258
+数据结构 表达式求值
+我恋爱了
+乔布斯 去世 -- 这一切来得太快了
+pku  1655 Balancing Act _ _ dfs
+我发现了一个美妙的算法，可是百度空间太小了我写不下
+google真神奇   搜出一日本大学 的 oj
+完美的压线
+ural 1056 Computer net 树的中心
+pku 1947 Rebuilding Roads  树形动态规划
+pku 2486  Apple Tree   树形动态规划
+pku 3345 Bribing  FIPA
+zoj2067 White Rectangles(DP)
+zoj3211 Dream City(DP)
+zoj2501 A Mini Locomotive(DP)
+zoj1883 Tight Words(DP)
+zoj2250 Grandpa is Famous(排序)
+hdu4069  Squiggly Sudoku(dancing links)
+hit2882 Sudoku Extension(dancing links)
+2011亚洲区预选赛 北京赛区现场赛
+AC自动机总结
+zoj3471 Most Powerful(DP)
+sql去除重复列（行）
+Diskgenius(分区表的修复工具教程)
+应用命令(持续更新)
+VC++出错汇总(持续更新)
+非名牌大学，非计算机专业，自学，从新手到项目管理，五年程序人生路（转）
+清华校长送给毕业生的五句话
+时间管理的十一条金律(转)
+时间管理的三八原则(转)
+第一个Servlet程序---解决了HTTP Status 404(The requested resource is not available)问题）
+让你少奋斗八年的八条工作经验（转）
+【转】ACM的WSN，非ACMer和没读过鲁迅先生的《孔乙己》的请绕道。。
+揭秘最露骨的大学生活——如果你也是大学生
+hdu 3947 River Problem 神之网络流
+BZOJ 2219：数论之神——同余，求原根，求指标，n次剩余
+本空间停止更新(这句话收回)
+VMware Workstation V7.1.4 完美汉化精简免激活安装版
+明天会考
+【转】Tyvj-幻影Lyd模拟赛-官方题解
+卡巴斯基关于360胡乱解读“超级工厂”的声明
+挨千刀的腾讯
+神赐的幸福
+昨天的网赛很郁闷
+POJ 2160 Box
+[ZZ] STL的常用算法
+POJ 3740 Easy Finding
+8月8 拉齐奥和鸟巢还有我
+POJ 1265 Area 很不错的一个几何题
+POJ 1129 Channel Allocation 最标准的深搜
+贝斯特经典语录:只睡过4个世界小姐
+[ZZ]浅谈编程能力的培养与提高——卓越的程序设计之道
+东北四省赛结束 是否真的该退役了
+本人的POJ和IMNU_OJ总结和分类
+POJ 2361 Tic Tac Toe
+POJ2505 博弈
+KM算法的介绍及 POJ2195
+平时学习时的好句子整理
+一年过日语一级的秘籍
+N3副词总结（好纠结）
+日语每日一句
+N3敬语总结
+N2外来语（日英中对照）
+总是记不住的单词
+N2形容动词总结（更新中）
+日语动词的分类及其活用（更新中）
+Win7删除Ubuntu后的磁盘恢复
+2010 ACM world final
+Android_1_25
+几张有创意的图片
+暂时离开ACM封号了
+1486 （Sorting Slides）二分图绝对边
+pku 2082 Terrible Sets
+(转)退役感言 by 李植炜 @ Scintilla（SCUT）
+明天出发省赛
+珠海之行
+hdu 1225 Football Score
+[C++]静态绑定与动态绑定
+Boosting 算法简介
+boosting 算法
+以LibSvm为例给出weka输出结果的简单翻译
+用玫瑰花泡茶,其功效和用法如下:
+如何让mysql随Linux开机自动启动
+MySQL HandlerSocket in Action
+HandlerSocket plugin for MySQL
+linux shm  内存共享的实例
+pipe(建立管道)
+常见JSP动作 心得
+(转)JSF页面导航问题
+tomcat下配置JSF
+JSP常用内置对象(转)
+windows下eclipse配置android过程
+LIBCD.lib(crt0.obj) : error LNK2001: unresolved external symbol _main
+创建和应用Java包文件的两种方式(转)
+开始学习Java
+ubuntu下安装jdk和eclipse以进行java编程
+实验二
+ural 1227
+ural 1183
+ural 1424
+ural 1067
+ural 1015
+ural 1056
+ural 1050
+ural 1031
+ural 1007
+ural 1096
+博客 更换地址
+Java 多线程 学习
+Hello Unicode ——JAVA的中文处理学习笔记
+html 定期刷新
+POJ 2080 Date类使用
+POJ 2418 TreeMap使用
+POJ1281 优先队列 Java
+Java 文件读入 可用于ACM调试
+Struts 1.x 动态验证框架
+POJ 3332 正则表达式
+成都现场赛的今天
+攒人品
+poj1201   差分约束
+poj 2112
+codeforce 118D
+hdu 3864 大素数测试（可做模版）
+hdu 3836 强联通缩点
+神队去北京了！
+hdu 4000
+poj2181            弱弱的纪念一下第一次1a不看解题报告做的dp
+KMP详解（转）
+hdu 3746 Cyclic Nacklace （KMP）
+hdu 1686 Oulipo（KMP）
+hdu 1358 Period（KMP）
+hdu 1711 Number Sequence（KMP）
+hdu 2807 The Shortest Path
+hdu 1316 How Many Fibs?
+pku  poj  2002 Squares  二分
+pku  poj  1131 Octal Fractions
+pku poj 1047 Round and Round We Go
+hdu 4318 Power transmission（spfa）
+hdu 4313 Matrix（深搜）
+mysql　创建和删除用户
+空间直角坐标转换之仿射变换(转)
+缘
+记录下最近的生活状态
+as.
+sscanf and sprintf
+位图写文件
+基于角点的匹配算法
+vs2008转vs2005
+favorites 无效 xp解决
+3314 Plaque Pack
+pku 1159 Palindrome
+pku 3307 Smart Sister
+3308未解决
+pku 1005 I Think I Need a Houseboat
+pku 3295 未解决
+pku 3297 Open Source
+pku 3298 Antimonotonicity
+pku 1218 THE DRUNK JAILER
+pku 3292 Semi-prime H-numbers
+pku 3300 Tour de France
+pku 3299 Humidex
+pku 1664 放苹果
+pku 1088 滑雪
+pku 1004 Financial Management
+POJ1002
+ZOJ 2996(1+x)^n
+ZOJ 3333 Guess the Price
+ZOJ 3323 Somali Pirates
+ZOJ 3322 Who is Older?
+开始走ZOJ路线
+hdoj---小希的迷宫
+1020. Tree Traversals
+1032. Sharing
+1031. Hello World for U
+1027. Colors in Mars
+cin,cout与scanf，printf的速度到底相差多少
+1028. List Sorting
+探寻C++最快的读取文件的方案
+1024. Palindromic Number
+1019. General Palindromic Number
+菜鸟
+poj1789
+取模常见类型
+poj1152
+poj1023
+poj1742  （搜索结果，判断已知是否存在bfs）
+PKU1070解题报告
+有限制的最大连续子段均值
+PKU1052 Plato&#39;s Blocks 解题报告
+hash_map hash_set hash_multimap hash_multiset
+恭喜沈胖 小竹 cnf通关了
+学习JiangYY,学习平面图最大流,结果很囧
+傻X树
+ProE New Island 解题报告(2007-2008 Tehran Site)
+POJ2113有感
+学了下Splay
+C# 基础——控件（textbox）
+pku 2242 经典几何 求三角形外接圆周长
+pku 1673   转成三角形求垂心
+pku 2954 求三角形内整点个数
+pku 2507  经典二分解方程
+Trie 树模板
+大数相加 pku1503
+n皇后  模板
+prim  模板
+kruskal模板
+n的n次幂求最高位（n为大数）
+n!   后面0的个数
+pku 1183 反正切函数的应用
+1234全排列 模版
+素数筛选打表
+Students Shift to Computer Science -- From WSJ
+Rigor or Snobbery
+ELI教程-认识复数
+ELI教程- 如何使用esf文件来编写ELI程序
+Eli 新version 新鲜出炉拉~
+poj 2328
+poj 2309
+poj 1207
+poj 1673
+poj 1503
+poj 2242
+poj 2624
+poj 2403
+poj 1423
+poj 1546
+ZOJ 3062 Count the Trees
+ZOJ 3598 Spherical Triangle
+一个经典问题的延伸
+悲剧...
+[搬家][第一帖]最近的计划
+5.09
+5.08
+5.07
+5.04
+5.03
+5.02
+4.3
+4.28
+4.27
+4.26
+acm pku 2229
+acm pku 2262
+acm xmu 1126
+acm pku 1313
+acm pku 1256
+acm pku 1256
+字符全排列
+acm pku 1056
+acm pku 2418
+acm pku 1046
+还是你
+那个不爽
+传2维数组
+hdu sort
+各种字符串Hash函数比较
+10种经典字符串hash函数
+printf()
+setprecision(int n)等用法
+float与double的范围和精度
+Pku 1401 数学题
+小希的迷宫
+汇编语言指令 ROL和SHL
+LOOP循环
+胜利大逃亡 hdu 1253
+hdu 2065 红色病毒问题
+计算几何题 poj 1265 poj 2954 poj 1654
+pick定理的证明整理
+hdu 1874 畅通工程续 DIJ floyd
+n!的问题
+hdu 1010 Tempter of the Bone
+Bjarne Stroustrup 语录
+【转】mtl&amp;&amp;Obj文件格式分析---2
+【转】mtl&amp;&amp;Obj文件格式分析---1
+【转】在Visual Studio 2005中安装Qt
+【转】没有找到MFC80D.DLL的解决方法
+GLUT库下的部分主要函数
+C++ 类访问控制（public/protected/private）
+【转】这辈子只能再见父母２５０次[师大BBS一台州人]
+清除VS2005最近的项目(转)
+Obj文件格式内幕(转)
+obj格式简介(转)
+MUD是什么(转)
+关于显卡型号后的GS，GT，GTX等
+visual studio 中的快捷键(转)
+visual studio 2005字体环境的配置(转)
+学习汇编
+zju题目分类2(转)
+zju题目分类1(转)
+zju1496
+zju1711
+zju1204
+zju1068
+zju1203
+zju1221
+zju1406
+zju1372
+zju2475
+zju2412
+zju1589
+zju1042
+hdu 4310 Hero (2012 Multi-University Training Contest 2)
+Erlang HTTP代理服务器
+Hello,World!
+悼念乔布斯
+模版更新
+简单方法“去掉”Webbroser控件的滚动条
+poj 2965 The Pilots Brothers&#39; refrigerator
+POJ 2002 Squares
+hdu 1081 To the Max
+hdu 1242 Rescue
+hdu 1495 非常可乐
+hdu 1253 胜利大逃亡
+hdu 1728 逃离迷宫
+hdu 1072 Nightmare
+hdu 1312 Red and Black
+hdu 3661 Assignments （贪心）
+map中operator[]详解
+POJ.3767 I Wanna Go Home【最短路】
+poj 3167 KMP + 树状数组
+用二叉树来理解树状数组 [免费广告]
+Treap ［别人模板］
+hdu 2243 考研路茫茫——单词情结
+hdu 3065 病毒侵袭持续中
+poj1625 郁闷的RE[改为cout就ac了，printf至今re，求解]
+hdu 2825
+poj 3691
+hdu 2850 Load Balancing（贪心+最小堆）
+hdu 2806 Selecting Problems（状态压缩+二分枚举）
+hdu 2881  Jack&#39;s struggle
+hdu 2604 Queuing(递推+矩阵乘法）
+hdu 2294 Pendant(递推+矩阵乘法）
+hdu 2811 Deputy General
+hdu 2282  Chocolate(二分图最优匹配的应用）
+hdu 2813 One fihgt one
+hdu  2846 Repository（字典树）
+hdu 2841 Visible Trees(容斥原理）
+如何记忆？
+p2p通信原理
+RSA加密算法
+文件加密传输
+狂想曲
+MySQL存储过程
+MySQL函数大全
+MySQL嵌套语法
+俗话说
+MySQL的多表操作
+过河卒解题报告
+多功能链表示例程序
+乌云十四行
+D20system纸上篮球（Basket Box ver2.1）规则及说明
+Viking Mastiva团第二十七日战报
+ＯＯＰ使用实例（归并排序）
+快速排序代码
+重解 ZJU2401 ZIPPER
+merge_sort归并排序
+Longest creasing subsuquence最长不上升\下降（严格）子序列
+重解TIMUS 1167 Bicoloured Horses
+energy necklace能量项链（伪代码）
+Great Common Increase Subence最长公共不下降子序列（不完全）
+ZJU 2271 the chance to reconter the girl题解
+Rider Waite Tarot简要赏析
+OpenGL在MFC下编程原理（1）
+OpenGL中的贴图方式
+OpenGL学习：第二课
+【转】MFC在VS2010中开发ActiveX控件，设置测试容器方案
+UML中类图实例
+一道面试题
+poj3176
+poj2533
+poj1321
+poj1840
+poj1936
+poj3080
+poj3259
+poj1860
+胡夏 - 那些年
+毕业之际
+冲动 --萧亚轩
+Mathtype公式与文档文字对齐
+The Last of Waltz 最后的华尔兹
+new word
+轻松减肥三原则
+心理战术   转载自《……》
+谈爱犹如服兵役
+matlab运算符优先级
+加油。。。myself
+zju 1457
+zju 1091 Knight Moves
+pku1942 Paths on a Grid
+zju 1259 Rails
+pku3673  Cow Multiplication
+pku1338  ugly numbers
+zju1354  Extended Lights Out
+pku1001    Exponentiation   解题报告
+zoj 1259简化
+pku 3114 Countries in War
+pku 2762 Going from u to v or from v to u?
+呆...
+晏小山...鹧鸪天
+前进是艰难的旅程.....
+千岩同学的诗.....
+转 封装、继承、多态 通俗理解
+观战总结
+华师校赛邀请赛....
+有点郁闷 睡不下 又很晚了
+USACO : A Game
+USACO3.2 Sweet Butter
+线段树总结
+Noip2010 提高组T3 关押罪犯 题解
+tyvj P1023 奶牛的锻炼 题解
+poj 1185 炮兵阵地 题解
+NiceCode 代码整理软件
+I build a BBS which just allow people talk in English.
+PHP 判断字符串是否含有中文
+Hour in the sun
+乐一乐【转】
+【转】僵尸进程和孤儿进程
+【转】ubuntu下svn使用指南
+【转】linux 终端快捷键
+Word怎么删除空白页方法汇总
+ubuntu下svn使用指南
+皮卡车科目二要领   远航
+Dash与Bash的语法区别
+Linux系统shell脚本判断变量文件目录：权限、是否存在、空值、相等(转)
+【转】Seo常用工具汇总
+此间乱...
+掠影~~
+十大数据挖掘算法及各自优势【转】
+2010百度商务搜索笔试题（1017）
+hdu1072Nightmare
+最近AC几个问题，简单小结
+hdu1073Online Judge
+hdu1088Write a simple HTML Browser
+算法设计哲理
+找不到自己的路了
+(转)如果你到了20岁,还没到25岁....-----李开复
+catalan卡特兰数
+Getting Around the Chromium Source Code
+对象切片
+poj3746 Teacher YYF
+poj3660 Cow Contest  图论  floyd
+数据结构
+LCA问题（含RMQ的ST算法）
+HDOJ 2586 LCA:Tarjan
+poj3659 Cell Phone Network  树型dp
+有向图强连通分量的Tarjan算法
+poj3697 USTC campus network  广搜
+（转）red5 日记
+（转）[SQL2005]安装Ms SQL Server 2005 开发版时出现性能计数器要求安装错误的解决办法
+100个大学生有99个回答错误的小学算术题
+回家了，又离家了
+有电脑就一定要知道的二十五个网址!(心血推荐)
+长安米贵，居之不易
+头脑简单的我，那就是我
+无稽之谈——说说考试
+无稽之谈——说说考试
+活在当前
+Java&#39;s tricks
+开始刷计算几何。留念。
+sgu-534，树形DP
+我在poj上AC的图论题目
+表达式求值O(n)（二叉树）
+poj1038 Bugs Integrated, Inc.状态压缩动态规划
+hdu3689自动机DP
+Business Card（bnuoj 1095）
+noi2004 郁闷的出纳员，绝对另类的解法
+无光驱软驱安装linux的部分方法
+poj1035Spell checker
+poj1094 Sorting It All Out
+poj3026Brog Maze
+poj2485 Highways
+poj1789 Truck History
+原来的生活
+POJ 1026 Cipher
+POJ(Campus) 1936 All in All
+POJ(Campus) 2743 字符串判等
+POJ(Campus) 2744 SubString
+POJ(Campus) 2974 487-3279
+韩乔生语录（数年后看仍吐血……）
+谶语
+Some photos
+2007年10月30号后街男孩Backstreet Boys推出让大家期待已久的新专辑【Unbreakable】，本人提供下载
+中大……
+Suddenly realize F1 is nothing to me NOW!!
+Backstreet Boys 后街男孩最新专辑最新泄漏主打歌－－Inconsolable
+挺久没上网了……
+击鼓传花游戏……我“不幸”给点中了……
+POJ 1201
+poj1338 Ugly Number
+3752 字母旋转
+2663 tri tiling
+POJ2506 递推+高精
+POJ1663
+PKU1664
+POJ1023
+poj 3140 Contestants Division
+2012年安徽省高考(理科)(一本)院校分数线和排名预测表
+TRIEQUAL
+DPEQN
+CRYPTO
+Drew it? No! Doc leaves them.
+noip2010-0
+Southern Subregional Programming Contest 2010
+October 2010 Golden Silver Bronze
+SGU 208. Toral Tickets
+link~ 我要回家~
+2007 Asia Regional Beijing
+SGU 220  Little Bishops 221. Big Bishops
+SGU 225. Little Knights
+Ural 1133-1140
+SGU 206. Roads
+虚表（C++）virtual table
+堆和栈的区别
+准备研究魔兽世界插件。。。
+qq找茬外挂
+【系列讲座】OpenMP 入门（转）
+多重网络 锐捷
+显示对方qq ip地址
+linux环境下的c++编程 (顶)
+喜欢猫的人与喜欢狗的人的性格区别
+www.csdn.net.sql csdn查询程序
+poj 3124 The Bookcase
+poj 1973 Software Company 二分答案dp判定
+poj 2396 Budget 有源汇上下界可行流
+poj 1180 Batch Scheduling 斜率优化
+poj 3709 K-Anonymous Sequence 斜率优化
+hdu 2462 The Luckiest number
+hdu 2447 K-dimension number
+hdu 3411 Snail Alice 矩阵乘法
+poj 3601 Tower of Hanoi dp
+poj 1515  Street Directions &amp; poj 1438 One-way Traffic tarjan算法的应用
+MYSQL administrator 使用
+Linux 下Android 开发环境搭建
+在 Linux 下安装 GNU ARM 工具链
+Ubuntu 服务器上 SSH Server 的安装和设置
+Pure-ftpd服务安装设置
+ubuntu 10.4 安装 ibus 拼音输入法
+ubuntu中文输入法安装
+Linux文件与目录的权限操作
+在 Ubuntu 8.10 中配置C/C++环境及测试编译C程序
+Ubuntu 8.10中安装中文输入法
+C# vs2008 创建Windows服务程序，打包成安装文件
+C#中使用网络函数 （第一部分 用户函数）[翻译]
+女人只有和成熟的男人在一起才会幸福
+女人只有和成熟的男人在一起才会幸福
+\App_Data\aspnetdb.mdf 附加自动命名的数据库，但失败...
+狮子女的特点
+数据库连接出错
+女性健康
+2010年IT人士常去的10个网站
+2010年IT人士常去的10个网站
+北大校赛有感
+zoj3497 Mistwald
+poj 2482 Stars in Your Window
+topcoder srm 502
+poj 3368 Frequent values
+hdu 2836 Traversal
+Codeforces beta round62
+POJ 1077 Eight
+POJ 2558 Genetic Code
+Codeforces Beta Round #55
+HDU 3425
+PKU 2328 Guessing Game
+杭电ACM2017
+杭电ACM2009
+杭电ACM1040
+杭电ACM1032
+杭电ACM1001
+msdn 2001
+RepositionBars的用法和参数的意义（引用别人的）
+运算符重载问题
+集合划分问题
+有重复元素的排列问题
+金币阵列问题
+最大间隙问题
+n!最后一位非0数字
+pku 2255 Tree Recovery
+匈牙利命名法
+【转】sscanf的用法
+zju 3381 dp
+我太水了~hdu 3552
+pku 2724 二分匹配
+线段树的动态删除与添加（区间第k大数）
+hdu 3433 MU_FZU A Task Process
+差点变蓝
+矩阵小结
+是靠看board才有的思路，警告自己！！！！！！！！！
+pku 1475 双重BFS
+8数码问题 15数码问题 SGU139
+Dijkstra算法的若干实现
+vim及gedit下中文乱码的解决方法
+POJ 1288 Sly Number
+TopCoder&amp;TZTester模板
+2-SAT
+POJ 2478 线性筛法求phi函数 贴代码
+搜集到的AC自动机的中文资料
+Jos-Lab1
+ubuntu下安装bochs
+美国超级英雄分类大盘点
+在VMWare Workstation上使用RedHat Linux安装和配置Hadoop群集环境03_配置虚拟机之间SSH无密码登录 .
+Redhat下配置iptables防火墙
+在VMWare Workstation上使用RedHat Linux安装和配置Hadoop群集环境02_JDK的安装和配置 .
+在VMWare Workstation上使用RedHat Linux安装和配置Hadoop群集环境01_虚拟机的安装 .
+CentOS/Redhat：手动配置IP地址（命令和图形界面）
+VI常用命令整理
+搭建基于xen技术的虚拟平台
+搬家了~~
+新的开始
+zju 1002(dfs剪枝)
+zju 1500 （树的计数）
+zju 1456 Floyd
+RP导论
+zju 1937 Addition Chains（dfs）
+zju 1148 The Game（bfs）
+zju 2965 Accurately Say &quot;CocaCola&quot;!
+zju 2723 Semi-Prime（数论）
+2011年应单独划定计算机硕士研究生复试分数线！！
+郁闷啊
+半年没登了！
+送给明天所有要过节日的男同胞和女同胞们！（尤其是搞ACM的)
+pku3256(dfs)
+pku1416
+pku3083
+pku1038(状态压缩DP)
+hdu2442(08哈尔滨网络预选赛题)
+pku3254(压缩DP）
+HDU Swordsman
+HDU 2680 Choose the best route
+HDU  2807 The Shortest Path)
+winow7 上的oracle 10g 安装问题
+献给那些在ACM上苦苦挣扎的菜鸟
+HDU 2544 最短路
+hdu 2639 Bone Collector II
+HDU 1502 Regular Words
+P09: 背包问题问法的变化（背包9讲)
+P08: 泛化物品(背包9讲）
+Sgu140——解多元同余方程模板
+ACM-ICPC World Final 2008 F题
+ACM-ICPC World Final 2008 D题
+ACM-ICPC World Final 2008 C题
+Poj3764
+Poj3763
+Ural1180
+Ural1698
+TopCoder入门教程
+第一次参加COCI 郁闷死了
+pku 3278 深搜
+dp
+1016
+1163
+pku 1018
+JavaScript 字符串转换数字 收藏
+最近
+Google Guice - 比Spring快100倍的IoC容器
+优秀的第三方 Web 技术集成
+Ubuntu 软件不能安装
+李开复给学生第七封信：21世纪最需要7种人才
+J2EE学习中一些值得研究的开源项目
+c语言面试题
+JAVA开发者最常去的20个英文网站
+实习回归
+【转载】Niubility 英语教程
+pku 1769 Minimizing maximizer
+pku 1184  聪明的打字员
+转贴 ACM的算法（觉得很好，有层次感）(2)
+转贴 ACM的算法（觉得很好，有层次感）(1)
+pku  1400  Complicated Expressions （ Central Europe 2000 ）
+pku 1461  Binary Polynomials （ Southeastern Europe 2003 ）
+pku 1683  Puzzlestan   ( Tehran 2000 )
+pku 1659 Frogs&#39; Neighborhood
+pku 1151 atlantis
+hdu  2948  Geometry Darts
+hdu 1577 WisKey的眼神
+hdu 3918 Beiju
+hdu 3903  Trigonometric Function
+hdu 4033 Regular Polygon The 36th ACM/ICPC Asia Regional Chengdu Site —— Online Contest
+hdu 3629
+hdu 4007 Dave  The 36th ACM/ICPC Asia Regional Dalian Site —— Online Contest
+hdu 1558  Segment set  线段相交 +  并查集
+hdu 1007  Quoit Design
+poj 2079  Triangle
+pku 2104 K-th Number 求某区间第k小数 归并排序+线段树
+哈哈！！！
+pku 1177 Picture 矩形并的周长 线段树
+HDU 1255 覆盖的面积 – 线段树
+pku 2187 Beauty Contest (步进法)
+pku 1151 Atlantis (求矩形并的面积) 线段树
+pku 1151 Atlantis (求矩形并的面积)
+pku 2482 Stars in Your Window
+PKU 1375 Intervals
+pku 2780 Linearity
+IrisSkin2.dll的使用很简单
+杭电ACM2046
+杭电ACM1108
+杭电ACM1465
+杭电ACM1425
+杭电ACM2035
+杭电acm2050
+杭电ACM1008
+杭电acm1425
+杭电acm1108
+杭电acm2012
+杭电acm2005
+杭电acm2010
+杭电acm2007
+杭电acm2016
+poj2181 dp
+poj3661 dp
+poj2112二分答案+二分图匹配
+poj3660  floyd和想法题
+poj1274 二分图最大匹配 匈牙利算法
+poj1273 最大流 dinic
+poj2018  dp动态规划
+poj2019 想法题，预处理
+poj2135最小费用流
+poj2187凸包加旋转卡壳求凸包直径
+c++(3) type cast
+C++(2) virtual function
+Design Pattern 2.1 - About the factory
+zz CUDA概要
+C++智能指针
+C++类内存模型
+(zz)DD牛的背包九讲
+my mood
+Design Patterns(1)
+PKU 2479 &amp; 2593 最大子段和 DP
+再见了SWPU  再见了ACM/ICPC
+最快的N皇后算法(Java版)
+我的编译工具条
+批处理运行Java程序
+pku-3687
+天涯上令人抓狂的100个神经签名（天涯疯人院语录
+天涯上令人肝肠寸断的100个签名
+牛人的面霸经历
+zoj(2710)
+今天面试
+What is binary-safe? 【转载】
+A Collection of JVM Options 【转载】
+Ant入门教程
+How Struts works
+ibatis 连接池配置 + 自定义缓存
+Memcached入门介绍原理分析收集
+php的Session不起作用的原因之一
+tar 打包，压缩与解压缩
+每日一句 关于教育
+[Economist] Fail often, fail well
+Java Timer定时事件
+Java Jpanel设置背景
+android安卓电子书生成器
+Java获取当前计算机磁盘个数及信息
+MVC中Partialiew使用的一点小总结
+ASP.NET MVC Action传值绑定
+Jquery中click函数调用function的方式
+win7下安装fedora
+信仰当从善
+Linq访问数据库
+关于MVC的材料整理
+写在前面的话
+Linux下socket编程
+哭了
+ZOJ 3331 Process the Tasks
+HDU 3410 Passing the Message
+ZOJ 3332
+zoj 3336
+ZOJ 3326 An Awful Problem
+多机调度问题，贪心版
+单链表。
+终于结束一个阶段的学习不容易啊。
+我的生活。
+又见无聊
+简单字符设备驱动程序
+回文数（栈实现）
+QueueList  队列的链式存储
+Joseph Problem
+Linked List
+Sequence List
+指向结构体的指针
+动态存储分配
+c语言中static的用法
+C语言测试：想成为嵌入式程序员应知道的0x10个基本问题
+约瑟夫问题--java代码（链表解决）
+java类的封装性
+java 环境变量配置
+51 SPI 经典巧妙写法
+单片机扩展中断的简便方法
+N久没有到空间里来了，写篇随想吧
+POJ:2170 俄罗斯方块，一道非常经典的DFS题
+POJ1129:经典的四原色问题
+POJ:2676
+POJ 3126:一道还行的BFS题
+POJ:3009
+POJ:3083
+POJ:2965
+POJ1935:一道树形DFS题
+POJ1855:一道与最小公倍数有关的题
+zoj 1409
+zoj 2510
+zoj 1197
+zoj 1967
+poj 1077
+zoj 2922
+zoj 2042
+poj 2355
+zoj 2849
+zoj 2840
+Cipher终于通关了~
+万圣节前夜
+POJ2966 时区转换
+Python学习笔记
+New Blog
+LUA和C之间的函数调用
+linux 信号量
+linux shm use and trap
+zanshi
+POJ3690 AC VS TLE 很神奇
+5点
+我是不是快死了？
+GDCPC总结
+酒后..
+STL中的所有算法(70个)
+hdu 2795 / hdoj 2795 再也无法优化了
+死理性派恋爱法：拒绝掉前面37%的人，附上计算机模拟结果
+決定！血液型相性ランキング
+VS2008 VS2005 crtl+F 查找对话框 查询对话框没了
+ZOJ 3480. Duck Typing
+zoj 3483 Gaussian Prime
+hdu 3339 In Action
+hdu 1316/hdoj 1316
+我再也不会信任他了
+一不留神就写了很多代码, 水水的线段树. 有空再研究一下rmq怎么解
+尼玛啊,hash写错. ....   错误总发生在你不认为它有错的地方.... n次submit都re
+人自甘堕落起来是无下限的,就比如我今晚水了这么极度水的题还贴出来鼓励自己多水题提高想问题的速度一样..
+太久没水题,最近想问题的敏捷度至少下降了一半. damn it. 清明好好水一水
+priority_queue 比较函数 less greater 仿函数 排序
+install_flash_player_11_linux.x86_64
+fedora17 安装（64bit）（转）
+屏幕录像与屏幕录像专家
+关于SERV-U7 中文显示乱码的解决方法[转]
+Linux命令的返回值
+Hadoop集群环境搭建与配置（2）
+Hadoop集群环境搭建与配置（1）
+Second My Problem First (HDU 3706 单调队列)
+poj 3368 Frequent values (rmq st 算法)
+poj 1470 Closest Common Ancestors (lca 离线算法)
+MOP
+爆笑
+有些是有哲理的
+无向图割边割点，极品题目 pku3352  自己写的代码和注释都相当经典啊 哈哈
+pku3352(未完成）
+DFS的一些概念 求割点割边的 图论的
+图论的一些概念
+pku1094 STL 拓扑排序，如何判断有环什么的 O(v+e)的时间复杂度
+pku2890 矩阵传递闭包 V*E 的算法 算稀疏矩阵的联通性的
+BIN_HEAP_DIJ  (v+e)loge 复杂度  pku3268 1AC
+2-SAT题目总结
+HUD-4133 StrangeStandard
+PKU-2449 Remmarguts&#39; Date
+PKU-1035 Spell checker
+PUK-1080 Human Gene Functions
+PUK-3648 Wedding
+PKU-3678 Katu Puzzle
+PKU-3207 Ikki&#39;s Story IV - Panda&#39;s Trick
+PKU-2749 Building roads
+Codeforces Beta Round #93 (Div. 1 Only) A. Hot Bath
+windows 7 无线网络不能共享internet连接的解决方法
+poj pku字符串题目推荐及解题报告
+zoj3422
+zoj3425
+zoj3420
+2-SAT题目总结
+poj3635
+soj分类(转)
+poj1324贪吃蛇
+poj搜索题目（转）
+六个月
+九点三十五分
+哎
+无
+有时候
+今天之后
+Try to Remember
+浮生十记---二叉树的灵感 (2007-9-30)
+意犹未尽
+累
+MySQL性能监控小知识
+pku-3378 Crazy Thairs
+pku-1195 Mobile phones
+pku-2299 Ultra-QuickSort
+pku-3735 Training little cats
+pku-2187
+pku-2208
+pku-2954
+pku 1329
+pku-1701 Dissatisfying Lift
+10.21 虎坑三人行
+10.18独骑金龙水库寻路
+10.16九九重阳象山不给上+区田水库
+10.14北岭微波站寻路
+10.3骑行水南
+0930砚洲岛+夜骑千禧
+0927夜骑象山
+0926大鼎
+0924之爆胎记
+09.23千禧广场
+poj 1816  Trie树+搜索（推荐） ； hdu 3068 回文 扩展kmp
+豁然开朗的感觉…………爽………………
+鼓励自己
+图论（一） poj 1511   dijstra+小根堆  VS  SPFA
+坎
+poj 1185 状态dp
+阶段总结（一）
+ACM之java速成——czyuan原创
+poj 1113 凸包 模板 graham算法
+poj 2627 bfs
+早日找回刷题状态！！
+第3次个人赛
+终于100题了！！！！！！！！！！！！！
+poj 1088
+终于进5000了……这年头A个题真不容易啊……
+poj 1131
+poj 1001
+一点牢骚
+poj 1703
+2010.7.27  poj lcsuft10 留念
+ACM常用算法及其相应的练习题
+第七届浙江省ACM程序设计竞赛
+浙江省第五届大学生程序设计竞赛解题报告(来自javaman)
+hdu 1515/zju 1004 Anagrams by Stack
+pku 1198/zju 1505/hdu 1401 Solitaire 2
+pku 1198/zju 1505/hdu 1401 Solitaire 1
+二分图最大匹配之匈牙利算法
+qsort快排的应用
+visual studio 2010 正式版  中文版 微软官方 下载 Visual C++ 2010 VC2010 MFC
+新博客。。。
+pku1182并查集 解题思路
+Pick定理的几个出人意料的应用 (摘自matrix67)
+PKU 计算几何题目列表（转载）(2009-05-21 01:22:36)转载标签：计算几何杂谈 分类：转载
+凸包问题(Graham扫描法)
+图的传递闭包
+Kruskal算法
+人总是有骨气的
+POJ图论分类
+北大acm试题分类
+ZJU_1014
+ZJU_1013
+ZJU_1012
+ZJU_1011
+ZJU_1010
+ZJU_1009
+ZJU_1008
+ZJU_1007
+ZJU_1006
+第一次写Java
+开眼了!photoshop最高境界，表示这么多年学到的都是皮毛啊！！
+爆笑：最易听错的歌词（续集） 千年的女鬼也来了
+hdu 1717
+hdu 1397
+hdu 3105
+hdu 1578
+惊艳的句子，怕今后找不到了
+一个清华女大学生与一个普通二本男大学生的QQ聊天记录（绝对真实）
+hdu 1548
+hdu 2955 简单0-1背包的多重做法
+poj 3107 poj 1655 poj 2378 tree dp
+poj 1505 zju 2002
+poj 1186 hash
+poj 1191 矩阵dp
+hdu 1561 tree dp
+poj 3311 状态压缩枚举
+hdu 3578 双塔dp
+hdu 4057 zju 3545  状态dp+线性AC自动机 模板
+hdu 3695 AC自动机模板函数
+hdu 1158
+HDU 动态规划（46道题目）倾情奉献
+hdu 1503
+求最长公共子串
+hdu 3587
+poj 2075
+hdu 1257
+Buy Sticks
+数论公式
+hdu1004
+[网络流]最大权闭合图
+最大子图形问题详解
+[HDOJ3037 Saving Beans]Lucas定理
+次小生成树的某些结论及其算法O(n^2)
+这个礼拜做的一些题
+背包问题的变化——求方案数
+[转载]网络最大流SAP算法心得
+[附代码]NOI 2010 Day1 海拔(altitude) 解题报告
+NOI 2010 Day1 海拔(altitude) 解题报告
+NOI 2010 Day1 超级钢琴(piano) 解题报告
+dp   http://acm.dlut.edu.cn/problem.php?id=1142
+hdu3680
+HDU1066
+hdu3159
+hdu2648
+HDU1067
+hdu1044
+hdu3622
+hdu3062
+poj3683
+hdu3473
+Android http请求带中文参数问题
+Android的两种Http请求方式
+数据结构课程设计
+我也来写聊天程序！！！
+POJ1287
+POJ1258
+POJ2993
+POJ2996
+POJ1573
+POJ2632
+ubuntu11.10下qt连接mysql数据库
+从 C++ 到 Qt
+Qt中添加背景图片的方法(转)
+win7 ARP 命令运行失败解决办法
+C++ clock()函数实现功能介绍
+KMP字符串模式匹配算法详解
+飞机订票系统，第一次没有编出来，蛮无语的终于好了
+HDOJ 1061 n^n的最低位
+HDOJ1060
+HDOJ1008Elevator
+Mathtype公式与文档文字对齐
+ZZ-C++重载 覆盖与隐藏
+让C++变得更加容易：vector的增长机理
+C++中的虚函数和虚函数表
+Linux下基于C/C++的Socket编程实例
+偷窥3
+偷窥 2
+偷窥（项国托）1
+win7下使用runas作为管理员提权   两个月的历练
+当生活教会你以柔克刚，便是青春离开的那天
+情人劫
+Visual Studio快捷键 [VS2008/VS2005] 强大的自动排版
+poj 3673 Cow Multiplication
+poj 1423 Big Number
+poj 3331 The Idiot of the Year Contest!
+poj 2943
+poj 2180
+poj 3579
+poj 3263
+解决Win7 下 tomcat  拒绝访问的问题
+JSP 中文乱码处理
+JSP的重定向有两种：forward和sendRedirect
+如何使用CMD命令开启已禁用的服务
+IE浏览器上显示不出来按钮
+Windows无法从无人参与应答文件读取&lt;ProductKey&gt;设置解决方法
+简单三步 32位Win7用4G内存破解攻略
+展望未来，总结过去10年的程序员生涯，给程序员小弟弟小妹妹们的一些总结性忠告 [转]
+看电影
+ReadyFor 4GB是真科学还是伪技术?
+我要努力想这个方向靠拢
+java.lang.IllegalStateException: getOutputStream() has already been called for this response
+人人网刷人气程序的实现
+保护眼睛——设置WIN7和XP 窗体、Chrome、IE网页背景颜色
+Windows 7蓝屏后产生的.dmp文件如何打开并准确分析导致蓝屏原因所在？
+fzu 1980 AbOr&#39;s story
+Mac 中在Finder中显示隐藏文件
+hdu 2082 母函数的应用分析。
+各种算法的解释 (追mm版)
+hdu 1257 (最少拦截系统)
+pku 2492  hdu 1829
+hdu 2191
+hdu 1285
+PKU 3630
+hdu 2571
+书籍
+PHP中逗号和点号的区别
+give me some sunshine
+好了再来
+things to do this term
+去年今日
+Visual C++:以CView类为基类的程序实现滚动窗口
+VC实现打开BMP JPG或GIF图片|VC/MFC/打开图片
+game
+pku1149 网络流
+栈与队列--停车场管理
+杭电2074   叠筐
+求平均成绩
+海选女主角  程序
+图书管管理系统源代码(5)
+图书管管理系统源代码(4)
+图书管管理系统源代码(3)
+图书管管理系统源代码(2)
+图书管管理系统源代码(1)
+视频叫你做菜，一看就会
+hdu 4122 Alice&#39;s mooncake shop
+hdu 2599 The Dreadful Seven
+hdu 2598 Manipulating the Power Square
+hdu 2593 Pirates’ Code
+pku 3268 Silver Cow Party
+pku 3277 City Horizon
+pku 2459 Feed Accounting
+hdu 3418
+pku 2437 Muddy roads
+pku 3046 Ant Counting
+去除桌面快捷方式图标的名称
+6款词典翻译类软件总结
+系统战争——WinXP、Vista与Win7性能对比
+java中 length和length() 的区别是什么【转】
+Java 中类和方法修饰符
+system.in.read()方法【转】
+java main方法中的命令行参数
+循环队列的基本思想及原理【转】
+括号匹配_栈_C/C++【转】
+数制转换（C++实现）【转】
+Multi-School Training Contest #10
+Multi-School Training Contest #11
+价值人生
+一维 二维 RMQ 详解
+RMQ 算法详解
+Seek the Name, Seek the Fame
+KMP 算法详解(2)
+KMP 算法详解(1)
+Multi-School Training Contest #2
+Multi-School Training Contest #1
+汇编EQU和DATA指令
+三分 HDU 3400 Line belt
+pku 2289 Jamie&#39;s Contact Groups 二分图多重匹配
+POJ 1159  Palindrome
+北大博士隐居山林22年 为儿读书首次出山
+POJ 1141 Brackets Sequence
+96海阔天空完整版
+make_pair
+moumoon-Sunshine Girl
+POJ 1419 Graph Coloring
+转帖:MFC打开文件和文件夹
+error LNK2005: _DllMain@12 already defined in MSVC
+error LNK2005
+AxWindowsMediaPlayer主要属性&amp;方法
+SkinMagic使用方法
+hdu 1505 (dp)
+VC 编辑框 改变背景、字体、文本颜色、长度限制、英文 汉字判断
+MFC对话框添加背景图片
+CString 成员函数用法大全
+STL--stack/queue的使用方法（转）
+ZOJ
+hdu  1070
+简单的字符串处理
+第一次使用vector
+ZOJ 2554 《Brownie Points》
+ZOJ 1716 《Get Many Persimmon Trees》
+ZOJ 3212 《K-Nice》
+ZOJ 2956 《Another Horizontally Visible Segments》
+ZOJ 1184 《Counterfeit Dollar》
+ZOJ 2975 《Kinds of Fuwas》
+人人餐厅链接
+在北大本科生毕业典礼上的讲话
+单片机C51头文件reg51.h及reg52.h解析
+[树状数组的应用]求字符串区间内匹配模式串的个数 - 2011北京赛区网络赛G
+组合数学+大数乘法 2011北京赛区网络赛D
+由树的括号表示建树 - 2011北京赛区网络赛B
+胡适：写给大学毕业生的一封信
+2011软件大赛编程题
+总书记在庆祝清华大学建校100周年大会上的讲话
+一些经典的逻辑推理题目
+MySQL的基本命令使用
+见到家强了~~~
+生日快乐~~~~
+送走大学最后的基友们，感觉自己又毕业了一次
+曾经的砂锅店换招牌了，那个曾经陪我一起吃砂锅的人，你现在还好吗？
+霸气三人组！！！
+骑车去看海~~~~
+随便写写
+所有我关心的人和关心我的人，大家都新年快乐~~~~~~
+那些年，我们一起追的女孩
+绍兴文理学院计算机072班 班级相册
+那是我们都回不去的从前
+生日快乐
+毕业啦！！！！
+等了好久，你还是没来，没能跟你说声再见
+没人知道他大闹天空的原因,他爱上了观音。
+【转】HBase技术介绍
+吉他练习左手训练
+【转】我们的户口
+C语言中的各种整形变量
+Poj 3253
+【转】做个优秀的程序员（2）
+【转】做个优秀的程序员（1）
+倦怠
+临行前
+ZOJ 1763  A Simple Question of Chemistry
+(转)TopCoder入门教程 -- sqybi完善版
+大连市赛2011
+中国剩余定理实现
+poj 1364 差分约束系统
+spfa 栈
+poj 博弈
+poj 1185 dp
+poj 2278 ac自动机+矩阵乘法
+poj 3318 矩阵
+poj 3233 矩阵
+第08篇 ACM/ICPC竞赛之STL--map
+STL 优先队列   转
+poj 2549 hash
+poj 1583 hash
+poj1840 hash
+Eclipse环境下启动Tomcat老提示8080，8005，8009端口被占用
+关于 tomcat 的 admin package 的问题
+一步一步学ActionScript 2.0(四)
+一步一步学ActionScript 2.0(三)
+一步一步学ActionScript 2.0(二)
+一步一步学ActionScript 2.0(一)
+setInterval全面的介绍
+啊张 一路走好
+求优先队列
+【培训试题】多项式相加(normal)
+爱情里，没有人能告诉你向左还是向右！
+提示microsoft incremental linker已停止工作解决方法（转）
+CImage类
+C++中的文件路径表示技巧（转）
+【转载】同志们还在堕落,还在抱怨大学空虚吗 看看清华的同学在干什么吧.想当年他们也和我们在一个教室
+喜感同学，你被恶搞的太彻底了！
+许嵩-别咬我[国][DIYKTV]
+2010南非Worldcup的赛程表（转）
+HILL代码部分
+Hill密码
+富士康“跳楼门”
+CF Round #113(Div. 2) 题解
+CF Round #112(Div. 2) 题解
+noip2011悲剧记
+T_T 明天就要启程了~
+noi2005 维修数列 题解
+POJ 2374 题解
+POJ 2777 题解
+关于数据结构、
+sgu 120 题解
+sgu 198 题解
+Summer Team Selection Contest #1|打表
+C/C++内存与运行时深入研究（2）
+C/C++内存与运行时深入研究（1）
+Matlab中快速傅里叶变换FFT结果的物理意义(转载)
+ACM之java速成——czyuan原创
+今天开始复习专业课
+如何提高编写代码的速度
+备考传感器原理以及应用
+距离，永远不变的话题
+[POJ]1684——模拟，字符串getchar版
+杭电46道DP牛人总结 .转载
+基本数据结构：链表（list）
+本空间停止使用
+srm528 div1 小记
+hdu 4059                   ac自动机＋状态压缩＋dp
+codeforces beta round #99 div2 小感慨
+hdu 3693          一类解决计数问题的动态规划
+hdu 1693                   人生第一道插头dp
+srm527 div2
+hdu 2243                        自动机+矩阵d
+srm524 div2
+srm523 div2 总结
+USACO Training 3.1.3 Humble Numbers 丑数
+USACO Training 3.1.2 Score Inflation 总分
+USACO Training 3.1.1 Agri-Net 最短网络
+USACO Training  2.4.1 The Tamworth Two 两只塔姆沃斯牛
+USACO Training 2.3.5 Controlling Companies 控制公司
+USACO Training 2.3.4 Money Systems 货币系统
+USACO Training  2.3.3 Zero Sum 和为零
+USACO Training 2.2.2 Subset Sums 集合
+USACO Training 2.2.3 Runaround Numbers 循环数
+USACO Training 2.2.1 Preface Numbering 序言页码
+QQ营销软件，全破解【真实有效】
+灰鸽子黑防专版
+000WebHost免费空间注册申请解析教程攻略
+HDU 2439---The Mussels
+Qsort 排序用法
+POJ 1860 Currency Exchange
+gdb调试命令手册
+C++中的64位整数
+网站整站下载器使用图解教程 下载整个网站的方法 Offline Explorer Enterprise 使用教程
+你就不能让我进来吹吹空调吗？？
+决：The content of element type &quot;web-app&quot; must match &quot;(icon?,display-
+人生的四个层次のchfppp
+这是怎么了？
+ACM推荐题目（参考）
+学习要诀
+修炼
+行为准则
+随笔
+开心经
+zju 2892 Wavelet（微波）Compression（压缩）（数论）
+MTK 报错集锦
+路由器级联
+3T硬盘 破解
+MessageBox与AfxMessageBox  MFC
+socket 中send 和recev函数详解
+Win32编程基础知识(注册窗口类)
+RGB888_TO_RGB565图像转换
+MTK 文件管理2
+MTK内存管理
+MTK文件操作
+毕业论文
+matlab unique函数（收藏自ddfg的博客）
+2012-4-26
+又是一年七夕时
+我的成长日记
+[原]HDU4329 MAP
+hdu1312简单bfs或dfs或递归
+hdu1253简单三维bfs
+hdu1072bfs
+hdu1242bfs+优先队列
+hdu1241简单dfs
+hdu1240简单三维BFS
+hdu1010
+hdu十个入门博弈题
+hdu3980涂色的博弈SG
+poj2348博弈
+母函数
+母函数
+N!的最后非零位
+hdu 2955
+hdu 1024(最大m段连续子序列)
+最大连续子序列
+poj1837
+poj1159 dp+滚动数组
+poj 1195
+最大流最小割
+[原]HDU4328 Cut the cake
+怎样从Eclipse当中打开一个存在的项目？
+转： 金山快盘
+整理整理心态
+(DirectX 框架）DXUTFindDXSDKMediaFileCch()分析(转帖 自天行健 君子当自强而不息的blog）
+回调函数
+静态链接库和动态链接库的区别 创建和示例
+DirectDraw
+[转] 可以让你少奋斗10年的工作经验
+直逼内心的真实感言【2009年08月14日 19:55 】
+人不可以不成长【2007年04月13日 12:53 】
+DFS和BFS算法
+就“字典序算法”的理解
+我们一起讨论一下“字典序算法”！^ _ ^
+用链表存储电话簿
+线性表存储电话簿
+通知
+关于链表（一）
+三个数利用指针小大排序
+计算该年的第一天   p(203) 8.18
+连接两个字符串p（202）8.6
+大二笔记
+岁月静好，边走边唱
+全球只有4个人通关的游戏能不能选关
+学数学建模的感想
+我怎么会变这样
+不吃早餐的危害
+深度优先搜索  输出图的节点的度  待完成
+哈夫曼树
+二叉树 链表 中序遍历
+队列元素逆置
+北大信科与中科院 zz (2)
+北大信科与中科院 zz （1）
+2010 FZU 网络赛部分题解 (详细版)
+用户必备资料 103个Windows XP运行命令（z）
+pku 2341
+0719~简单dp pku 2626
+0718~简单dp
+3xian之所在(转)
+第二天~pku 1365 2689
+pku 2536 Gopher II
+网址大集合
+insets简介
+eclipse GUI 插件
+java：tomcat配置问题
+SQLSERVER安装
+二分图匹配问题, zju1526_pku1422
+PKU1002
+chm打不开的解决方案
+PKU1001
+struts中的中文问题
+[原]HDU4325 Flowers
+多玩笔试总结（2011-10-16）
+openjudge 百练 grids 2974 487-3279 C语言版 qsort
+POI 设置字体
+POI 合并单元格
+POI 设置单元格 填充颜色
+openjudge 百练 2742 统计字符数 C语言版
+openjudge 百练 2765 八进制小数 C语言版 java
+openjudge 百炼 2798 2进制转化为16进制 C语言版
+openjudge 百炼 2735 八进制到十进制 C语言版
+openjudge 百炼 2734 十进制到八进制 C语言版
+openjudge 2973 进制转换 C C++
+C++ 常量
+javascript 获取时间
+javascript 九九乘法表
+OpenJudge 2972 确定进制 c语言版
+hdu 4033——Regular Polygon(The 36th ACM/ICPC Asia Regional Chengdu Site —— Online Contest )
+hdu 4034——Graph(The 36th ACM/ICPC Asia Regional Chengdu Site —— Online Contest )
+hdu 4036——Rolling Hongshu(The 36th ACM/ICPC Asia Regional Chengdu Site —— Online Contest )
+hdu 4038——Stone(The 36th ACM/ICPC Asia Regional Chengdu Site —— Online Contest )
+poj 1330——Nearest Common Ancestors（最近公共祖先）
+JSP页面刷新方法汇总
+AC自动机专辑【2010_10_15更新】
+poj 3630——Phone List(trie树)
+poj 2503——Babelfish(简单的trie树)
+ZOJ  2031——Song List
+Java集合类个人总结
+Java执行顺序
+汇编指令全称
+笔记--Activity生命周期
+Android XML属性在文档中的位置
+Android 自带资源预览
+Android权限
+关于怎么下载GoogleCode开源项目的源码.
+保护眼睛的颜色设置
+关于HTC使用adhoc网络
+我不知道你是怎么想的
+十大常用数据结构
+C#多线程
+80后一定要懂的人际关系经验
+POJ 1276     Cash Machine 【多重背包】
+android连连看游戏
+我眼中的金路游戏
+21世纪最火爆的互联网创业项目
+如何网上赚钱 安全
+Android 吸墨 豆瓣 读书
+time
+VC制作游戏5
+VC制作游戏4
+Vc制作游戏3
+VC制作游戏2
+在北大本科生毕业典礼上的讲话
+hdu 4033 Regular Polygon(2011成都网络赛1003)
+hdu 4207 Can you answer these queries 线段树
+Java日期格式类别实例（中文日期格式）
+Java.NIO 网络编程 入门讲解
+矩阵上三角顺时针回环
+response.setContentType() ;参数
+java图文验证模块设计
+jsp页面js调用form表单的值的方法
+poj2396-上下界的最大流（经典构图题）
+bitmap思想和2-Bitmap 实现 （转）
+细说游戏封测(转)
+经过一年时间的沉淀 再次回首 TCP Socket服务器编程（转）
+一个Linux下C线程池的实现
+epoll使用详解(转)
+socket  编程实现（转）
+用队列维护最大值 （面试题）
+vc 网络编程（socket）
+第36届ACM成都站（退役赛）
+poj 2892 (SBT模板)
+SNMP学习
+snmp
+GSM的规范系列（GSM PLMN）
+排序小结（3）
+排序小结（2）
+排序小结（1）
+hdu 1863
+[转]字符串：KMP Eentend-Kmp 自动机 trie图 trie树 后缀树 后缀数组
+hdu 3371
+1162 hdu
+测试人员在公司中的角色定位
+windows脚本(VBS)之cmd命令行的妙用
+eclipse导入错误：some projects were hidden because they exist in the workspace director
+Python初步学习
+Python初步学习
+Python初步学习
+Python初步学习
+那么孤单,却偏说一个人真好
+懂了这16句，你便懂了整个人生
+这些话好帅，经典得让人心疼
+java 文件上传
+tomcat java 文件下载
+linux下hadoop安装/redhat/centos 分布式
+vmware下windows和linux文件共享的设置
+Ubuntu中Vmware Tools的安装与卸载
+[原]HDU4324 Triangle LOVE
+关于千牛卫的几首歌
+SPOJ 4300 Rectangles
+SPOJ 3381 Highways
+ding
+SPOJ 178 Road Net
+SPOJ 1437 Longest path in a tree
+SPOJ 1744 Evaluate the polynomial
+SPOJ 2132 CANDY I
+SPOJ 302 Count on Cantor
+SPOJ 74 Divisor Summation
+数论公式
+福地吗，华德？？记第35届ACM/ICPC亚洲区预赛哈尔滨站
+PKU2427Smith&#39;s Problem pell方程
+PKU1320Street Numbers(PELL方程解法)
+网络流题目集锦
+HIT ACM 2010 Summer Contest 14
+PKU3013Big Christmas Tree SPFA
+pku1679The Unique MST 次小生成树（prim版）
+pku1679The Unique MST 次小生成树（kruscal版）
+pku3164 Command Network 最小树形图（固定根，简单版）
+python 进制转换小结
+HDU 2050
+HDU 2045
+HDU 2044
+HDU 1005 变相fibonacci数列
+HDU 1021
+HDU 1425
+HDU 1108
+HDU 1008
+HDU 2043
+[原]HDU4323 Magic Number
+我要拼命讲话
+突然发现楼爷在圆满sgu
+有想法就尽情地释放出来吧
+鲶你个j8鱼，快点滚快点滚吧
+退役
+一厢情愿
+timus 1039  MY first tree_dp
+pku2049 Finding Nemo
+PKU 1129 Channel Allocation
+PKU 1033 Defragment
+Poj 1036 Gansters
+Poj 1015 Jury Compromise
+POJ 1014 Dividing
+POJ 1159 Palindrome
+POJ 1080 Human Gene Function
+Poj 1836 Alignment
+Poj3267
+Poj1837
+Poj 1077
+1416
+打开 windows自带cmd 程序代码如下
+打开 windows自带程序 txt
+转：不能将参数1从“const char []”转换为“LPCTSTR(2011-12-26 15:51:44)
+GetStartupInfo
+Windows 学习历程艰苦，也要坚持。
+handler的用法
+将bitmap整合在一起
+本以为完美解决了，gallery嵌套gridview
+gridView 之strechmode 个人理解
+Matrix 学习
+我应更明了的事情
+ASP.NET一些小知识点
+jQuery插件——Roundabout
+CSS定位中Position、absolute、 Relative的一些用法心得
+附加mdf文件
+css 定位
+string.format
+U盘变成raw系统5555
+大学新理念英语学习大厅完美破解，直接获得答案（各个年级）
+HL 1069
+spoj GSS2
+UESTC 1546 classic
+spoj 61 classic~
+poj 2991
+约瑟夫 模板
+zoj 2000
+公路巡逻
+pku 1390
+积木游戏····
+跳舞家怀特先生
+hdu 1712 分组背包
+观察者模式
+xtu 1464 堆叠积木
+xtu 1464 堆叠积木
+适配器模式
+装饰者模式
+抽象工厂
+简单工厂
+单例模式
+hdu 1217 钱币兑换问题 floyd
+CF95E Lucky Country +并查集+背包
+Pawn Game +sg函数
+Points Game+等效构造+贪心
+Warcraft
+Internshipp+最大流+最小割
+Go Deeperp+2-sat
+Burn the Linked Camp+差分约束系统
+Jamie&#39;s Contact Groups+二分+最大流
+Popular Cows+强连通分量
+A new Graph Game+哈密顿回路+费用流
+java 输入一行字符,分别统计出其中英文字母、汉字个数
+ICTCLAS5.0 java myeclipse 配置
+“拖延症”的良方——对于追求完美，自制力差，情绪化的人很受用(转)
+Penn Treebank POS标记表
+[stanford parser] parser one sentence &amp; one file &amp; one paragraph
+php：global变量解析
+Reference：国际会议及期刊星级说明（学术影响力）：
+北京没有爱情故事
+PHP 常量 dirname(__file__) 学习
+头发护理
+[原]HDU4320 Arcane Numbers 1
+[USACO-1.1.4]破碎的项链
+[USACO-1.1.3]黑色星期五
+[USACO-1.1]Greedy Gift Givers
+[USACO-1.0]Your ride is here
+[XDU-1007]正气的西电人。。！
+交作业交作业~
+小结。
+[hdu-1846]Brave Game（bash game-巴什博弈)
+一个充实的星期六。~
+那些平淡的基调，一个人可以享受的时光。
+ZOJ 3534 Move the Mouse I （ZOJ Monthly, September 2011 F题）
+ZOJ  ZJU 1010 Area
+HDU 3937 错误代码
+POJ PKU 3587 The Biggest Cake
+HDU HDOJ 3685 Rotational Painting
+HDU HDOJ 3264 Open-air shopping malls
+ZOJ 1996 Toy Storage
+POJ 2318 TOYS 叉积+二分
+SWJTU 1524 mixed string
+KMP算法详解
+系统80端口被占用，提示Windows System进程 pid=4 占用
+80端口被占用 怎么办？
+ASP.NET - ASP.NET网站的页面权限控制
+登陆小程序（一）
+HDU2037
+HDU2110
+HDU1171
+HDU1085
+HDU1080
+整数拆分
+zoj 1048 Financial Management
+zoj 1115 Digital Roots
+zoj 1760 Doubles
+zoj 2736 Daffodil number
+zoj 2773 Triangular Sums
+zoj 1045 HangOver
+zoj 1005 Jugs
+zoj 1733 Common Subsequence
+zoj 1476 Weird Clock
+zoj 1009 Enigma
+CSS技巧 [转]
+CSS中table-layout属性的作用及使用详解 [转]
+C# String.Format格式说明
+vs2005 字体和颜色加载包失败，无法修改的问题
+添加线到地图中
+添加点到地图中
+MapXtreme开发【转】
+随便聊聊MapXtreme
+MapXtreme 2008 ——创建地图图层
+Session
+Fatest忧伤的三月赛总结
+Fatest忧伤的三月解题报告
+我的ACG总集
+东方妖妖梦16B难度H初通rep录像
+东方红魔乡魔B难度L初通rep录像
+我的东方弹幕史
+推荐个OJ-九度
+混乱出题中+提亚拉之泪+传颂之物
+2011ACM/ICPC北京赛区总结
+SRM 521 DIV1 继续悲剧
+hdu 1545 01-K Code
+ZOJ 3530 Legend TD
+湖南省第七届大学生程序设计大赛总结
+2011ACM/ICPC 大连赛区 网络预选赛 比赛总结
+hdu 3946 Philosophy Girl’s Trail
+HDU1507_Uncle卖地不卖池塘
+HDU1281_棋盘游戏
+HDU1150_机器AB
+转：C++类中的static数据成员，static成员函数3
+转：C++类中的static数据成员，static成员函数2
+转：C++类中的static数据成员，static成员函数1
+HDU1014_Uniform Generator_求生成元
+HDU1973_Prime Path_直接广搜
+HDU1930_变种的剩余定理_注意不互质
+转：STL中的remove问题
+HDU4192_Guess the Numbers_求含变量的中缀式
+istringstream用法 （转）
+POJ3414_倒水问题_标志路径
+POJ3014_较大整数划分_dp或递归
+POJ1942-Paths on a Grid_组合数学_处理aCb
+新的开始
+一点感想
+FATE详解+游戏三线结局+PS2版完美结局[转载]
+ubuntu8.04源列表
+看完CLANNAD做个纪念
+I got it!
+POJ3277:City Horizon
+poj2195:Going Home
+poj1469:COURSES
+poj1087:A Plug for UNIX
+三层架构项目搭建(进销存系统为例子)
+三层体系结构
+汉字转换成拼音 C#代码
+本人技术blog地址
+博客搬到新浪了
+如何解决绘图过程中的闪烁
+千万不要只声明函数而不加以定义
+poj 1906 Three powers
+poj 1466 Girls and Boys
+usaco1.4 Packing Rectangles
+pku 1032 Parliament
+博弈论基础知识 :=巴什博奕+威佐夫博奕+尼姆博弈(及Staircase);
+素数的筛法居然被改进为线性了
+pku 3415 Common Substrings
+新浪围脖，，，，
+hdu3870 Catch the Theves
+pku 1061青蛙的约会(欧几里德扩展)
+NK1026:[NKPC2]AB计算器 - Nankai Online Judge  （欧几里德扩展，使x为最小的非负整数）
+弦图判定及最小染色数
+Codeforces Beta Round #66 B. Need For Brake
+hdu 1175连连看
+c++ vector用法
+图论解题报告
+spfa 算法和Bellman_Ford算法的模版小析
+进程和线程
+双侧乳腺小叶增生,轻微乳腺增生?
+poj 1001.Exponentiation
+poj 1676.What time is it?
+POJ 1782 .Run Length Encoding
+页码数字统计问题
+C语言中如何判断输入为汉字
+风逝
+程序员de表白...
+长期晚睡对一个20岁左右的女孩的危害（转给你心爱的她吧~）
+每个人心里都有那么一本《数学分析》。。
+我喜欢你但已经是曾经...
+Hungary
+KMP
+[转]Ubuntu顯示networking disabled的解決辦法
+待证明-ZOJ 3576
+sscanf
+next_permutation
+[ural]1081
+[ural]1039
+[zoj]1025
+[zoj]1013
+【】POJ_4044
+【kmp】poj-2406
+【kmp】poj-1961
+【kmp】与【扩展kmp】
+【KMP】poj-3461
+【KMP】poj-3167
+Unicode编码 学习笔记(2) &amp;mdash;&amp;mdash; GBK
+Unicode 编码 学习笔记（1）&amp;mdash;&amp;mdash;从ASC||到GB2312
+OJ2782 继续切水题
+POJ 1782 解题
+原码、反码和补码——整数运算
+acm 广东省赛 2011 后记 9th guangdong 附排名
+PKU-1088-滑雪
+PKU-1061-青蛙的约会
+PKU-1002-487-3279
+PKU-2601-Simple calculations
+ZOJ-2091-Mean of Subsequence
+hdu3177 Crixalis&amp;#39;s Equipment（贪心）
+hdu4315 Climbing the Hill（博弈论）
+hdu4312 Meeting point-2
+hdu4311 Meeting point-1
+hdu2255 奔小康赚大钱（二分匹配 KM）模板 邻接表
+hdu2063 过山车（匈牙利）模板
+hdu4302 Holedox Eating（multiset）
+hdu1569 方格取数(2) （最大流 E_K）模板 邻接表
+hdu1565 方格取数(1)（最大流 E_K）模板 邻接矩阵
+hdu4255 A Famous Grid（素数表+BFS）
+java.math.BigDecimal.stripTrailingZeros 对0的处理时注意了
+hdu 3065 刚A了道题，很艰难，贴下代码。。
+poj 2362

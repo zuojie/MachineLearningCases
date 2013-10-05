@@ -4,7 +4,7 @@
 import re, math
 
 class classifier:
-	def __init__(self, GetFeatures, fname = None):
+	def __init__(self, GetFeatures):
 		self.fc = {}
 		self.cc = {}
 		self.GetFeatures = GetFeatures
@@ -14,13 +14,13 @@ class classifier:
 	def GetThreshold(self, catalogue):
 		if catalogue not in self.thresholds: return 1.0
 		return self.thresholds[catalogue]
-	def InFc(self, feature, catalogue):
+	def InFc(self, feature, catalogue, times = 1):
 		self.fc.setdefault(feature, {})
 		self.fc[feature].setdefault(catalogue, 0)
-		self.fc[feature][catalogue] += 1
-	def InCc(self, catalogue):
+		self.fc[feature][catalogue] += times
+	def InCc(self, catalogue, times = 1):
 		self.cc.setdefault(catalogue, 0)
-		self.cc[catalogue] += 1
+		self.cc[catalogue] += times
 	def FeatureCnt(self, feature, catalogue):
 		if feature in self.fc and catalogue in self.fc[feature]:
 			return float(self.fc[feature][catalogue])
@@ -48,6 +48,19 @@ class classifier:
 		self.InCc(catalogue)
 	def Classify(self, doc, default = None):
 		raise NotImplementedError, "Error: Classify hasn't been implemented!"
+	#feature catalogue times
+	def Save(self, fname):
+		f = open(fname, "w")
+		for feature, cats in self.fc.iteritems():
+			for cat, cnt in cats.iteritems():
+				f.write(feature.encode("utf-8")  + "\t" + cat + "\t" + str(cnt) + "\n")
+		f.close()
+	def InitTrainingDat(self, fname):
+		for line in file(fname):
+			feature, catalogue, times = line.strip().split("\t")
+			feature = unicode(feature, "utf8")
+			self.InFc(feature, catalogue, int(times))
+			self.InCc(catalogue, int(times))
 
 class naivebayes(classifier):
 	def DocProb(self, doc, catalogue):

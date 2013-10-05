@@ -1,0 +1,947 @@
+35094	博客搬家	本博客将移到csdn，但同时也会更新。 青春就应该这样绽放  游戏测试：三国时期	Other	Other	IT
+35096	[原]mahout源码分析之贝叶斯算法	 整个流程包括数据处理部分和分类算法部分。数据处理部分对语料库进行处理生成算法能	ACM	IT	IT
+35097	Google Reader	这里先分享杨老师的两篇文章： http://blog.csdn.net/youn	ACM	ACM	IT
+35098	无关3.15	  说起来今天比较悲剧，早上花了好长时间重新学习了下关于本地文件的加载，好做个发	ACM	IT	Other
+35099	[原]Eclipse开发andrioid	熟悉eclipse开发android的一些快捷键，能很大的提高效率，分享在下面：	IT	IT	IT
+35100	[原]java 正则表达式2	import java.util.regex.Matcher; import j	IT	ACM	IT
+35101	[原]java 正则表达式	import java.util.regex.Matcher; import j	ACM	ACM	IT
+35102	[原]简单web安全框架	   web安全框架,主要用servlet filter方式覆盖httpS	IT	IT	IT
+35103	【IE10】打开网页不正常的解决方法	　　前些天换了新电脑，但是家里宽带还没接好，无线水龙头太小，下不了编译器，啥比赛	IT	IT	IT
+35104	[转]Log4j入门教程	 一、log4j是什么?  //记住将log4j.jar加载到工程中 Log4	IT	IT	IT
+35105	小白学习android（四）： 如何在e	转载自：http://blog.csdn.net/zzp_403184692/a	IT	IT	IT
+35106	小白学习android（三）：andro	SQLite是android中的自带数据库，可以很方便的实现数据的存储，而且语句	ACM	IT	IT
+35107	[转]JUnit4初级到高级	 JUnit4概述 JUnit4是JUnit框架有史以来的最大改进，其主要目	IT	IT	IT
+35108	[转]dpkg:处理 xxx (--co	 今早安装wine时出现问题，找到该文，备份留用。 然后在网上找到了这片文章	IT	IT	IT
+35109	【算法学习】【AC自动机】+【例题】HD	一直以为AC自动机是个很神的不可触碰的东西，附加超长的代码。 今天无奈去学习了下	ACM	ACM	ACM
+35110	[原]UVA - 141 - The S	题意：给一个棋盘，两个人下棋，规则是可以放棋子，也可以拿棋子，在规定的步数内，谁	ACM	ACM	ACM
+35111	[原]UVA - 10591 - Hap	看了不下8遍题目，终于看懂了，这一堆的of把人都搞昏了。注意digit与inte	ACM	ACM	ACM
+35112	[原]shengka laba ton	修改alsa-base.conf文件（可能有些系统是alsa-base）\\文件	IT	IT	IT
+35113	[原]函数的设计	函数作为C/C++程序的基本功能单元，具有非常重要的作用，良好的函数接口设计，合	ACM	IT	IT
+35114	POJ 3368 : Frequent	问题描述 给出n个按不降序排列的数a[1],…,a[n]和q个查询（1<=	ACM	ACM	ACM
+35115	POJ 3067 : Japan	问题描述 左边有m个点，右边有n个点(1<=m,n<=10000)，	ACM	ACM	ACM
+35116	[转]ubuntu插上耳机 扬声器/喇叭	这个论坛上有帖子写了怎么处理，我的sl410也是这样情况，耳麦和内置音响同时发出	IT	IT	IT
+35117	[原]UVA 12530 Game o	 转载请注明出处，谢谢http://blog.csdn.net/ACM_cxlo	ACM	ACM	ACM
+35118	[原]UVA 12529 Fix the	 转载请注明出处，谢谢http://blog.csdn.net/ACM_cxlo	ACM	ACM	ACM
+35119	好き	唉呀, 发来不及啦, 现在只能说是昨天啦 700天啦, 100周, fantas	Other	IT	IT
+35120	[转]找出2->N之间的所有质数	【问题描述】：       试编写一个程序，找出2->N之间的所有质数。希	ACM	IT	IT
+35121	[BZOJ1468][POJ1741]T	仍然是点分治，点分治是个蛋具体参见[BZOJ2599][IOI2011]Race	ACM	ACM	ACM
+35122	[BZOJ2599][IOI2011]R	题目很简短：给定一棵树，边有权，求一条路径使得边权和等于K，且边数最少。第一次做	ACM	ACM	ACM
+35123	[原]绫辻行人《杀人偶人馆》读后感	    看完《偶人馆》，绫辻行人的经典馆系列就全部读完了(后来新出的《惊愕馆》还	ACM	Other	Other
+35136	(搬用工)各种标点符号和数学符号的英文读	     摘要:   阅读全文点点滴滴 2013-03-16 16:59 发表评	ACM	ACM	IT
+35137	内存池的实现(一)	 引言 C/C++下内存管理是让几乎每一个程序员头疼的问题，分配足够的内存、追踪	ACM	IT	IT
+35138	内存池实现 (思路)	话说一直想找一个别人写好的使用，可惜没什么人会拿这小东西发布，只好自写一个。1.	ACM	IT	IT
+35148	两个容积互质的水杯可倒出任意从1到容积和	即： 两个水杯A、B，容积分别为 x 和 y ，(x,y)=1。则可以通过相互倒	ACM	IT	ACM
+35149	进程和线程的区别	About Processes and ThreadsEach process	ACM	ACM	ACM
+35150	[BZOJ2329][HNOI2011]	直到做完这题我才完全搞清楚Splay的标记下传的正确姿势。顺便说一下，这题是双倍	ACM	ACM	ACM
+35151	[BZOJ2588]Spoj 10628	LCA 这题经过seter重做数据后，和spoj原题很大的不同是：强制在线。也	ACM	ACM	ACM
+35152	tomcat与apache	tomcat由 Apache 组织开发的一个 Servlet/JSP 容器,负责	IT	IT	IT
+35153	[SPOJ GSS2]Can you a	这道题非常的有意思，它查询区间和，但是还不计重复。说实话，看到不计重复这种诡异的	ACM	ACM	ACM
+35154	android绘制五子棋棋盘	参考资料：http://www.kaixinwenda.com/article-	IT	IT	IT
+35155	[HNOI2002]营业额统计	[HNOI2002]营业额统计题目链接：http://www.lydsy.com	ACM	ACM	ACM
+35156	poj1234	模拟，注意1号第一次投出球后其thinking方向不改变。#include &l	ACM	Other	ACM
+35157	C++流重定向到文件	《C++标准程序库》 13.10.3 将标准 Streams 重新定向（Redi	IT	IT	IT
+35158	Mersenne Twister wit	News: we released SIMD-oriented Fast Mer	ACM	ACM	ACM
+35159	进程和线程的区别	About Processes and ThreadsEach process	ACM	ACM	ACM
+35160	记一次周赛	Ahttp://acm.sdut.edu.cn/sdutoj/problem.p	ACM	ACM	ACM
+35161	选课脚本剖析	 1 i = 1 2 打开浏览器x = 108 3 打开浏览器y = 750 4	IT	IT	IT
+35162	poj1862	简单题#include <iostream>#include <	IT	ACM	ACM
+35163	poj1426	广搜#include <iostream>#include <	IT	ACM	ACM
+35164	【HDU 2243】考研路茫茫——单词情	AC自动机 + DP. 其实以前有做个某道KMP+DP的题很类似的样子. 转化成	ACM	ACM	ACM
+35165	poj1423	题意：给出n，求n！的位数。分析：首先想到的是用log10(n!)=log10(	ACM	ACM	ACM
+35166	[原]poj1143Number Gam	Number Game Time Limit: 1000MS   Mem	IT	ACM	ACM
+35167	[原]ZOJ Unrequited Lo	题意：给定了一个有向图。然后给了一系列的操作，这些操作是去图中的某些点，并且保留	ACM	ACM	ACM
+35168	[原]ZOJ 3607 Lazier S	题意:这题比上题水太多，这次的小姑娘过了w就一睡不醒，另外都一样。 做法：一样的	ACM	ACM	ACM
+35169	[原]ＺＯＪ　BCD Code　记忆化搜	题意：给定的ＢＣＤ吗，当翻译十进制数时，最终形成的０１串中可能有禁止出现的子串，	ACM	ACM	ACM
+35170	[原]ＺＯＪ　３４９７Mistwald　	题意：给一个矩阵，求第ｘ步时能否从起点走到终点。一开始死活都想不到啊。。。什么时	ACM	ACM	ACM
+35171	[原]ZOJ 3606 Lazy Sal	题意：有一个卖面包的姑娘，如果过了ｗ分钟仍旧没有客人来的话，他就会睡着，如果客人	ACM	ACM	ACM
+35172	Codeforces Round #17	A. Bit++ 模拟加减运算。 B. Painting Eggs 两个人分	ACM	ACM	ACM
+35177	[原]不自损八百，何以伤敌一千——ACM	    既然金华区域赛已结，剩下的泰国赛区也不过是去玩玩而已，那么，也是时候做一	ACM	ACM	ACM
+35178	[原]你若是天才，我便是疯子————AC	    自金华邀请赛结束后便一直有写这总结的想法了，不过当时却没想那么远，只想做	Other	ACM	ACM
+35179	[原]POJ 1821 Fence	题意：连续的N块木板，有K个粉刷匠，分别坐在第Si块木板前，每个粉刷匠不能移动位	ACM	ACM	ACM
+35180	[转]Hadoop M/R second	http://vangjee.wordpress.com/2012/03/20/	IT	ACM	IT
+35181	近期任务	打了6场个人赛，成绩一般，没有突破，感觉自己很弱。水题的出题速度还可以，可能是水	ACM	ACM	ACM
+35182	[原]实时仿真软件Sofa的安装（Win	SOFA是一个主要面向实时仿真的开源程序框架，更注重医学仿真。它的目的在于帮助研	IT	ACM	IT
+35183	TRAINING 2013.3.17 S	The contest link. Though there are only	ACM	ACM	ACM
+35184	fibonacci 的进化	最近在看SICP，抛弃旧的世界观和方法论压力很大，不过还是很有收获的，比如学习了	ACM	IT	ACM
+35185	WAMPserver配置	1、下载和安装： 首先从http://sourceforge.net/proje	IT	ACM	IT
+35186	Codeforces Round #17	收获了8个hack，本来排名50+，结果C题没有用long long ，错过了一	ACM	ACM	ACM
+35187	#pragma once 与 #ifnd	转自：http://blog.csdn.net/slimfox/article/	IT	IT	IT
+35188	[原]【web开发】spring中ses	假设：在用户登录系统一段时间没有操作后，session失效，如果这时用户有操作时	IT	IT	IT
+35189	[原]POJ 3299 水题	//11363256	c00h00g	3299	Accepted	780K	0M	ACM	ACM	ACM
+35190	[读书]如果人类只有一种性别的话	两性分化，在逻辑上并非必然。====楼主  发表于: 2013-03-17 22	ACM	Other	Other
+35191	模重复平方算法	在RSA算法里头经常要用到“求x的n次方模m”这样的过程，通常使用O(log(n	ACM	IT	ACM
+35192	[原]POJ 3662 Telephon	/* POJ 3662 Telephone Lines 题意：从1到N修一条电缆	ACM	ACM	ACM
+35193	[转]ubuntu下终端路径只显示当前目	 bashrc文件记录了用户终端配置 $: sudo vim ~/.bashr	IT	IT	IT
+35194	vim多行注释	注释多行代码：按ctrl+v后选中多行，然后按shift+i进入插入模式，插入若	IT	IT	IT
+35195	[原]Google Code Jam20	#include <cstdio> #include <cst	ACM	ACM	IT
+35196	[原]ZOJ 2900 Icecream	题意：给你一个长度为n的串，从中选出字串，使得长度至少为k，且相邻的数值差的绝对	ACM	ACM	ACM
+35198	[转]ent0 en0 et0 专题总结	ent1之类的是物理网卡的设备名，en0或是et0是网络接口名(逻辑上的)，en	IT	IT	IT
+35199	[原]POJ 1868 Antiarit	题意：给定一个长为n的（0,1,2....n-1）的排列，问是否存在等差数列。	ACM	ACM	ACM
+35200	[好朋友0002] 南北	有一段时间没在这里写博客。原因很简单：忙。仍然，在很忙的时候我只愿意抽时间出来看	ACM	Other	IT
+35201	ginx启动，重启，关闭命令	停止操作 停止操作是通过向nginx进程发送信号（什么是信号请参阅linux文	IT	IT	IT
+35202	php 字符编码转换 mb_conver	今天用php写了一个utf-8的网页，用php.exe执行时，在cmd上输出的是	ACM	IT	IT
+35203	[转]在Linux下查看端口的使用情况及	netstat -anp|grep 80 // 查看80端口使用情况 Netst	IT	IT	IT
+35204	configure: error: ne	在linux下安装软件包的时候,有时候提示 configure: error:	IT	IT	IT
+35205	error:is not in the	解决方案： 首需要切换到root身份 $su - (注意有- ，这和su是不同的	IT	IT	IT
+35206	configure error the	modulelibrarynginxcentoscachessl有时候，我们需要	IT	IT	IT
+35207	Allowed memory size	网页执行时，超内存了直接在wamp上改了一下php.ini文件,把memory_	IT	IT	IT
+35208	向量的简单运算	向量与数的四则运算１．向量与标量的四则运算．>> v = linsp	ACM	ACM	ACM
+35209	Python中的函数（三）	　　　　　　　　　　　　　　　　　　　　　　Python中的函数（三）　　在前面	ACM	IT	IT
+35210	最小费用最大流	转自pony1993网络流的费用： 在实际应用中，与网络流有关的问题，不仅涉及流	ACM	ACM	ACM
+35211	Palindrome Partition	 Given a string s, partition s such that	ACM	ACM	ACM
+35212	Palindrome Partition	 Given a string s, partition s such that	ACM	ACM	ACM
+35213	[原]HDU 2639 Bone Col	还能有比我这更暴力的做法么，直接拿set来维护前k大值……这题的话不能拿一维的来	ACM	ACM	ACM
+35214	[原]POJ 2923 Relocati	两辆车要一起走，每辆车载重不能超限，问最少多少趟。 n小思状压，然后可以把所有状	ACM	ACM	ACM
+35215	晒一下键盘	   上面是以前的KC 87 茶轴（另配PBT 37白色键帽），下面是新入手	Other	IT	IT
+35216	WebKit和Chromium代码目录结	转载请注明来源： http://blog.csdn.net/milado_nju	IT	IT	IT
+35217	[转]Eclipse安装aptana	 1.下载aptana包 http://update.aptana.com/	IT	IT	IT
+35218	[转]不可多得的Javascript(A	 1、先去aptana的官方网站下载eclipse的插件 地址：http:/	IT	IT	IT
+35219	[原]Codeforces Round	题目：http://www.codeforces.com/contest/283	ACM	ACM	ACM
+35234	IOS 绘制PDF	 1 -(void)createPdf:(UIImage *)img andTe	IT	IT	IT
+35235	LingosHook: Compatib	    恭喜Lingoes发布新版本2.9.0,同喜LingosHook还能继续	IT	ACM	IT
+35236	Longest Consecutive	 Given an unsorted array of integers, fi	ACM	ACM	ACM
+35237	[原]POJ 1611 The Susp	陪练刷水…… #include <algorithm> #incl	IT	ACM	ACM
+35238	[原]POJ 2524 Ubiquito	并查集水题，无槽点…… #include <algorithm> #	ACM	ACM	ACM
+35239	[原]Unicode和字符串处理	      我们熟悉的ASCII码全称是美国国家信息交换标准码，它起源于20世纪	ACM	IT	IT
+35240	[转]献给那些浮躁的年轻人	年龄，那是一种对时间的焦虑。张爱玲一句“出名要趁早”，害了不知多少人。人是靠价值	Other	Other	Other
+35241	[原]POJ 3624 Charm Br	同上题…… #include <algorithm> #includ	IT	ACM	ACM
+35242	[原]HDU 2602 Bone Col	赤裸裸的01背包…… #include <algorithm> #i	IT	ACM	ACM
+35243	[原]HDU 3635 Dragon B	涉及到当前所在位置，当前位置总数，和当前移动次数。并查集也就是一棵自底向上更新的	ACM	ACM	ACM
+35244	[原]HDU 1856 More is	并查之后统计就好了…… #include <algorithm> #	IT	ACM	ACM
+35245	[原]POJ 1182 食物链	这题不错，想法题。我开始的思路是新增加[n+1,2*n]这个区间的点拿来作为分类	ACM	ACM	ACM
+35246	[转]Java HashMap 分析之四	获取元素 有了前面的分析，获取元素的逻辑就非常清晰。首先，调用者传递key，从	ACM	ACM	IT
+35247	[转]java中HashMap详解	HashMap 和 HashSet 是 Java Collection Fram	ACM	IT	IT
+35248	[原]CF 269D Maximum W	 转载请注明出处，谢谢http://blog.csdn.net/ACM_cxlo	ACM	ACM	ACM
+35249	AVEVA .Net 菜单自定义	     摘要: AVEVA .Net 菜单自定义 AVEVA .Net Com	IT	IT	IT
+35257	foobar2000 设置评级	使用组件：foo_input_exe.fb2k-component本文链接	IT	IT	IT
+35258	6个变态的C语言HelloWorld程序	第一种#define _________ }#define ________ p	ACM	Other	IT
+35259	POJ 2761 : Feed the	问题简述 给出n（n<=100000）个整数a[1],…,a[n]和m（m	ACM	ACM	ACM
+35260	[原]POJ 1236 Network	强连通分量 问题一，缩点后，求出所有入度为0的点的个数； 问题二，缩点后，求出入	ACM	ACM	ACM
+35261	[原]CF 283E Cow Tenni	 转载请注明出处，谢谢http://blog.csdn.net/ACM_cxlo	ACM	ACM	ACM
+35262	[原]POJ 3167 Cow Patt	题意：给定长度为n和m的两个数字序列（数均小于等于25），用m去按照一定方式去匹	ACM	ACM	ACM
+35263	SDUT 2412 （单调队列 + dp	　　http://acm.sdut.edu.cn/sdutoj/problem.	ACM	ACM	ACM
+35264	[原]ZOJ 1170 String M	#include <cstdio> #include <cst	IT	ACM	ACM
+35265	[原]ZOJ 1159 487-3279	#include <cstdio> #include <cst	IT	ACM	ACM
+35266	[原]2Sum/3Sum/3SumClo	leetcode（http://leetcode.com/onlinejudge	ACM	ACM	IT
+35267	[转]Qt4.8下应用OpenCV2.4	 今天，研究了下Qt 中如何应用OpenCV的问题。 与VC6.0环境下MFC	IT	IT	IT
+35268	[原]Codeforces Round	 转载请注明出处，谢谢http://blog.csdn.net/ACM_cxlo	ACM	ACM	ACM
+35269	Python中的模块	　　　　　　　　　　　　　　　　　　　　　　Python中的模块　　有过C语言编	IT	IT	IT
+35270	uva 12583 可持久化treap	     摘要: 对一个字符串S(初始为空)，有Q次操作(Q<=50,0	ACM	IT	ACM
+35271	不觉又两载，已是物是人非了	     翻翻自己的博客，上一篇已经是前年的了。读着，却发觉，那个前年的我竟是如	Other	Other	Other
+35272	隔了大半年后，终于想起这博客了	事隔半年之后，我终于想起这个博客的存在了，当然我也想写下东西。在学校，没多大机会	Other	Other	Other
+35273	[原]ZOJ 1181 Word Ama	#include <cstdio> #include <cst	IT	ACM	ACM
+35274	2013年03月19日	若我白发苍苍 容颜迟暮 你会不会 依旧如此 牵我双手 倾世温柔 青春就应该这样绽	Other	Other	IT
+35275	[原]系统间歇性超时问题的分析与解决	 【系统症状】 后台系统A平均访问量约13K/min，峰值约30K/min。系统	IT	Other	IT
+35276	如何使用Process Monitor查	 最近由于公司项目需要，我需要在Discuz的基础上做开发。我对Discuz并不	IT	IT	IT
+35280	如何养成良好的 C++ 编程习惯（一）—	     摘要: “养成良好的编程习惯”其实是相当综合的一个命题，可以从多个角度	ACM	Other	IT
+35285	C语言获取当地时间	#include <time.h>#include <stdi	ACM	IT	IT
+35286	Codeforces Round #17	http://codeforces.com/contest/284A：快速幂取模	ACM	ACM	ACM
+35287	独自开发的时候，所考虑的事情	写写自己应该考虑的问题，也算做个笔记： 代码可维护性 尽可能不重复代码 尽可	IT	IT	IT
+35288	php 页面控制程序并查看程序运行状态	1.开启和关闭程序 system("php.exe run.php&q	IT	IT	IT
+35289	JAVA 正则表达式的应用——split	import java.io.BufferedReader;import jav	ACM	ACM	IT
+35290	[原]K-SVD简述	K-SVDRachel Zhang 1. k-SVD introduction1	ACM	ACM	IT
+35291	[原]ZOJ 1243 URLs	#include <cstdio> #include <cst	IT	ACM	ACM
+35292	[转]HTML中id、name、clas	HTML 中 id与name 区别 一个name可以同时对应多个控件，比如ch	IT	IT	IT
+35293	[转]setTimeout和setInt	这两个方法都可以用来实现在一个固定时间段之后去执行JavaScript。不过两者	ACM	IT	IT
+35294	[转]引导式教育	有一个人，他是黑人，1963年2月17日出生于纽约布鲁克林贫民区。他有两个哥哥，	Other	IT	Other
+35295	[转]营销高手，一定是讲故事的高手！	一对夫妻为了贴补家用，空闲时间去摆地摊。第一天，他们淘来了军队旧衬衫，1.5美元	Other	Other	Other
+35296	更新证书错误Code Sign erro	from: http://www.douban.com/note/1310094	IT	ACM	IT
+35297	[原]ZOJ 1970 All in A	#include <cstdio> #include <cst	IT	ACM	ACM
+35298	[原]ZOJ 1831 Substitu	#include <cstdio> #include <cst	IT	ACM	ACM
+35299	[原]ZOJ 1698 Easier D	#include <cstdio> #include <cst	IT	ACM	ACM
+35300	[原]ZOJ 1582 Careless	#include <cstdio> #include <cst	IT	ACM	ACM
+35301	[原]ZOJ 1392 The Hard	#include <cstdio> #include <cst	IT	ACM	ACM
+35302	[原]ZOJ 1325 Palindro	#include <cstdio> #include <cst	IT	ACM	ACM
+35303	How to make package	 Table of Contents 1 A Quick Tour A	IT	ACM	ACM
+35304	[原]c# 小游戏 俄罗斯方块	  左右键移动 向上键变形，向下键加速，空格键直接落下，enter键暂停/继续	IT	IT	IT
+35305	数据真实性的探索——对百度电影推荐系统算	摘要 本文主要通过一系列数据上的探索，论证百度电影推荐系统算法大赛的数据集并非真	ACM	IT	IT
+35306	[Ubuntu]手动安装Eclipse	一、下载Eclipse到官网http://www.eclipse.org/dow	IT	IT	IT
+35307	Eclipse Pydev Instal	here is the url:http://pydev.org/manual_	IT	ACM	IT
+35308	[原]开坑预告，2013年新番来袭。	算法白痴，也就是我，发现这里荒废好久了。 作为数学白痴，珍爱生命远离算法吧我还是	ACM	IT	IT
+35309	[转]Linux内核源码分析方法	 Linux内核源码分析方法 一、内核源码之我见 Linux内核代码的庞大令不	IT	IT	IT
+35310	程序代码相似性检测研究与实现 开题报告	 对这个项目有兴趣的同学请发email到mail[at]barty[dot]ws	IT	ACM	IT
+35311	经典排序之归并排序	#include <stdio.h>#include <std	ACM	ACM	ACM
+35312	Read from socket fai	这是我在ssh localhost的时候出现的问题 在网上搜了下解决方法，试了下	IT	IT	IT
+35313	[原]poi解析excel内存溢出	  真是悲剧啊，一个破内部使用系统20多个人使用的后台管理系统有个excel文件	IT	IT	IT
+35314	[原]CF 266E More Quer	 转载请注明出处，谢谢http://blog.csdn.net/ACM_cxlo	ACM	ACM	ACM
+35315	[转]透明窗口（窗口上面文字图片等内容不	 透明窗口（窗口上面文字图片等内容不透明）的实现        本文讨论通过S	IT	IT	IT
+35316	[原]APUE学习笔记——第三章文件I/	1、文件描述符：意思就是unix 环境下用open函数打开一个文件，正确执行后会	IT	IT	IT
+35317	Hadoop在windows上安装与配置	   一．    安装配置Cygwin Cygwin可以在windows系统	IT	IT	IT
+35318	poj2516Minimum Cost	http://poj.org/problem?id=2516建图的时候 有个地方	ACM	ACM	ACM
+35319	2013腾讯马拉松初赛第0场（3月30）	这次比赛共5题，比较简单的水题，思考下都可以出来的。1、HDU 小Q系列故事——	ACM	Other	ACM
+35320	[转]网络编程学习笔记一：Socket编	 “一切皆Socket！” 话虽些许夸张，但是事实也是，现在的网络编程几乎都是	IT	IT	IT
+35329	基于boost asio实现的支持ssl	     摘要: 情景分析   现已存在一个可用稳定的异步客户端类http_cl	IT	IT	IT
+35337	[原]ZOJ 1720 Polynomi	#include <cstdio> #include <cst	IT	IT	ACM
+35338	PHP中this,self,parent	面向对象编程(OOP,Object OrientedProgramming)现已	IT	IT	IT
+35339	[原]ZOJ 1713 Haiku Re	#include <cstdio> #include <cst	IT	ACM	ACM
+35340	[原]ZOJ 1315 Excuses,	#include <cstdio> #include <cst	IT	ACM	ACM
+35341	[原]HDU 2126 Buy the	简单2维背包，统计方案数，无槽点…… #include <algorith	ACM	ACM	ACM
+35342	[原]HDU 3466 Proud Me	每件物品有一个限制，只有当你当前现金大于qi的时候才会卖给你。 这题好好想了一下	ACM	ACM	ACM
+35343	转：vc6.0 打开文件的时候出现Mic	转：vc6.0 打开文件的时候出现Microsoft Visual C++：MS	IT	IT	IT
+35344	[原]BOJ 316 Password	 #include<stdio.h> #include<	IT	ACM	ACM
+35353	C++实用技巧之配置Visual C++	今天我写了一个给Visual C++用的配置，用来让VC++在显示自己写的字符串	IT	IT	IT
+35354	TCP协议流的理解	TCP是流协议，不像UDP那样sendto发一次消息，另一端必然会收到完整消息，	IT	IT	IT
+35361	[原]ZOJ 3487 Ordinal	#include <cstdio> #include <cst	IT	ACM	ACM
+35362	[原]ZOJ 2947 Abbrevia	#include <cstdio> #include <cst	IT	ACM	ACM
+35363	[原]ZOJ 1729 Hidden P	#include <cstdio> #include <cst	IT	ACM	ACM
+35364	[原]CF 240F TorCoder(	 转载请注明出处，谢谢http://blog.csdn.net/ACM_cxlo	ACM	ACM	ACM
+35365	[原]APUE学习笔记——第四章 文件和	1、stat、fstat、lstat函数 #include<sys/sta	IT	IT	ACM
+35366	eclipse启动时弹出Failed t	网上搜索 -> 解决此类错误的方法有以下几种: 首先：eclipse 安装	IT	IT	IT
+35367	[原]只用4行代码编写出一个从字符串到长	 int sum=0; for(int i=0;i<strl	ACM	ACM	ACM
+35368	[原]HDU 4502 吉哥系列故事——	 Problem Description 　　俗话说一分钱难倒英雄汉，高中几	ACM	IT	ACM
+35369	poj1860	题意：有若干种货币，某些币种之间可兑换，给出各种兑换时的汇率和手续费，任何兑换都	ACM	ACM	ACM
+35370	[原]【剑指offer】【九度oj】整数	 题目16：整数中1出现的次数 时间限制：1 秒 内存限制：32 兆	ACM	ACM	IT
+35371	SRM 573 div2	250...500...1000　　比赛的时候没思路。倒是想到一种trick，想	ACM	ACM	ACM
+35372	领悟	      又很久没写博客了，一个是因为忙于工作，一个是因为过年那个月回家都疯玩	Other	Other	Other
+35373	[原]【MFC Windows程序设计（	/*CMyApp继承了CWinApp类，因此它就是应用程序对象。 CWinAp	IT	IT	IT
+35374	[原]HDU 4501 (二维费用背包)	 小明系列故事——买年货 Time Limit: 5000/2000 MS (	ACM	ACM	ACM
+35375	【POJ P3016】K-Monoton	学习了左偏树. 很神奇的样子..不过看来出这个的题很少.. 没找到几道题 ..	ACM	ACM	ACM
+35376	数据库连接池的工作机制	数据库连接是一种关键的有限的昂贵的资源，于是就有了用数据库连接池负责分配、管理和	IT	IT	IT
+35377	夜	里 有时候人就是这么贱, 唉... 明明带着那么多关心, 却总是那么冷淡, 难受	Other	Other	IT
+35378	[原]绫辻行人《杀人惊愕馆》读后感	    这本是馆系列里的最新一部，2006年出的，读完这本馆系列就真的全部看完了	Other	Other	Other
+35379	Moving the database	After wasting over 45 minutes on moving	IT	ACM	IT
+35380	hdu 2147 kiki's 	题意： 在一个m*n的棋盘内，从(1,m)点出发，每次可以进行的移动是：左移一	ACM	ACM	ACM
+35381	HDU 4509 湫湫系列故事——减肥记	题意：给定一天时间，然后给你一天中忙碌的时间段，问剩余空闲时间段是多长。 Pro	ACM	ACM	ACM
+35382	HDU-3555 Bomb 数位DP	　　题目链接：http://acm.hdu.edu.cn/showproblem	ACM	ACM	ACM
+35383	POJ-3345 Bribing FIP	　　题目链接：http://poj.org/problem?id=3345   	ACM	ACM	ACM
+35384	POJ-3280 Cheapest Pa	　　题目链接：http://poj.org/problem?id=3280　　典	ACM	ACM	ACM
+35385	HDU 4508 湫湫系列故事——减肥记	题意： Problem Description 　　对于吃货来说，过年最幸福的事	ACM	ACM	ACM
+35406	面试题: 找出数组中三个只出现一次的数	     题目：数组中有三个数只出现一次，其它的数恰好出现两次，找出这三个	ACM	ACM	IT
+35407	mingw gcc的头文件存在结构定义错	 准确的讲是mingw所用的sdk ——  w32api，存在结构定义错误。  	IT	IT	IT
+35408	浅析软件工程开发方法学RUP	前言 因为之前一直处在游戏开发行业，由于种种原因一直对软件工程中的项目管理、项目	IT	IT	IT
+35409	安卓手机上跟存储有关的几个名词解释	     摘要: 前天刚买了一个平板，安卓4.0，被它上面各种存储器搞混了，今天	IT	IT	IT
+35418	[转]如何弹出一个窗口气泡	 原文链接：http://blog.csdn.net/tangaowen/art	IT	IT	IT
+35419	[原]ZOJ 2476 Total Am	#include <cstdio> #include <cst	IT	ACM	ACM
+35420	[原]【POJ 3233】矩阵快速幂+二	http://acm.hust.edu.cn/vjudge/contest/vi	ACM	ACM	ACM
+35421	Gvim —— win 7 下 vim	　　不能不承认，notepad++是一个非常优秀的文本编辑器，上手方便，能装很多	IT	IT	IT
+35422	【转】Be Pythonic	原文地址：http://www.cafepy.com/article/be_py	IT	IT	ACM
+35423	[转]Kerberos 错误消息	Kerberos 错误消息 转自： http://www.cclove.me/l	IT	IT	IT
+35425	科技的罪恶	最近我老是说，科技发展得太快不是一件好事情。表面看起来，科技让人类行为变得越来越	Other	Other	Other
+35426	[原]CF 228D Zigzag(线段	 转载请注明出处，谢谢http://blog.csdn.net/ACM_cxlo	ACM	ACM	ACM
+35427	[原]Codeforces Round	题目链接 题意：对于某个排列p1,p2,...pn，位置i为good posit	ACM	ACM	ACM
+35428	[转]数据库技术发展历史	一、数据库技术的历史和发展      数据库技术是本世纪60年代开始兴起的一门	IT	IT	IT
+35429	[原]libSVM源码分析	转载请注明原载地址：http://blog.csdn.net/xinhangge	ACM	ACM	IT
+35430	[转]SMO算法	 SMO算法由Microsoft Research的John C. Platt在	ACM	IT	IT
+35431	hdu3308LCIS(线段树区间合并）	http://acm.hdu.edu.cn/showproblem.php?pi	ACM	ACM	ACM
+35432	Codeforces Round #17	http://codeforces.com/contest/282A：水,找到中	ACM	ACM	ACM
+35433	[原]APUE学习笔记——标准I/O库	1、标准输入、输出、错误 在#include <unistd.h>头	ACM	IT	IT
+35434	[原]httpclient4 模拟新浪微	     新浪微博最近,更改了登陆加密过程,导致之前的模拟的hex_sha1加密	IT	IT	ACM
+35435	[原]HDU 4507 吉哥系列故事——	 转载请注明出处，谢谢http://blog.csdn.net/ACM_cxlo	ACM	ACM	ACM
+35436	[原]ZOJ 1854 Election	#include <cstdio> #include <cst	IT	ACM	ACM
+35437	[原]ZOJ 1838 Crypt Ki	#include <cstdio> #include <cst	IT	ACM	ACM
+35438	codeforces #174 E	题目描述：   1...n的排列 p1 ... pn ，位置 i 是good，当	ACM	ACM	ACM
+35439	[原]soppYcell 1.0	贴一下旧版头文件，霜儿成为神头文件的东西也被我废了。 #include <	IT	IT	ACM
+35440	[原]soppYcell 2.0	内容说明： CONSTANT模块，定义long long为LONG，包含常数	ACM	IT	ACM
+35441	[原]HDU 4509 湫湫系列故事——	/* hdu 4509 一天工24*60分钟 接下来有一些时间段，你要去做些事	ACM	ACM	ACM
+35442	HDU 4510 小Q系列故事——为什么	题意：给你两个时间点，问你第一个时间减去第二个时间后是什么时间。（钟表上的时间）	ACM	ACM	ACM
+35443	hadoop资料	单节点配置http://chinahadoop.net/thread-47-1-	IT	IT	IT
+35444	解决无法正常启动Oracle OEM控制	1、保证OracleOraDb10g_home1TNSListener服务和Or	IT	IT	IT
+35445	[原]EOJ 2855 贪吃蛇 [201	模拟题 #include <cstdio> #includ	IT	ACM	ACM
+35446	工厂方法Factory Methods	Factory Methods 工厂方法 eryar@163.com 摘要Ab	IT	IT	IT
+35454	[原]BOJ 319 3230391&#	考察素因子分解+打表，比如6=2*3，即2的x次方*3的y次方，x可以取0或1，	ACM	ACM	ACM
+35455	[转]简单聊聊加密、口令的问题——成为黑	 转载请注明作者：欧阳洋葱——也就是我本人！       有很多人常把口令和加密	IT	Other	IT
+35456	[转]WPA破解原理简要——无线网络破解	 一、破解密码的基础 关于密码的破解我再重复一次好了。密码破解就两大类方法。一是	ACM	IT	IT
+35457	[转]无线网络加密方式研究	WEP（有线等效加密） 尽管从名字上看似乎是一个针对有线网络的安全选项，其	IT	IT	IT
+35458	[原]for循环判断条件中尽量不写函数	这个问题我已经造成两次超时了 第一次：for(i=0;i<strlen(c	ACM	IT	ACM
+35459	poj2195Going Home(最小	 http://poj.org/problem?id=2195模板题 超级源点-	ACM	ACM	ACM
+35460	[原]多线程编程散记	1.win32线程同步机制包括全局变量、事件、临界区、互斥量和信号量 2.M	IT	IT	IT
+35461	[警告] 苹果apple id密码重置漏	今天一个朋友的苹果帐号密码被修改，iMac、iPad、iPhone上的所有资料都	ACM	IT	IT
+35462	中文文本特征提取的一些资料	最近在研究中文文本特征提取，发现一个挺好的博客（http://www.blogj	ACM	IT	IT
+35463	HDU 4514 湫湫系列故事——设计风	题意：给你一些边，问其中是否存在环，构成环输出yes，构不成求一棵树中边权和最大	ACM	ACM	ACM
+35465	[原]2013腾讯编程马拉松初赛第一场（	题目链接：http://acm.hdu.edu.cn/showproblem.p	ACM	ACM	IT
+35466	[原]2013腾讯编程马拉松初赛第一场（	题目链接：http://acm.hdu.edu.cn/showproblem.p	ACM	ACM	IT
+35467	【转】《Visual C++ 2010入	　　         http://hi.baidu.com/dbfr20118	IT	Other	IT
+35468	[原]CF 213E Two Permu	 转载请注明出处，谢谢http://blog.csdn.net/ACM_cxlo	ACM	ACM	ACM
+35469	[原]XMU 1308 单词联想 （双向	http://acm.xmu.edu.cn/JudgeOnline/proble	ACM	ACM	ACM
+35470	[原]windows eclipe C+	1、安装CDT   2、安装MinGW   3、配置环境变量：       1.	IT	ACM	IT
+35471	Ubuntu12.04下安装hadoop	  首先声明:如果能通过官方文档安装就尽量用官方的方法。 环境：  linux	IT	IT	IT
+35472	[原]EOJ 2574 Principl	在大神的指点下AC了，起初用了编译原理的下推自动机，没AC掉，看来是自己把题目想	ACM	ACM	ACM
+35473	poj3422Kaka's Ma	http://poj.org/problem?id=3422最小费用最大流 求的	ACM	ACM	ACM
+35474	2013腾讯编程马拉松初赛第〇场	http://acm.hdu.edu.cn/listproblem.php?vo	ACM	ACM	IT
+35475	[转]A*B mod C的计算方法	 A*B mod C的计算方法 方法一： 大家都能想到，计算A*B的值	ACM	IT	IT
+35476	【BZOJ P1984】月下毛景树	昨天"学习"了块状树+树链剖分.  虽然以前都看过，但一直没	ACM	ACM	ACM
+35477	latex中括号大小控制 [转]	在latex下编辑公式时，经常会用到各种括号。如果直接输入括号（花括号需要进行转	ACM	IT	IT
+35478	[原]EOJ 2143 端午节快乐 [2	 #include <cstdio> #include &l	IT	IT	ACM
+35479	[原]EOJ 2610 工程 [2010	 #include <cstdio> #include &l	IT	ACM	ACM
+35480	hdu 1848 Fibonacci a	思路：SG函数的应用，可取的值为不连续的固定值，可用GetSG求出SG，然后三堆	ACM	ACM	ACM
+35481	SG函数模板	 ／* 计算从1-n范围内的SG值。 Array(存储可以走的步数，Array[	ACM	ACM	ACM
+35482	hdu 4512 吉哥系列故事——完美队	Problem Description　　吉哥这几天对队形比较感兴趣。　　有一天	ACM	ACM	ACM
+35483	[原]EOJ 2573 Hub Conn	 #include <cstdio> #include	IT	ACM	ACM
+35484	[原]EOJ 2572 Sort it…	 #include <cstdio> #include	IT	ACM	ACM
+35485	[原]EOJ 2571 GCD and	 #include <cstdio> #include	IT	ACM	ACM
+35486	[原]EOJ 2570 Primes P	 #include <cstdio> #include	IT	ACM	ACM
+35487	[原]EOJ 2569 Capitali	 #include <cstdio> #include	IT	ACM	ACM
+35488	[原]EOJ 2568 Sum of d	 #include <cstdio> #include <	IT	IT	ACM
+35489	[原]EOJ 2857 编辑距离 [20	动态规划 #include <cstdio> #include	ACM	ACM	ACM
+35490	[原]EOJ 2856 仰望星空 [20	 深搜  dfs #include <cstdio> #incl	IT	ACM	ACM
+35491	[原]2013腾讯编程马拉松初赛第一场（	#include<iostream> using namespace	ACM	ACM	IT
+35492	[原]2013腾讯编程马拉松初赛第一场（	题目链接：http://acm.hdu.edu.cn/showproblem.p	ACM	ACM	IT
+35493	HDU 2197 本原串 (数学）	本原串Time Limit: 1000/1000 MS (Java/Others	ACM	ACM	ACM
+35494	mk802的wifi配置	本来这篇应该很早就写的，一直偷懒。今天简单记录一下吧。其实很早就想买raspbe	IT	IT	IT
+35495	[原]java 服务降级开关设计思路	   java 服务屏蔽开关系统，可以手工降级服务，关闭服务 基于spring	IT	IT	IT
+35496	[原]【web开发】spring+hib	mysql在utf8编码格式下的中文排序会出现问题，因为现在用的是hql查询，不	IT	IT	IT
+35497	[原]hdu 1864 最大报销额 0-	/* hdu 1864 最大报销额 题意：每张发票总额不得超过1000，单项物品	ACM	ACM	ACM
+35498	[原]2的幂次方	 题目1095：2的幂次方 时间限制：1 秒 内存限制：32 兆 特殊	ACM	ACM	IT
+35499	[原]APUE学习笔记——第六章系统数据	1、口令文件 该文件主要是针对unix中的/etc/passwd文件，该文件中存	IT	IT	IT
+35500	HDU 4507 数位dp	 先保存一下代码，回头写题解。         #include <ios	ACM	ACM	ACM
+35501	[原]EOJ 2575 Separate	 带花树开花算法 #include <cstdio> #i	ACM	ACM	ACM
+35502	hdu 4517 小小明系列故事——游戏	Problem Description　　小小明最近在玩一款游戏，它由n*m大小	ACM	ACM	ACM
+35503	Visualization of Cur	Visualization of Curves and Surfaces in	IT	IT	IT
+35511	ubuntu12.04 下的JavaEE	1.配置mysql:sudo apt-get install mysql-cli	IT	IT	IT
+35512	[原]CF 208E Blood Cou	 转载请注明出处，谢谢http://blog.csdn.net/ACM_cxlo	ACM	ACM	ACM
+35513	POJ 3468 : A Simple	问题简述 给出n(1<=n<=100000)个整数a[1],…,a[	ACM	ACM	ACM
+35514	HDU 1698 : Just a Ho	问题简述 给出n（1<=n<=100000）个整数a[1],…,a[	ACM	ACM	ACM
+35515	[原]java学习路线和技术体系	 首先是Java的基础J2SE java的语法也不难，如果真正理解了OOP	IT	IT	IT
+35516	POJ-2374 Fence Obsta	　　题目链接：http://poj.org/problem?id=2374　　这	ACM	ACM	ACM
+35517	用irrlicht做东西真艰难	看了看时间，已经3点过了，突然想写点什么，却又不知从何说起。 那就从今天这个用i	ACM	IT	IT
+35525	test	本文链接	IT	Other	IT
+35526	[原]Jquery、 ajax和stru	最近学习了ajax的异步调用和刷新技术，就实践了一把。也借鉴了别人的方法，再加入	IT	IT	IT
+35527	[原]大牛代码	#include<iostream> using namespace	ACM	ACM	ACM
+35528	[原]APUE学习笔记——第七章 进程环	1、main函数 原型：int main(int argc, char *arg	ACM	IT	IT
+35529	[译] 为程序员写的Reed-Solom	原文: Reed–Solomon codes for coders参考: AN2	ACM	IT	IT
+35530	[原]USACO Shaping Reg	时间过得好快，距离上一次写解题报告也仅仅过去了两个多月了。贵在加持。Hope t	ACM	ACM	ACM
+35531	自定义 DataList 显示数据行数的	 PEAEWebSiteDataContext context = new PE	ACM	IT	IT
+35532	[原]火星A+B	 火星A+B Time Limit: 2000/1000 MS (Java/Ot	ACM	ACM	IT
+35533	【树分治】【BZOJ P1468】Tre	虽然不是第一次写树分治..但是第一次写手写栈..于是来纪念一下. 顺便说下树分治	ACM	ACM	ACM
+35534	OpenGL如何使用长宽非2次方的纹理	  也许在某些显卡上面，直接用glTexImage2D是可以使用非2次方纹理的。	ACM	IT	IT
+35535	OpenGL使用位图纹理	  使用位图纹理主要需要注意2个地方。1个是非二次方纹理的处理，这个可以参考我上	ACM	IT	IT
+35536	OpenGL使用位图纹理	  使用位图纹理主要需要注意2个地方。1个是非二次方纹理的处理，这个可以参考我上	ACM	IT	IT
+35537	[原]二分	今日有幸见到一种二分的写法，甚是惊奇： LL bs(LL n, LL k) {/	ACM	IT	ACM
+35538	[原]两次二分查找	面试题：已知一个排序数组，从中查找某个数的出现次数，请问应该如何查找？ 答案：最	ACM	ACM	ACM
+35539	[转]路由器与猫的区别	调制解调器，俗称“猫”，电话线的信号是模拟信号，电脑的信号是数字信号，要通过电话	IT	Other	IT
+35540	[转]ADSL	ADSL即非对称数字信号传送，它能够在现有的铜双绞线，即普通电话线上提供高达8M	IT	Other	Other
+35541	[原]在iOS中使用静态库	由于想了解下Xcode中静态库的导出导入，翻到这么一篇文档：Using Stat	IT	IT	IT
+35542	安装配置fedora 18	1.制作启动u盘Fedora-18-x86_64-Live-KDE.iso用li	IT	ACM	IT
+35543	HDU 吉哥系列故事——完美队形II	吉哥系列故事——完美队形IITime Limit: 3000/1000 MS (	ACM	IT	ACM
+35544	[原]动态规划总结	       动态规划是算法中的难点，很灵活，虽然做了很多题目，但是感觉还是没有	ACM	ACM	ACM
+35545	伴随我成长的编程书	一、 这篇文章是应之前在微博上爆过的下个周末某出版社的线下活动而写的。回顾我和C	IT	ACM	IT
+35553	[原]APUE学习笔记——第八章 进程控	本章的重点内容比较多，fork函数，wait和waitpid函数，exec函数，	ACM	IT	IT
+35554	[原]ZOJ 3324 Machine	做法:比较水的,根据题目说的,每次R操作只针对凹下去的位置,结点只要记录一个区间	ACM	ACM	ACM
+35555	[原]ZOJ 3332 Strange	做法:图中的线很多,所以可以暴力,这么做简直是玷污了"竞赛图"	ACM	ACM	ACM
+35556	[原]ZOJ 3331 Process	做法:第一个双塔DP,或许使Codeforces Beta Round #90,	ACM	ACM	ACM
+35557	[原]ZOJ 3623 Battle S	比赛的时候写脑残了，其实挺简单的一题。变量有三个，时间，生命值和攻击力，时间是肯	ACM	ACM	ACM
+35558	[原]Is It A Tree?	题目1481：Is It A Tree?时间限制：1 秒内存限制：128 兆特殊	ACM	ACM	ACM
+35559	[原]陈博的完美主义	 题目1375：陈博的完美主义（25分） 时间限制：1 秒 内存限制：3	ACM	ACM	IT
+35560	[原]最大堆最小堆（自定义类型）	#include<queue> #include "std	IT	ACM	ACM
+35561	Codeforces 266E : Mo	问题简述 给出n(1<=n<=100000)个整数a[1],…,a[	ACM	ACM	ACM
+35562	[原]POJ 2609 Ferry Lo	题意:求两个长度为l的车库最多能容纳的车子，如果有一辆车方不进去就停止。 做法：	ACM	ACM	ACM
+35563	[原]1004 大数	大数加法是抄的模板，要注意的是，m如果小于3，则肯定不行，因为最少的是三角形。m	ACM	ACM	ACM
+35564	[原]1005	这也是一道模拟题，WA了三次，少考虑了很多特殊情况。1、当只有一个箱子的情况，如	ACM	ACM	ACM
+35565	[原]1001	代码写的很挫，需要处理的特殊情况是分数最小的包括id最小的时候，要保留id最小的	ACM	ACM	ACM
+35566	【BZOJ P1014】火星人 Pref	splay+hash.  hash的话就是很常用的几进制%mo的那种. 然后对于	ACM	ACM	ACM
+35567	[原]POJ 3211 Washing	按颜色分组，然后同一组的自己撸吧，机器数为2的任务分配问题么。直接装箱之后从中间	ACM	ACM	ACM
+35568	[原]POJ 1837 Balance	智商真心捉急，这题一看到钩子和砝码的个数都小于20，就钻进状压的死胡同没出来了。	ACM	ACM	ACM
+35569	[原]Is It A Tree?	 题目1481：Is It A Tree? 时间限制：1 秒 内存限制：	ACM	ACM	ACM
+35570	[原]数字反转(水）	 题目1089：数字反转 时间限制：1 秒 内存限制：32 兆 特殊判	ACM	ACM	IT
+35571	[原]用Word+EndNote+Mat	1. Word中Endnote管理的参考文献条目出现!!!INVALID CIT	IT	IT	IT
+35578	我对谷歌的chromium和androi	最近，Chromebook来了，Android头子鲁宾调走了，接管的人正是Chr	IT	IT	IT
+35579	【★更新★】高性能 Windows So	     摘要: 自从本座发表了两篇关于 Windows Socket 通信组件	IT	IT	IT
+35588	[原]Kerberos 1.9, Apa	OS: ubuntu 12.04, jdk 1.7 确定 Hadoop 1.0.	IT	IT	IT
+35589	[原]Manacher算法	Manacher算法是解决求给定字符串中的最长回文串问题的，时间复杂度为O（N）	ACM	ACM	ACM
+35590	美帝使馆20分钟游	预约的12点，11点35左右走到美帝使馆东门那发现有一堆人，吓一跳还以为在门口也	Other	Other	Other
+35591	[转]Java实现Mysql的jdbc连	 首先，在MySQL控制台创建数据库 SQL代码 create databas	IT	IT	IT
+35592	Codeforces Round #17	A Lucky Permutation 数组f是1..n的一个排列，要求f[f[	ACM	ACM	ACM
+35593	[原]手机键盘	 题目1079：手机键盘 时间限制：1 秒 内存限制：32 兆 特殊判	ACM	IT	IT
+35594	ubuntu下hadoop的重启后nam	  参考：Hadoop namenode无法启动　　　  Hadoop Name	IT	IT	IT
+35595	[原]POJ 2373 Dividing	题意：长度为L的区间，有N头牛有各自喜欢活动的区间（Si,Ei），喷水的喷头只能	ACM	ACM	ACM
+35596	Hadoop在linux上伪分布式单节点	一．   配置SSH 首先安装ssh $ sudo apt-get	IT	IT	IT
+35597	The Company of Mysel	The Company of Myself是我喜欢的一款Flash小游戏，简简单	Other	Other	Other
+35598	[原]java web实现xp wind	注意： 该程序在IE调试的，其他浏览器可能有BUG，见谅！ <!DOC	IT	IT	ACM
+35599	[原]数组分割	编程之美上的题目，是一道dp的题目，设dp[i][v]表示是否可以找到i个数，使	ACM	ACM	ACM
+35600	[转]北大poj题目分类	初期: 一.基本算法:      (1)枚举. (poj1753,poj29	ACM	ACM	ACM
+35601	[原]欧拉回路	 题目1027：欧拉回路 时间限制：1 秒 内存限制：32 兆 特殊判	ACM	ACM	IT
+35602	sql auto_increment	sql语言中的auto_increment除了在字段里用外，使可以设定某个初始值	ACM	ACM	IT
+35603	[原]POJ 1312 Numerica	题意：26进制与10进制互相转换。 题解：JAVA的BigInteger偷渡之。	ACM	ACM	ACM
+35604	[原]逆转一个整数的二进制表示	#include<stdio.h> #include<stdl	ACM	ACM	ACM
+35605	svn使用	svn checkout -- svn co 是从代码仓库里提取代码svn up	IT	ACM	IT
+35606	[原]实习随感2013/3/25	  今天，坤哥叫我自己制定签到系统的协议。我做了。   1.player记录的是	Other	IT	Other
+35607	[原]hdu4520 郑厂长系列故事——	 Problem Description 　　郑厂长不是正厂长 　　也不是副厂长	ACM	ACM	ACM
+35608	【Windows编程】对DUI的尝试	登录窗口:主界面:消息窗口:服务器log:本文链接	IT	IT	IT
+35609	ACdream 完美数 数位DP	　　题目链接：http://www.acdream.net/problem.ph	ACM	ACM	ACM
+35610	[原]约瑟夫环链表实现	#include <iostream> #include <c	ACM	ACM	ACM
+35619	irrlicht引擎潜能挖掘：硬件蒙皮骨	这个东西很顺利，仅用了半小时就找到了方法，最应该感谢的还是Super TuxKa	ACM	ACM	IT
+35620	七种排序算法的简单分析与实现	     摘要: Code highlighting produced by A	ACM	ACM	IT
+35627	[原]二叉排序树	时间限制：1 秒内存限制：128 兆特殊判题：否提交：566解决：209 题目描	ACM	ACM	ACM
+35628	[原]C++ 条件编译	#define Max #if Min a=1; #elif define	IT	ACM	ACM
+35629	百度电影推荐系统算法大赛新数据集的简单分	上一篇博文 http://diaorui.net/?p=419 意外的火了。如果	ACM	IT	IT
+35630	[转]truncate 和 delete	Oracle中truncate和delete的区别 删除表中的数据的方法有del	IT	IT	IT
+35631	[原]腾讯马拉松 第五场 第一题	一定要考虑清楚，情况，首先sumk=(k1+k2)^k*sum，然后需要按照k1	ACM	ACM	ACM
+35632	socket阻塞与非阻塞，同步与异步、I	转自：http://blog.csdn.net/hguisu/article/d	IT	IT	IT
+35633	[原]C#字符串处理	 1.驻留机制 从老师给的资料 http://www.cnblogs.com/s	ACM	IT	IT
+35634	poj1252	dp注意要多dp出一段，因为有时候付钱需要超过100元再找钱。#include	IT	IT	ACM
+35635	[转]ASP与ASP .net	ASP-工作原理 当在Web站点中融入ASP功能后，将发生以下事情： 1、用户向	IT	IT	IT
+35636	在myeclipse中写的jsp程序用相	 如果你是tomcat的容器，可以尝试这个容器的编码改一下 在server.	IT	IT	IT
+35637	[原]腾讯编程马拉松初赛第五场 - 第一	 Problem Description 　　威威猫不是一只普通的猫，普	ACM	IT	IT
+35638	一些疑问。。。	好像bzoj有些题是看不到 & 做不了的？包括我以前做过的一些题。听说得	IT	ACM	IT
+35639	ACE网络编程之ACE_NEW_RETU	ACE源码OS_Memory.h是这样定义的。#  if defined (AC	IT	IT	IT
+35640	poj1570	并查集的经典题目，有人说也可以用floyd。并操作时要记录子节点与父节点的兑换比	ACM	ACM	ACM
+35641	poj1578	字符串处理麻烦题//zoj1702#include <iostream&g	ACM	ACM	ACM
+35642	poj1577	排序二叉树#include <iostream>#include &	ACM	ACM	ACM
+35643	poj1409	dfs+排序//zoj1684//注意字典序排序，是按照逐个单词比较出来的，每个	ACM	ACM	ACM
+35644	poj1651	dp#include <iostream>#include <	IT	ACM	ACM
+35645	SRM 574 DIV 2	250pt:水题，直接统计矩阵中的A-Z的字符个数然后与给定的数匹配即可。500	ACM	ACM	ACM
+35646	C++ 中string 的find与fi	find返回完全匹配的字符串的的位置；find_first_of返回被查匹配字符	ACM	IT	IT
+35647	[原]MD5加密算法C语言实现	在网上找的C语言实现的MD5加密算法，有一些编译错误，所以就改了一下，全部代码还	ACM	IT	IT
+35648	[原]POJ 2951 Cake Cut	题意：给定一个w*h的蛋糕，将其分成m份，也就是切m-1刀（必须保证每次都将一块	ACM	ACM	ACM
+35649	[原]POJ 3003 Spiderma	题意：蜘蛛侠爬墙锻炼，总共爬n次，能上能下，但最后必须落在地面，且中途不能爬到地	ACM	ACM	ACM
+35663	Visual+C+++6.0（支持win	此VC++6.0为中文简体版本，此前从装过别的版本，但win7大多装不上，有的能	IT	IT	IT
+35666	[原]APUE学习笔记—— 信号实现系统	1、实现系统sleep函数 此函数使调用进程被挂起，直到满足下列条件之一：（1）	ACM	IT	IT
+35667	[原]APUE学习笔记——第十章 信号	1、信号 信号是软件中断，很多比较重要的应用程序都需要处理信号，信号提供了一种处	ACM	IT	IT
+35668	[原]hdu 4528小明系列故事——捉	题目：点击打开链接 宽搜。注意判重。判重导致比赛的时候错了两次。 #incl	ACM	ACM	ACM
+35669	[原]博客搬家至[http://limy	博客搬家至     http://limyao.com	Other	IT	IT
+35670	python test	https://python-guide.readthedocs.org/en/	IT	ACM	IT
+35671	POJ-1160 Post Office	　　题目链接：http://poj.org/problem?id=1160　　f	ACM	ACM	ACM
+35672	POJ-2355 Railway tic	　　题目链接：http://poj.org/problem?id=2355　　简	ACM	ACM	ACM
+35673	poj1573	简单题//zoj1708#include <iostream>usi	IT	ACM	ACM
+35674	poj1572	简单题//zoj1707#include <iostream>#in	IT	ACM	ACM
+35675	[原]复试前练手...HDOJ - 33	    上周水了一场腾讯马拉松....水爆了..手速赛..囧...     本题	ACM	ACM	ACM
+35676	poj2386	简单题bfs#include <iostream>#include	IT	ACM	ACM
+35677	poj1562	简单题#include <iostream>#include <	IT	ACM	ACM
+35686	几个简单的数学题	由于N久没有看过数学和写代码了，逻辑思维能力和代码功底已经一塌糊涂了，所以打算每	ACM	ACM	IT
+35687	poj1566	简单题//zoj1713#include <iostream>#in	IT	ACM	ACM
+35688	poj1565	简单题//zoj1712#include <iostream>#in	IT	ACM	ACM
+35689	poj1564	dfs,x的范围似乎不是100而是1000//zoj1711#include &	IT	ACM	ACM
+35690	poj1563	简单题//zoj1710//当蜗牛每天白天爬升的距离因疲劳值过多而减为负数时，认	ACM	ACM	ACM
+35691	Hadoop集群配置	在完成hadoop伪分布式配置后，就可以开始进行进行hadoop的集群配置。下面	ACM	IT	IT
+35692	[原]java价格处理的一个问题	 aaaaa   我们经常会处理一些价格，比	IT	IT	IT
+35693	Eclipse and My Ecli	[b]Eclipse 快捷键(1)[/b] Ctrl+1 快速修复(最经典的快捷	IT	IT	IT
+35694	在C语言中设置浮点数的舍入模式	关于浮点数的舍入模式，可以看Gogdizzy的这篇文章。要在C语言手动中设置FP	ACM	IT	IT
+35695	[转载]论对东西的崇拜	原文地址：论对东西的崇拜作者：王垠在之前的几篇博文里面，我多次提到了 Lisp，	IT	Other	Other
+35696	[转载]Lisp Machine 为何失	原文地址：Lisp Machine 为何失败（1）作者：王垠之前我提到了 Lis	IT	IT	IT
+35703	[原]CodeForces 268A G	水题一枚。。。 #include <iostream> #inclu	IT	ACM	ACM
+35704	[原]POJ 3308 Paratroo	最大流最小割模型。 把问题转化成最小点权覆盖问题，就能用最小割求解。而最小割又和	ACM	ACM	ACM
+35705	[原]POJ 1325 Machine	建图+Dinic=Accept #include <iostream>	ACM	ACM	ACM
+35706	[原]CodeForces 1B Spr	字符串处理+计算吧 用python，使用正则表达式来读取数据更方便一些。 imp	ACM	IT	ACM
+35707	[原]CodeForces 266E M	        因为k最大只有5，所以我建六个线段树，分别用于保存ai*i^k的	ACM	ACM	ACM
+35708	123	 //// Cost center（成本中心）数据//#pragma pack(	ACM	IT	IT
+35709	【转】国家集训队论文分类	组合数学计数与统计2001 – 符文杰：《Pólya原理及其应用》2003 –	ACM	ACM	ACM
+35710	[转]把数据转换成XML格式的好处	我们常常会碰到需要处理以各种格式（从以逗号或者制表符做分隔符的文件到更负载的格式	IT	IT	IT
+35711	[转]dynamic_web_proje	#eclipse里dynamic web project的使用 新版本 ht	IT	ACM	IT
+35712	[原]Could not load th	Could not load the Tomcat server configu	IT	ACM	IT
+35713	test for LaTex	求和 除法 极限 积分 级数 根式 二重积分 三重积分 矩阵 方程组 上下...	ACM	Other	ACM
+35714	B样条基函数——B-Spline Bas	     摘要: B-Spline Basis Functions eryar@	ACM	IT	IT
+35722	poj2028	简单题#include <iostream>#include <	IT	ACM	ACM
+35723	[原]博客搬家至[http://limy	 博客搬家至  http://limyao.com/ 	Other	IT	IT
+35724	[原]EOJ 2782 Welcome	#include <cstdio> #include <cst	IT	ACM	ACM
+35725	[原]EOJ 2690 Soda Sur	#include <cstdio> #include <cst	IT	IT	ACM
+35726	[原]EOJ 2537 统计字符 [20	#include <cstdio> #include <cst	IT	ACM	ACM
+35729	poj2029	用dp的方法n^2。用树状数组应该是n^2logn。#include <i	ACM	ACM	ACM
+35730	[转]推荐10款非常优秀的 HTML5	HTML5 发展如火如荼，随着各大浏览器对 HTML5 技术支持的不断完善以及 	IT	IT	IT
+35731	[转]C++的五种内存存储区	 在C++中，内存分成5个区，他们分别是堆、栈、自由存储区、全局/静态存	ACM	ACM	IT
+35732	poj2030	递推import java.math.BigInteger;import jav	IT	IT	ACM
+35733	Blog回档	Click $ゆっくりでいいさ->{Blog回档} for full te	IT	IT	Other
+35734	poj1455	简单题#include <iostream>#include <	IT	ACM	ACM
+35735	[原]剑指offer 调整数组的顺序使奇	我做这道题目是参考算法导论中快排中对数组划分来做的，令：书中是使用两个指针来做的	ACM	IT	ACM
+35736	[原]配置SVN过程中出现的问题	参考的这篇文章 http://www.cnblogs.com/lidabo/ar	IT	IT	IT
+35737	[原]《软件需求规格说明》中的数据元素组	《软件需求规格说明》中的数据元素组合体 ——GJB438B学习笔记之十五    	IT	IT	IT
+35738	[原]《软件需求规格说明》中的状态和方式	《软件需求规格说明》中的状态和方式 ——GJB438B学习笔记之十四 GJB43	ACM	IT	IT
+35739	2013年03月27日	DOM加载顺序 解析HTML结构。 加载外部脚本和样式表文件。 解析并执	IT	IT	IT
+35740	bzoj 1208 宠物收养所	p.s.我只是拿来练treap的。。。treap比SBT真心好写啊。。。又参考了	IT	Other	ACM
+35741	1057. Stack (30) (浙大	Stack is one of the most fundamental dat	ACM	ACM	ACM
+35744	[原]ruby on rails做的一个	 完全是学习ruby on rails来做的一个demo，还是挺简单的，花了半天	IT	ACM	IT
+35745	jquery中getelementbyi	 有value属性的标签才能使用getelementbyid().value 比	ACM	IT	IT
+35746	关于raw_input()和sys.st	　　　　　　　　　　　　　　　　　　关于raw_input()和sys.stdi	ACM	IT	IT
+35747	poj 2960 S-Nim(博奕)	题意：跟前一道 Fibonacci again and again 差不多，对每	ACM	ACM	ACM
+35748	[原]Qt中通过设置位图掩码生成异形控件	      以下步骤是以按钮为例，其他控件类似        ①在QtDesig	IT	IT	IT
+35749	Use Markdown in Word	h1 h6 line1 line2 This is a block I a	IT	ACM	IT
+35750	[原]mallet源码分析之决策树C4.	         本来在此之前还应该有一篇介绍mallet中贝叶斯实现的文章。鉴	ACM	IT	IT
+35751	伟大又自私	当他们闭上一只眼睛，两根手指错过时，我便知，结局定是一个悲剧。 当刘敏痛得突然摔	Other	Other	IT
+35752	趁热乎评价下锤子ROM	大概扫了下一些微博的刷屏式直播。也没去看各种自认为专家的人的点评。反正还是那句话	IT	IT	Other
+35753	[译]使用autoLayout实现适配i	这篇文章是我看到的关于适配iPhone5的文章里写的最好的，所以在这里转发并翻译	ACM	ACM	IT
+35754	HDU 4507. 吉哥系列故事——恨7	Brief description: ... 略） Analysis: ..	ACM	ACM	ACM
+35755	博客更换域名为blog.aikilis.	鉴于百度不收录tk域名，无奈只好花钱买了个.com域名，现在新的地址是http:	ACM	IT	IT
+35756	Dhaka 2012 Regional	Problem A. Divisibility Brief descriptio	ACM	ACM	ACM
+35757	[原]拼车	//F[a, b]表示有a个人，b辆车时最少的车费 //F[a, b] = mi	Other	ACM	ACM
+35758	[原]httpclient	import java.io.InputStream; import org.	IT	ACM	IT
+35759	[转]点击<a>标签，禁止页	 （转载自http://dbear.iteye.com/blog/750825）	IT	IT	IT
+35760	[原]艾勒里·奎因《希腊棺材之谜》读后感	    最近看欧美的推理小说不是很多，这可能是半年多来第一次。     以前看	Other	Other	Other
+35761	[转]linux下动态链接库的创建和使用	 1 简介 大家都知道，在WINDOWS系统中有很多的动态链接库(以.DLL为	IT	IT	IT
+35762	[转]HTML5边玩边学	 出处：左洸的blog http://www.cnblogs.com/myqia	IT	IT	IT
+35763	[转]html5指南--拖拽功能的实现	本文的内容是关于在html5中如何实现html元素拖拽功能。在html5之前要实	IT	IT	IT
+35764	[原]玩转十滴水	这道题目是一道模拟题目，但是我想的过程中遇到了很多问题，感觉脑袋很乱的感觉。最后	ACM	ACM	ACM
+35765	2013年03月28日	      浙大计算机复试成绩和拟录取名单出来的还算比较快。一志愿的我离一等奖学	IT	Other	Other
+35766	python weibo sdk	 class _Callable(object): def __ini	IT	IT	IT
+35767	[原]POJ 1442 Black Bo	题意：给你n个数的数列，然后再给你m次查询，第i（i<=m）次查询输入一个	ACM	ACM	ACM
+35770	移植QT到QNX	参考 http://qt-project.org/wiki/Building-Q	IT	ACM	IT
+35776	[转]线程退出pthread_exit(	 pthread_exit()用于线程退出，可以指定返回值，以便其他线程通过pt	ACM	IT	IT
+35777	[原]APUE学习笔记——第十一章 线程	典型的UNIX进程可以看成只有一个控制线程：一个进程在同一时刻只能做一件事情。有	ACM	IT	IT
+35778	hadoop 4-1源码	 import java.io.IOException; import java	IT	IT	IT
+35779	[原]Python学习笔记（一）	我用的Python版本是3.3，配合《Python编程实践》（写《代码之美》的大	ACM	IT	IT
+35780	[原]ZOJ 1002 回溯	题目：http://acm.zju.edu.cn/onlinejudge/sho	ACM	ACM	ACM
+35781	大牛是如何炼成的！？	   看雪论坛上看到的！       兴奋→努力→疲倦→兴奋→疲倦→不信邪→努力	Other	Other	Other
+35782	关于gcd的8题	发现其实有关gcd的题目还是挺多的，这里根据做题顺序写出8题。 [bzoj28	ACM	ACM	ACM
+35783	瞎扯	Blog最近关闭了一段时间……原因是WHUACM服务器（嗯对，我的Blog就搭在	IT	ACM	Other
+35784	[原]accesslog或者cookie	#统计apache cookie log中访问频率最高的20个ip和访问次数 c	ACM	IT	IT
+35785	poj 1704 Georgia and	题意：Georgia and Bob 玩游戏，在一条形格子中有N个棋子，他们可以	ACM	ACM	ACM
+35786	[原]USACO Stringsobit	可以直接移步这里：大神的代码http://belbesy.wordpress.c	ACM	ACM	ACM
+35787	java项目目录/发布/打包	平时都是用编译器创建项目，也没注意过这样目录结构…… 大致目录结构如下： Web	IT	IT	IT
+35788	[原]ZJU PAT 1010	好久没写oj的题解了，今天做了pat 1010的题目，提交代码后才只有19分，最	ACM	ACM	ACM
+35789	LomoX Browser -- chr	Our team have developed a browser named	IT	ACM	IT
+35797	HUD-1693 Eat the Tre	　　题目链接：http://acm.hdu.edu.cn/showproblem	ACM	ACM	ACM
+35798	关于左移右移的操作 学习	 左移操作符<<，  右移又叫做“有符号”右移-》符号若为正，则在最	ACM	IT	IT
+35799	Java 中equals 与 == 的区	值类型是存储在内存中的堆栈（以后简称栈），而引用类型的变量在栈中仅仅是存储引用类	IT	IT	IT
+35800	关于Node.js下的MongoDB阻塞	背景 最近在做公司项目的一个模块，主要用于JSON Api的传输，所以开发环境的	IT	IT	IT
+35801	SPOJ 3273 Order stat	问题简述 集合S初始时是空集，给出q（1<=q<=200000）个对	ACM	ACM	ACM
+35802	[转]web service的基础教程	  今天主要和大家分享，如何搭建一个Web服务，做Android开发，不可避免会	IT	IT	IT
+35803	[转]熵，信息增益，信息增益率，Gini	         话说今天《机器学习》上课被很深地打击了，标名为“	ACM	IT	IT
+35804	从代码生成 Html 文本的工具	　　　　——用于辅助程序员在非技术专业性的其他普通博客/社区，插入一段代码。使其	IT	IT	IT
+35805	Linux系统下的文件和文件夹相关操作（	一、创建/删除操作新建：新建文件：vi  、touch 、cv 、copy等都算	IT	IT	IT
+35806	html 网页中 如何实现多选框或单选框	 id="boy" type="radio" name=	ACM	ACM	IT
+35807	51nod 1182 : 完美字符串	问题简述 约翰认为字符串的完美度等于它里面所有字母的完美度之和。每个字母的完美度	ACM	ACM	ACM
+35808	51nod 1181 : 质数中的质数	问题简述 如果一个质数，在质数列表中的编号也是质数，那么就称之为质数中的质数。例	ACM	ACM	ACM
+35809	[原]二叉搜索树转换为双向链表	昨天想了好久还是没有想明白，今天终于想明白了。其实我们只需要中序遍历一下二叉树，	ACM	ACM	ACM
+35810	收到实习通知	开年后，历经40天，跑了4趟杭州，终于有结果了。本文链接	Other	IT	IT
+35811	CRC循环冗余校验码的生成	  众所周知，不可能有永远都不会出错的人，同样也不可能有永远不出错的计算机，永远	ACM	IT	IT
+35812	[原]CyberFlashPlayer	CyberFlashPlayer是一款轻量级的flash游戏自定义播放工具。	IT	IT	IT
+35813	[原]Python学习笔记（二）	1. urllib.urlopen(“url”)可以打开远程文件，并进行读取，即	ACM	ACM	IT
+35814	【★更新★】发布本人所有博客文章中涉及的	     摘要: 为了更方便地管理博文中涉及的各种代码与工具资源，现在把这些资源	IT	IT	IT
+35822	[原]USACO Spinning Wh	这道题的题目很难懂。。。虽然我自认为英语还不错。。。同样看不懂题目的同学可以看看	ACM	ACM	ACM
+35823	[原]Lartin American 2	 转载请注明出处，谢谢http://blog.csdn.net/ACM_cxlo	ACM	ACM	IT
+35824	51nod 1179 : 最大的最大公约	问题简述 给出N个正整数（N<=5×10^4），每个数最大10^6，找出N	ACM	ACM	ACM
+35825	[原]Python学习笔记（四）	在Python的函数中，是可以为形参附上默认值的，这样当调用函数而没有传给那个形	IT	IT	IT
+35826	[原]Python学习笔记（三）	用Python将查找和排序算法实现了一下，算是对Python的一个练习。 其实不	ACM	ACM	ACM
+35827	[原]POJ 2159 模拟	这一题的题意太晦涩了，含义是指：将任意字母替换为任意一个字母，只要不出现多个字母	ACM	ACM	ACM
+35828	[原]网络程序为什么要处理SIGPIPE	         根据unix环境高级编程一书，我们知道管道在读端关闭时，写端继	IT	ACM	IT
+35829	[原]Codeforces Beta R	题意：给你n个建筑的楼顶的高度，以及楼顶的左坐标l，右坐标r（可以看成是线段），	ACM	ACM	ACM
+35830	[原]Codeforces Round	题意：一棵树有n个节点，但是除了根节点1外，其他节点都的出度和入度加起来就只有2	ACM	ACM	ACM
+35831	[原]hdu 4521 小明系列问题——	题意：有多组测试数据，每组数据的n和d表示，有n个数，求间距大于d的最长上升序列	ACM	ACM	ACM
+35832	[原]UESTC 1525 Fruit	题意：有T组测试数据，每组数据的N，H，W表示有N个炸弹或水果，H和W表示用来“	ACM	ACM	ACM
+35833	[原]hdu 3950 Parking	题意： 有T组测试数据，每组数据的N和Q分别表示停车场有N个位置（下标从1开始）	ACM	ACM	ACM
+35834	[转]SVG中Path路径之A	 如果对Path路径的字母不熟悉，可看下我的SVG中Path路径指令教程htt	ACM	ACM	IT
+35835	Python 面向对象编程（一）	　　　　　　　　　　　　　　　　　　　　　　Python 面向对象编程（一）　　	IT	IT	IT
+35836	丑数	import java.util.Scanner;/** * 分析： 假设数组u	ACM	ACM	IT
+35837	在Eclipse上配置hadoop环境	在完成hadoop集群配置之后，我们可以搭建Eclipse环境，以使得开发Map	IT	IT	IT
+35838	[原]各路推荐算法	        得益于neflix的百万大奖，再加上现在百度的电影评分推荐大赛，	ACM	ACM	IT
+35839	[原]位操作练习	 题目1151：位操作练习 时间限制：1 秒 内存限制：32 兆 特殊	ACM	IT	IT
+35840	51nod 1040 : 最大公约数之和	问题简述 给出一个n（n<=10^9），求1-n这n个数，同n的最大公约数	ACM	ACM	ACM
+35841	[原]Mac 模态窗口关闭事件的处理	在Mac 开发中如果使用 runModalForWindow 弹出模态对话框，那	IT	IT	IT
+35842	[原]大笨钟	#include<stdio.h> #include<stdl	IT	ACM	ACM
+35843	[原]不使用加减乘除实现加法	这里给出递归和非递归实现 //不适用加减乘除实现加法操作 int Sum(in	ACM	ACM	ACM
+35844	[原]APUE学习笔记——第十二章 线程	本章学习控制线程行为方面的详细内容，在上章中对线程属性和同步原语属性都取其默认行	ACM	IT	IT
+35845	关于写Nagios邮件插件的感触	最近写了个Nagios的邮件报警插件，思想上是参考《Nagios Extende	IT	Other	IT
+35846	[原]POJ 2479 Maximum	/** * Author： johnsondu * Stratege:	ACM	ACM	ACM
+35847	[原]Codeforces Beta R	题意：有n棵树，m个蘑菇，每棵树有坐标a，高度h，向左边倒的概率，向右的概率（概	ACM	ACM	ACM
+35848	[原]ZOJ 3299 Fall the	题意：有n排板砖，m个木板，边界的l和r的n列板砖从天上掉下来，然后有m个边界的	ACM	ACM	ACM
+35849	[原]Python学习笔记（五）	要用Python显示一个带有内容的窗体，还是灰常容易滴。 只需用到tkinter	IT	IT	IT
+35850	shell 获得当前文件路径	cd ‘dirname file’ | pwd	IT	ACM	IT
+35851	[原]Apache运行Python的配置	首先，保证Python解释器和Apache服务器都安装完毕了。 接着，就要安装m	IT	IT	IT
+35852	[原]HDU 4534 郑厂长系列故事—	 转载请注明出处，谢谢http://blog.csdn.net/ACM_cxlo	ACM	ACM	ACM
+35853	HDU 4531 吉哥系列故事——乾	吉哥系列故事——乾坤大挪移Time Limit: 2000/1000 MS (J	ACM	ACM	ACM
+35854	HDU 4533	http://blog.csdn.net/laziercs/article/de	ACM	ACM	ACM
+35855	Codeforces Round #17	http://codeforces.com/contest/287A：水。。。B	ACM	ACM	ACM
+35856	2013腾讯编程马拉松复赛第一场（3月2	A. 略。 B. idfs() 或者 bfs() 均可。 C. 组合 DP。 。	ACM	ACM	IT
+35857	BZOJ 1006: [HNOI2008	題目： 　　給出一個圖，圖中所有的環的長度不大於3，現在需要分組，使得每個	ACM	ACM	ACM
+35858	[转]A* 搜索算法	A* 寻路算法 原文地址： http://www.gamedev.net/re	ACM	IT	IT
+35859	HDU 4530 小Q系列故事——大笨钟	小Q系列故事——大笨钟Time Limit: 600/200 MS (Java/	ACM	IT	ACM
+35860	HDU 4505 小Q系列故事——电	小Q系列故事——电梯里的爱情Time Limit: 300/100 MS (Ja	ACM	IT	ACM
+35861	常量指针与指针常量的区别 [转]	[转] http://www.cnblogs.com/witty/archive	ACM	IT	IT
+35862	[原]mac下安装gcc，homebre	常年使用windows，现在换到mac，很多不太习惯的，一些命令操作，一段时间不	IT	IT	IT
+35863	POJ-2352 Stars 线段树	　　题目链接：http://poj.org/problem?id=2352　　水	ACM	ACM	ACM
+35864	[原]hdu 2896 病毒侵袭 --	/* 寻找都有哪些子串 不能保证是字母或数字，所以子节点有差不多130个 */	ACM	IT	ACM
+35865	const在函数前与函数后的区别 [转]	[转] http://blog.csdn.net/clozxy/article/	ACM	IT	IT
+35866	[转]JS添加/绑定事件监听函数并传参数	 *  * 添加事件监听函数  *obj       要添加监听的对象或元素  	IT	IT	IT
+35867	[转]js 添加事件 attachEve	一般我们在JS中添加事件,是这样子的 obj.onclick=method 这种	IT	IT	IT
+35868	Fix Xcode "Code	from:  http://imi.im/post/2012-12-26/400	IT	Other	IT
+35869	[原]杨氏矩阵中查找某个数	#include<stdio.h> #include<stdl	ACM	ACM	ACM
+35870	[转]QT框架中快速应用OpenCV	 和MFC比较起来，QT的信号槽机制比MFC的信号机制慢，但是因为能很好的实现跨	ACM	IT	IT
+35871	【Windows编程】Windows计时	本文的目的是介绍Windows的各种计时器的用途.Windows大概有4种计时器	IT	ACM	IT
+35872	使用vc内嵌浏览器	  至于vc内嵌浏览器的方式有很多种，vs2008就可以使用htmldialog	IT	IT	IT
+35873	[转载]ubuntu下codeblock	原文地址：ubuntu下codeblocks个别设置（改字体/终端）作者：隐藏_	IT	IT	IT
+35874	[转载]ubuntu下codeblock	原文地址：ubuntu下codeblocks个别设置（改字体/终端）作者：隐藏_	IT	IT	IT
+35875	[原]hdu 4107 Gangster	做法：反正最终会形成的状况很多都是一整条一整条的区间中的所有值大于等于limit	ACM	ACM	ACM
+35876	[原]hdu 4336 Card Col	做法：直接状态压缩了，如果理解了条件期望，那这道题目就可以迎刃而解 这里要求的不	ACM	ACM	ACM
+35877	[原]hdu 2993 MAX Aver	做法：构造凸包即可。然后HDU的时间卡的很死，手动输入，能用存储位数少的数据类型	ACM	ACM	ACM
+35878	[原]POJ 1015 Jury Com	题意：审判囚犯了，要在n选择m个人组成陪审团，每个人对那个囚犯有一个好感值，厌恶	ACM	ACM	ACM
+35879	[原]linux C编程向mysql里	先看这篇文章http://blog.csdn.net/qiqijianglu/a	IT	IT	IT
+35880	[原]Codeforces Beta R	题意：停车位问题。当车主想选择的空位后端有车时，车主选车位是要保证和后边的车的距	ACM	ACM	ACM
+35881	[原]hdu 3308LCIS 线段树	做法：这里的区间合并要考虑左区间的最右值和右区间的最右值，看两个区间是否可以靠相	ACM	ACM	ACM
+35882	[原]hdu 3874 Necklace	题意：求一个序列中所有数字的和，其中数值相同的只能计算一次。 做法：可以先储存所	ACM	ACM	ACM
+35883	[原]qobject_cast用法	 函数原型： T qobject_cast ( QObject * ob	IT	IT	IT
+35884	HDU 4536 XCOM Enemy	XCOM Enemy UnknownTime Limit: 500/200 MS	ACM	ACM	ACM
+35885	HDU 4535 吉哥系列故事——礼尚	吉哥系列故事——礼尚往来Time Limit: 3000/1000 MS (Ja	ACM	ACM	ACM
+35886	[原]hdu 4536	题目：http://acm.hdu.edu.cn/showproblem.php	ACM	ACM	ACM
+35887	[原]错排公式	//错排公式 #include<stdio.h> #include	ACM	ACM	ACM
+35888	poj 1185 & hdu 4	这两道题如出一辙，只是判断有效状态有一点小差异。每一行的状态只与前面两行的状态有	ACM	IT	ACM
+35893	一个22岁程序员的辛酸之路	那是一个2010年的毕业季，我读大二，当时我们兄弟几个刚从教室回来，在经过一食堂	IT	IT	IT
+35897	2013年四月計劃	現在3-31- 8:31：1.BZOJ：792.CF：1483.POJ：307計	ACM	ACM	IT
+35898	POJ 3813 : Euclid	问题简述 给出平面上3个不共线的点ABC，与一个三角形DEF，求两个点H,G，要	ACM	ACM	ACM
+35899	hdu 2167 Pebbles（状态压	入门级状态压缩dp题。题意：从方格中取一些数，要求所取位置不相邻（包括对角线相邻	ACM	ACM	ACM
+35900	[转]Winning the Netfl	 Posted by Edwin Chen  Oct 24th, 2011	IT	ACM	IT
+35901	POJ 3815 : The Ninja	问题简述 给出n（1<=n<=1000）个互不相同的整数a[1],…	ACM	ACM	ACM
+35902	Word文档里超链接打不开，显示“可打开	 若尝试一下直接打开这个文件，需要手动选择打开的方式，那么原因是你的系统不知道	IT	Other	IT
+35903	帮朋友寻找一个后台开发	工作职责：负责后台server开发工作，网络传输及分布式部署，接入方案等；负责一	IT	IT	IT
+35911	[转]Ubuntu下Nginx的安装及W	 Ubuntu下Nginx的安装及WEB服务配置 来源：本站转载 作者：佚名	IT	IT	IT
+35912	最短路径的变种与应用	 基本应用与简单变种 这类问题通常是通过变化松弛条件（修改三角不等式），或者是	ACM	ACM	ACM
+35913	修改论坛首页到极致简约	版本：Discuz X2.5 代码文件：./template/default/f	IT	IT	ACM
+35914	[转]在SVG中使用滤镜效果和输出文字	 为了使图像更生动形象，可以在SVG中使用滤镜效果和输出文字的基本方法。 	ACM	IT	IT
+35915	[原]html+css+js实现简易的x	XP WINDOW 由细小图片组成的，共有几十个小图片，拼出一个完整的xp wi	IT	IT	IT
+35916	ubuntu下的google拼音输入法	linux下的拼音输入法就是一渣渣。。。之前希望搜狗弄一个linux版本什么的，	IT	IT	IT
+35917	[转]OpenGL 的渲染流水线	 一、渲染：计算机根据模型创建图象。模型（或物体）是由几何图元构成的，而几何图元	ACM	ACM	IT
+35918	[原]mallet源码分析之baggin	   转载请注明原载地址：http://blog.csdn.net/xinhan	ACM	IT	IT
+35919	[原]【javascript】使用pro	对javascript的认知一直很浅，因为只是在实际项目中用到的时候才会去学习。	IT	IT	IT
+35920	[原]【web开发】spring mvc	spring mvc3工程中，会有三个地方容易出现乱码： (1)web页面之间的	IT	IT	IT
+35921	[原]APUE学习笔记——第十三章 守护	1、编程规则 (1)首先调用umask将文件模式创建屏蔽字设置为0.由继承得来的	ACM	IT	IT
+35922	毕业离校，新的开始	从学校离开搬进新居已经好几天了，今天才有时间，静下来记录这几天的事情。从学校离开	Other	Other	Other
+35923	[转]CSS3 基础知识汇总1 基本功能	 在此对CSS3 知识点进行一下小总结（还有一些不全，将逐渐完善）   边	IT	IT	IT
+35924	[Ubuntu] dpkg: error	Error: update-openoffice-dicts not prese	IT	ACM	IT
+35925	[原]POJ 3164 Command	朱刘算法模板题 #include <iostream> #inclu	ACM	ACM	ACM
+35926	HDU 4544 湫湫系列故事——消	湫湫系列故事——消灭兔子Time Limit: 3000/1000 MS (Ja	ACM	IT	ACM
+35927	HDU 4541 Ten Googol	Ten GoogolTime Limit: 500/200 MS (Java/O	ACM	IT	ACM
+35928	HDU 4540 威威猫系列故事——打	威威猫系列故事——打地鼠Time Limit: 300/100 MS (Java	ACM	ACM	ACM
+35929	[原]腾讯马拉松复赛第三场,HDOJ-4	     贪心+优先队列维护      先将所有的兔子排序...再将所有的箭按伤	ACM	ACM	ACM
+35930	POJ 1845 : Sumdiv	问题简述 给出两个自然数a,b（0<=a,b<=50000000），	ACM	ACM	ACM
+35931	[原]CF 220E Little El	 转载请注明出处，谢谢http://blog.csdn.net/ACM_cxlo	ACM	ACM	ACM
+35932	POJ-1739 Tony's	　　题目链接：http://poj.org/problem?id=1739　　完	ACM	ACM	ACM
+35933	Ural 1519 Formula	　　题目链接：http://acm.timus.ru/problem.aspx?	ACM	ACM	ACM
+35934	[原]POJ 2632	#include <stdio.h> #include <st	IT	ACM	ACM
+35935	[原]4月1号早会	1.企业的发展是一个过程，产品质量的不断提高，请更加优秀的人，销售必须是需要狼性	Other	Other	Other
+35936	[转]buntu 9.10 安装ngin	 buntu 9.10 安装nginx + fastcgi + spawn-fc	IT	IT	IT
+35937	[原]hdu 2844 Coins -	/* 问一些硬币能组合到的钱数有多少种？ 多重背包 容量等于价值的算一种 */	ACM	ACM	ACM
+35938	[原]编程之美4.3扩展问题(卡特兰数)	编程之美4.3的题目讲的是买票找零问题，属于Catalan数的范畴，详细细节不表	ACM	IT	IT
+35939	Blog宕机风波	Click $ゆっくりでいいさ->{Blog宕机风波} for full	IT	IT	Other
+35940	[原]【SPOJ KQUERY】【HDU	SPOJ KQUERY：给一个数列，查询x在区间l,r上有多少数字>x H	ACM	ACM	ACM
+35941	HDU 4534 郑厂长系列故事——新闻	　　跟 HDU 4057 Rescue the Rabbit差不多的AC自动机+	ACM	ACM	ACM
+35942	[原]POJ 2739 满足条件的连续素	//11422316	c00h00g	2739	Accepted	828K	16	ACM	ACM	ACM
+35943	排列组合中关于捆绑法、插空法、插隔板法	捆绑法：当要求某几个元素必须相邻（挨着）时，先将这几个元素看做一个整体，（比如：	ACM	IT	ACM
+35944	[原]USACO Feed Ratios	/* ID: thestor1 LANG: C++ TASK: ratios *	ACM	ACM	ACM
+35945	[原]欧拉回路及哈密顿回路浅见（UVA1	 欧拉图： 在图为连通图的前提下，欧拉通路：当前图中经过每条边一次且仅一次，若最	ACM	ACM	ACM
+35946	【转两篇】yield 产生器 和 for	转自：http://caterpillar.onlyfun.net/Gossip	ACM	IT	ACM
+35947	[原]POJ 3437 Tree Gra	题意：给出一个树的中序遍历的上下情况，求这棵树的高度以及它转化为二叉树后的高度。	ACM	ACM	ACM
+35948	Java类内变量初始化的顺序	import java.math.BigInteger;import java.	ACM	IT	IT
+35949	从函数近似角度看softmax	我不懂softmax，但是最近好友licstar在做这方面的实验，我就了解了一点	ACM	IT	ACM
+35950	[二分+最大流]zoj 3691：flo	 大致题意：     在一个三维空间中有n个点，每个点的坐标都是正整数。第i个点	ACM	ACM	ACM
+35951	愚人节的一些念想	  最近发生的事情比较多。这学期居然接连感冒两次了。上周末也一直在感冒，作息全乱	Other	Other	Other
+35952	[原]APUE学习笔记——第十四章 高级	1、非阻塞IO 低速系统调用是可能会使进程永远阻塞的一类系统调用，包括： (1)	IT	IT	IT
+35953	[原]Qt Creator中无法使用Op	 按上篇文章《Qt4.8下应用OpenCV2.4.4搭建环境详细步骤（win7系	IT	ACM	IT
+35954	裁剪图片	http://mzh3344258.blog.51cto.com/1823534	IT	ACM	IT
+35955	[DP]hdoj 4502：吉哥系列故事	 题意： http://acm.hdu.edu.cn/showproblem.p	ACM	ACM	ACM
+35956	[原]编程之美4.7蚂蚁爬杆扩展问题附猎	    4.7节讲的是一根长27cm的木棍上，在5个点上有5只蚂蚁，蚂蚁在开始的	ACM	ACM	IT
+35957	LPTSTR转换为std::string	在VC编程中，经常会遇到字符串之间的转换，本文就LPTSTR转换为std::st	ACM	IT	IT
+35958	进程和程序的区别 - 分享一个故事	今天看见一个关于进程和程序区别的故事比较不错： 一位厨艺很好的计算机科学家正在为	IT	IT	IT
+35973	如何搭建个人独立博客	博客( www.wutianqi.com )从建立到现在，马上就三年了。 期间身	IT	IT	IT
+35974	ZOJ-3399 Classes Div	　　题目链接：http://acm.zju.edu.cn/onlinejudge	ACM	ACM	ACM
+35975	HDU 湫秋系列故事——安排座位 组和	http://acm.hdu.edu.cn/showproblem.php?pi	ACM	ACM	ACM
+35976	[转]用HTML5来开发一款Androi	 原文来自：http://blog.csdn.net/lufy_legend/a	IT	IT	IT
+35977	Academic Ranking of	http://grad-schools.usnews.rankingsandre	ACM	ACM	ACM
+35978	C++与Java的访问权限修饰符	C++ ：关键字public,private，protected被称为 访问权限	IT	IT	IT
+35979	Computer Science Con	来源于南洋理工网站Computer Science Conference Ran	IT	ACM	IT
+35980	[转]类中静态变量与const常量成员的	//类中,静态变量与const常量的赋值： //static 成员在类外初始	IT	IT	IT
+35981	Oracle分页技术--rownum	 --Oracle分页：rownum--剔除所有信息select * from	IT	IT	IT
+35982	[转]HTTP Status 404(T	原因：servlet没有配置正确 ，查看web.xml确认正确,以及自己的请求路	IT	ACM	IT
+35983	[转载][贵圈真乱]绝对领域未经许可使用	http://tieba.baidu.com/p/2243072373http:	Other	Other	IT
+35984	巧用CSS文件愚人节恶搞	本文内容部分转自：巧用CSS文件愚人节恶搞代码转自：wesbos / april	IT	IT	IT
+35985	[原]USACO Magic Squar	在发现8!=40320之后，我发现空间不是影响因素了。只要不重复运算，时间和空间	ACM	ACM	ACM
+35986	[原]值得思考的一道题 2013腾讯编程	      欢迎关注我的微博：点击打开链接       题意自不必多说，那我们	ACM	ACM	ACM
+35987	[原]寻找宝藏	一棵多叉树T，根结点为0，某个结点上有宝藏。从根结点沿着树枝向下寻找，如果有分支	ACM	ACM	IT
+35988	杨辉三角	   import java.util.Scanner;public class	ACM	ACM	IT
+35989	[原]编程之美3.11 二分查找常见问题	二分查找原理简单，但写起来比较容易错，只要记住一点：小心的处理边界。就没什么问题	ACM	IT	IT
+35990	ZOJ1122 Clock	　　http://acm.zju.edu.cn/onlinejudge/show	ACM	ACM	ACM
+35991	HDU 1325 Is It A T	Is It A Tree?Time Limit: 1000MS Memory L	ACM	ACM	ACM
+35992	POJ 1182 食物链(并查集）	食物链Time Limit: 1000MS Memory Limit: 1000	ACM	ACM	ACM
+35993	POJ 1611 The Suspect	The SuspectsTime Limit: 1000MS Memory Li	ACM	ACM	ACM
+35994	[原]Java 5和6的改进	1. Java 5 2. Java 6	IT	IT	IT
+35995	[转]海量数据 处理方法	大数据量的问题是很多面试笔试中经常出现的问题，比如baidu google 腾讯	ACM	IT	IT
+35996	POJ 1703 Find them	Find them, Catch themTime Limit: 1000MS 	ACM	ACM	ACM
+35997	2013腾讯编程马拉松复赛第三场(3月3	共5题，在HDU上的题号是4540~4544，其中4543仍未AC，留着以后填坑	ACM	ACM	ACM
+35998	关于身份证号的那些事	 居民身份证号码，根据〖中华人民共和国国家标准 GB 11643-1999〗中有	IT	IT	IT
+35999	[原]非递归实现归并排序	#include<stdio.h> #include<stdl	ACM	ACM	ACM
+36000	[转]汇总java日期格式大小写简写	        今 天同事告知我一个平时很忽略的问题，new SimpleDat	ACM	ACM	IT
+36001	[原]APUE学习笔记——第十五章 进程	进程间通信IPC（InterProcess Communication）是指能在	IT	IT	IT
+36002	HDU 1166 敌兵布阵	线段树的代码 lson和rson分辨表示结点的左儿子和右儿子，PushUP(in	ACM	ACM	ACM
+36003	[原]实现索引遇到的问题	       这些问题是在实现索引时遇到的，我利用B+树实现了索引，整个索引包括	ACM	IT	IT
+36004	SRM167 DIV1	题意大概是给一个数列，要求该数列第一个数放中间（偶数两个中间位置均可），第二、三	ACM	ACM	ACM
+36005	LA 3942 Remember the	https://icpcarchive.ecs.baylor.edu/index	ACM	ACM	ACM
+36006	vc内嵌wmplayer播放器	  这应该是用vc在程序中添加视频音频播放器最方便的方法了。但是，你如果只是用v	IT	IT	IT
+36010	“非计算机专业如何转行做程序员” - 我	前两天在微博上看到关于“非计算机专业如何转行做程序员” 的讨论:讨论中一片学生的	IT	IT	IT
+36015	Python正则表达式指南	转自：http://www.cnblogs.com/huxi/archive/2	ACM	IT	IT
+36016	poj1547	简单题#include <iostream>#include <	IT	ACM	ACM
+36017	POJ-3133 Manhattan W	　　题目链接：http://poj.org/problem?id=3133　　用	ACM	ACM	ACM
+36018	数据库——startup,startup	在oracle中，你会遇到startup,startup mount,start	IT	IT	IT
+36019	[原]归并树 第K大值	/* 1.O(n*(logn)^2) 2.树的节点node从1开始（方便位运算）	ACM	ACM	ACM
+36020	poj1552	简单题#include <iostream>#include <	IT	ACM	ACM
+36021	Python面向对象编程（二）	　　　　　　　　　　　　　　　　　　　　Python面向对象编程（二）　　在前面	IT	IT	IT
+36024	ZOJ-1977 Pandora adv	　　题目链接：http://acm.fzu.edu.cn/problem.php	ACM	ACM	ACM
+36025	HashTable (poj2785)	//by zxfx100//(positive int # < maxN	IT	ACM	ACM
+36026	[原]为什么这么难？	我的梦想，就是希望有一个房子，能够放得下我所有的编程书籍。它的所有权属于我，而不	ACM	Other	Other
+36027	Sublime Text 使用简介	Sublime Text使用介绍 如果说Notepad++是一款不错Co	IT	IT	IT
+36028	[转]拓展欧几里得	转自http://hi.baidu.com/daizhy_acm/item/84	ACM	ACM	ACM
+36029	MinHeap without dele	//by zxfx100//(sizeof a = n) &&	IT	ACM	ACM
+36030	[原]输出二叉树路径上的所有和为K的路径	太坑爹了 1、可能有负值 2、左右子树的大小不保证左边<右边 #inclu	ACM	ACM	ACM
+36031	【MyLife】温暖	    其实，我不怕，只是因为你们在。也许，我从来没有意识到过。但事实就是，因为	ACM	Other	Other
+36032	[原]hdu 4015 Mario an	/* 好蘑菇和烂蘑菇，好蘑菇增加1个血，烂蘑菇减m个血 开始的时候0个血，最后一	ACM	IT	ACM
+36033	[原]Python开发在线辞典	 学了几天的python了，不做项目就是纸上谈兵。所以，打算做个小玩意，调用有道	IT	IT	IT
+36040	山寨STL	     摘要: 个人尝试山寨了下STL， 对STL的6大组件(containe	IT	ACM	IT
+36042	也许以后再也不能与你相见	买了个表，今晚白跑了一趟省站，买不到回家得票- -。大学第一次清明没回家。 大	ACM	ACM	Other
+36043	[原]线段树模板（lazy标记）ZOJ	题解：先搜索用将树上的点给定时间戳，以此当做该节点的区间。 #include &	ACM	ACM	ACM
+36044	[原]USACO Sweet Butte	刚开始用Floyd Warshall算法求每对节点的最短路径，时间复杂度为v^3	ACM	ACM	ACM
+36045	[原]北邮12年网研 -二叉树的层数	B  网2——二叉树的层数 Accept:34     Submit	ACM	ACM	ACM
+36046	HDU 4542 小明系列故事——未	小明系列故事——未知剩余系Time Limit: 500/200 MS (Jav	ACM	ACM	ACM
+36047	[原]妈妈说偶尔也要开始努力一下下了	唉. 看着别人去实习,很羡慕 看着别人拿奖学金,很羡慕 看着别人拿金牌,很羡慕	ACM	IT	Other
+36048	poj 2230 Watchcow	 题目链接：http://poj.org/problem?id=2230 题意：	ACM	ACM	ACM
+36049	poj 2231 Moo Volume	题目链接：http://poj.org/problem?id=2231 题意：有	ACM	ACM	ACM
+36050	codeforces #1	链接:http://codeforces.com/contest/1A题: 水题	ACM	ACM	ACM
+36051	[原]类似约瑟夫环	N个人围成一圈顺序编号，从1号开始按1、2、3顺序报数，报3者退出圈外，其余的人	ACM	ACM	ACM
+36052	[原]确定临界楼层	1、http://im47.cn/post/2011/04/2011-04-06	ACM	ACM	IT
+36053	[原]检测毒药	有 1000 个一模一样的瓶子，其中有 999 瓶是普通的水，有一瓶是毒药。任何	Other	IT	Other
+36054	[原]猴子吃坚果	题目1416：猴子吃坚果 时间限制：1 秒 内存限制：32 兆 特殊判题：否	ACM	ACM	ACM
+36055	[原]hdu 3422 Triangle	 题意很简单，给定n，求4*(1+..+n)为直角三角形一直角边长的三角形中，周	ACM	ACM	ACM
+36056	2013考研初试复习经验（计算机统考）	 依稀记得就是去年这个时候准备考研的。发了那篇日志《My Way》后	Other	Other	IT
+36057	[原]hdu 3421 Max Sum	/* hdu 3421 Max Sum II 读不懂题的伤不起啊 题意：吧一串数	ACM	ACM	ACM
+36058	[原]主方法研究	最近微软、google的笔试题中老出现利用住方法求解时间复杂度的题目，这里必须要	ACM	ACM	IT
+36059	MaxHeap (poj2388)	//by zxfx100//(sizeof a = n) &&	IT	ACM	ACM
+36060	[转]将无向无环连通图转换成深度最小的树	树的深度取决于根节点到最深叶节点的距离，所以我们可以从叶节点入手。 叶节点会且只	ACM	Other	ACM
+36061	Bernoulli_number前n个自	Sm(n)=1^m+2^m+…+n^m m∈N n∈N* 这是一个经典的数学问题	ACM	ACM	ACM
+36062	[原]USACO Riding the	按照USACO上面讲的哈密顿回路算法做的，不是完全懂。。。大致理解是那种方法对任	ACM	ACM	ACM
+36063	POJ 1984 Navigatio	Navigation NightmareTime Limit: 2000MS M	ACM	ACM	ACM
+36064	POJ 1988 Cube Stack	Cube StackingTime Limit: 2000MS Memory L	ACM	ACM	ACM
+36065	POJ 2524 Ubiquitous	Ubiquitous ReligionsTime Limit: 5000MS M	ACM	ACM	ACM
+36066	POJ 2492 A Bug'	A Bug's LifeTime Limit: 10000MS Memory L	IT	ACM	ACM
+36067	POJ 2236 Wireless N	Wireless NetworkTime Limit: 10000MS Memo	IT	ACM	ACM
+36068	POJ 1456 Supermark	SupermarketTime Limit: 2000MS Memory Lim	ACM	ACM	ACM
+36069	[原]找出直系亲属	 题目1035：找出直系亲属 时间限制：1 秒 内存限制：32 兆	ACM	ACM	IT
+36070	The Tail at Scale(译)	作者：Jeffrey Dean, Luiz André Barroso Goog	ACM	ACM	IT
+36071	Codeforces Round #17	A: 求个和就行。B:题意：给定一个n*m的矩阵，将每个方格内都有一个值。我们可	ACM	ACM	ACM
+36080	irrlicht引擎：镜子效果	  最近在用irrlicht做一个3D试衣间的小项目，为了给项目增添点花样，于是	ACM	ACM	IT
+36081	irrlicht引擎：真实的水面渲染	先上图   本来说是做镜子效果的，结果手工计算的镜面反射矩阵应用在ir	IT	IT	IT
+36088	[原]hdu1828 Picture(扫	题目链接：http://acm.hdu.edu.cn/showproblem.p	ACM	ACM	ACM
+36089	[原]一点体会	        昨天晚上做了微软校招的笔试题目，感觉自己的基础知识还是很不扎实，	ACM	Other	Other
+36090	[转]C语言中的typeof关键字	 typeof关键字是C语言中的一个新扩展。 typeof的参数可以是两种形式	IT	IT	IT
+36091	[转]c语言中的宏，#号##号，可变参数	C（和C++）中的宏（Macro）属于编译器预处理的范畴，属于编译期概念（而非运	ACM	IT	IT
+36092	踩方格 微软编程之美测试题 百练试题	Description有一个方格矩阵，矩阵边界在无穷远处。我们做如下假设：a. 	ACM	ACM	IT
+36093	POJ 1733 Parity g	Parity gameTime Limit: 1000MS Memory Lim	ACM	ACM	ACM
+36094	[原]再谈iOS GestureReco	现在iPhone5的尺寸已经是4英寸了 不排除接下来会出现4.5 5.0英寸的i	ACM	ACM	IT
+36095	[原]HDU1542 Atlantis（	题目链接：http://acm.hdu.edu.cn/showproblem.p	ACM	ACM	ACM
+36096	[原]XSI IPC——System V	System V消息队列 1、key_t键和ftok函数 三种类型的System	IT	IT	IT
+36097	大端小端,ascii,unicode,u	     摘要: 这篇文章里主要阐述下面几个问题 1: 字符和字节的区别	ACM	IT	IT
+36098	保研了	     摘要: 之前因为考研的事情，放弃了更新，保研后也没回来。这一丢就是好久	Other	IT	IT
+36099	HDU 3038 How Many A	How Many Answers Are WrongTime Limit: 20	ACM	ACM	ACM
+36100	ZOJ 3261 Connection	Connections in Galaxy WarTime Limit: 3 S	ACM	ACM	ACM
+36101	素数的特殊性	素数的特殊性来源于其简化剩余系的特殊性。 a^(p-1)=1 (mod p) a	ACM	Other	ACM
+36102	POJ 2912 Rochambeau（	RochambeauTime Limit: 5000MS Memory Limi	ACM	ACM	ACM
+36103	[原]NSAttributedStrin	昨天看standFord 2013的iOS开发的公开课看到的新东西，里面的老师说	ACM	IT	IT
+36104	[原]相似图片搜索原理	给定一张图片，怎样在互联网上找出和它近似的图片？ 可以使用Google的相似图	ACM	Other	IT
+36106	Lomox_2013_04_05_Rel	www.lomox.hkwww.lomox.org修改：11.增加lxoptio	IT	IT	IT
+36113	Asp.net 图片大小转换	转自网络，感谢作者 /// <summary>	ACM	IT	IT
+36114	无法打开登录所请求的数据库DbName	转自：http://www.cnblogs.com/chsword/archiv	IT	IT	IT
+36115	再论cin 与getline	      很多书上，都很笼统的说，cin用于提取输入缓冲区的字符，且自动转换赋	ACM	IT	IT
+36116	让xp加载指定的内核版本--别以为xp加	之前ida+windbg调内核发现内核的地址和ida中不匹配....搞了半天,终	IT	IT	IT
+36117	LAC: Demo Dictionary	    这几个晚上,为了自己过几天的需求,也为了研究下后面的LAC2,给LAC的	IT	IT	IT
+36132	[转]shell中if做比较	比较两个字符串是否相等的办法是： if [ "$test"x	ACM	IT	IT
+36133	POJ 1417 True Liar	True LiarsTime Limit: 1000MS Memory Limi	ACM	ACM	ACM
+36134	HDU3364：高斯消元解异或方程组	题目： Lanterns Time Limit: 2000/1000 MS (	ACM	ACM	ACM
+36135	[原]认真审题很重要	 题目1121：首字母大写 时间限制：1 秒 内存限制：32 兆 特殊	ACM	IT	IT
+36136	[转]十个利用矩阵乘法解决的经典题目(F	 好像目前还没有这方面题目的总结。这几天连续看到四个问这类题目的人，今天在这里简	ACM	ACM	ACM
+36137	[原]矩阵乘法和二分求阶乘 解线性递推问	 题目1081：递推数列 时间限制：1 秒 内存限制：32 兆 特殊判	ACM	ACM	IT
+36138	JSTL学习笔记	持续更新，将每次不会的东西写上来，方便以后忘了直接来这找。要使用jstl，首先要	IT	IT	IT
+36139	[原]记录	http://subclipse.tigris.org/update_1.6.x	IT	IT	IT
+36140	一个Java小程序，帮助理解Java继承	class Insec{private int i = 9;protected	ACM	ACM	IT
+36141	[原]POJ 2352 Stars	树状数组入门题，题设比较简单 #include<stdio.h>	ACM	ACM	ACM
+36142	时间真的好快	  时间飞逝，1/4无情离去：做了一个艰难的决定，辞去并找到新的工作，继续并憧憬	Other	Other	IT
+36143	[原]编程之美	#include<iostream> #include<map	IT	ACM	IT
+36144	Handshaking<DP>	链接:http://soj.me/show_problem.php?pid=10	ACM	ACM	ACM
+36145	[原]hdu 4214 Crash an	/* hdu 4214 Crash and Go(relians) 题意：伞兵降	ACM	ACM	ACM
+36146	[原]USACO Shopping Of	这道题刚开始用搜索做的，即遍历每种特惠的可能次数，最后取最省的组合。虽然用到了剪	ACM	ACM	ACM
+36147	2012年度总结	2013年了，又到了一年一度的总结，就像某人说的这总结是填空，是啊，每年都得填一	IT	Other	Other
+36148	[原]eclipse远程部署，静态文件实	   eclipse 远程文件实时同步，eclipse远程部署插件 gith	IT	IT	IT
+36149	Column Picture	看Gilbert Strang大神的线性代数公开课（点这里），老教授讲了一种所谓	ACM	Other	IT
+36150	MYSQL使用笔记	1.MYSQL触发器MTSQL触发器的创建和MSSQL区别还是有的，今天创建了第	ACM	IT	IT
+36151	2013年04月06日	失眠的心，难以言寓 青春就应该这样绽放  游戏测试：三国时期谁是你最好的兄弟！！	Other	Other	IT
+36152	[译]概率估计（极大似然估计、拉普拉斯平	英文原文链接：http://www.temida.si/~bojan/proba	ACM	ACM	IT
+36153	postfix + courier-im	Postfix+courier-imap:  ubuntu下用postfix搭建	IT	IT	IT
+36154	[原]map的查找	一句话不割，a=map[i]，如果map[i]没有值的话，会赋一个初始值给a，如	ACM	IT	ACM
+36155	[原]c++中的string分割	首先是怎么读取一行含有空格的字符串： getline(cin,c); 但是需要	ACM	IT	ACM
+36156	[原]mysql常用监控脚本命令列表	#/bin/sh #检测mysql server是否正常提供服务 mysql	IT	IT	IT
+36157	[原]Kerberos（1.9）Apac	环境： 环境： ubuntu 12.04, jdk 1.7 用户名都是：nac	IT	ACM	ACM
+36158	Linux常用命令review	review了一下一些在linux下的常用命令，嗯，都是很基础的东西，大神请略过	IT	IT	IT
+36159	cygwin中文乱码配置	编辑.inputrc,增加如下内容： set meta-flag on set	IT	IT	IT
+36160	走在java的路上，就要做一个合格的程序	JAVA开发是一项高难度的工作，只有我们开发的自己懂得，但其他人却不这么认为，有	IT	IT	IT
+36168	[原]新东方2013杨超长线基础高数90	2013杨超长线基础高数90课时之第一讲1-4.rar	Other	IT	IT
+36169	HDU-1964 Pipes 插头DP	　　题目链接：http://acm.hdu.edu.cn/showproblem	ACM	ACM	ACM
+36170	[原]HDU 1559 最大子矩阵	/** * Author : johnsondu * time : 20	ACM	ACM	ACM
+36171	[原]HDU 1160 FatMouse	/** * Author : johnsondu * time : 20	ACM	ACM	ACM
+36172	[原]创建BMP图像	void Create_Image(){ FILE *fp; int i	IT	IT	IT
+36173	[原]POJ 3461 kmp	        今天重新读了一遍算法导论上的kmp算法，感觉理解比以前更加深刻了	ACM	ACM	ACM
+36174	[转]Win32中安全的子类化	关于子类化的话题虽然有些旧，但它至今仍然不失为一种开发Windows的强有力技术	IT	IT	IT
+36175	[转]mciSendString用法	 使用MCI API，源文件中需要包含头文件 Mmsystem.h，在Proje	IT	ACM	IT
+36176	[原]PHP抓取页面	其实PHP抓取页面异常简单，就是利用fopen，同打开本地文件相同。 <?	IT	IT	IT
+36177	[原]PHP验证码的实现	PHP验证码的实现，其实就是首先随机数，然后绘图。 关键的代码为validcod	IT	ACM	IT
+36178	[原]PHP开启PDO	1.将ext文件夹下的php_pdo_mysql.dll放到php.ini所指的	IT	IT	IT
+36179	郁闷的出纳员 平衡二叉树（SBT）	郁闷的出纳员Time Limit:5000MS     Memory Limit	ACM	IT	ACM
+36180	POJ-1026 Cipher 置换群	　　题目链接：http://poj.org/problem?id=1026　　简	ACM	ACM	ACM
+36181	[原]Restricted Boltzm	 Reference: http://en.wikipedia.org/w	IT	ACM	IT
+36182	[原]深入研究之回音抑制算法（echo	http://lists.xiph.org/pipermail/speex-de	IT	ACM	Other
+36183	[原]Codeforces Round	 B. Shaass and Bookshelf time limit p	ACM	ACM	ACM
+36184	DirectUI中模态对话框和菜单的原理	     摘要: Windows的API封装了太多细节， 尽管大部分时候我们只要	IT	IT	IT
+36192	POJ-3270 Cow Sorting	　　题目链接：http://poj.org/problem?id=3270　　把	ACM	ACM	ACM
+36193	ACE网络编程笔记（1）：ACE自适配通	介绍      ACE自适配通信环境（ADAPTIVE Communicatio	IT	IT	IT
+36194	ACE网络编程笔记（1）：ACE自适配通	介绍      ACE自适配通信环境（ADAPTIVE Communicatio	IT	IT	IT
+36195	《重构》摘要	 1. 为何重构？ （1）改进软件设计。 （2）使软件更易被理解。 （3）帮助你	IT	IT	IT
+36196	word03设置分级标题、生成目录	1.设置目录标题 视图-大纲，然后把光标点在标题行上，对标题进行提升，降低，逐个	IT	Other	IT
+36197	linux 前后台进程切换	当你用shell启动一个程序时，往往他是在前台工作的。 例如经常用PUTTY连接	IT	IT	IT
+36198	[原]2013.4.8早会	机会成本 = 能力*时间 如果你在一件事上花的时间越长，你就越可能获得更多的	Other	Other	IT
+36199	[原]ip地址，子网掩码，网关，dns	我们每次在设置ip的时候都会看到这几个名字，他们到底是什么意思呢？有什么作用？	IT	IT	IT
+36200	【转】var_dump() 与 prin	标签： var_dump print_r 杂谈 分类： php学习总结 用pri	ACM	IT	IT
+36201	[原]poj 3468 A Simple	线段树模板题 #include <stdio.h> #def	ACM	ACM	ACM
+36202	Vs 2008 解决方案的目录结构设置和	MS的这个IDE，实在庞杂得恐怖。从大学开始，我就一直用VC的各个版本写程序至今	IT	ACM	IT
+36203	[原]hdu 3065 病毒侵袭持续中	/* hdu 3065 题意很简单 */ #include <iostre	ACM	ACM	ACM
+36204	[转]Spring3.0的Jar包详解	 1. spring.jar 是包含有完整发布模块的单个jar 包。  2.	IT	ACM	IT
+36205	[原]php零散知识笔记	2013-4-8 1、cookie是HTTP表头的一部分，所以在设置cookie	IT	IT	IT
+36206	[原]Drupal零散知识笔记	2013-4-8  1、drupal多步表单的实现原理：根据当前条件（步数）勾选	IT	ACM	IT
+36207	【转】各大OJ题目分类	原地址：http://blog.csdn.net/linleiqin/artic	ACM	ACM	ACM
+36208	[原]linux用互斥量进行同步	#include <stdio.h> #include <un	ACM	IT	IT
+36209	[原]linux用信号量进行同步	信号量一般常用来保护一段代码，使其每次只能被一个执行线程运行。 以下这段程序	ACM	IT	IT
+36210	100个著名初等数学问题[转载]	　　摘自：http://www.cnblogs.com/jackiesteed/	ACM	ACM	ACM
+36211	POJ-1286 Necklace of	　　题目链接：http://poj.org/problem?id=1286　　有	ACM	ACM	ACM
+36212	.hpp与.h的区别（转载）	hpp，其实质就是将.cpp的实现代码混入.h头文件当中，定义与实现都包含在同一	IT	ACM	IT
+36213	[原]关于Android Handler	Handler是Android多线程技术中的一种，Handler机制有点像Win	ACM	IT	IT
+36214	[原]jsp乱码问题的解决	关于jsp乱码问题的解决。  1 最基本的乱码问题。  这个乱码问题是最简单的乱	IT	IT	IT
+36215	[原]Cavy框架	最近在公司实习，有个Cavy框架。很像以前用过的struts2，url->	IT	IT	IT
+36216	[转]在CHtmlView中判断页面加载	 首先想想这个问题如果是在JS里面是如何实现的。  JS里面最简单的方式就是利	IT	IT	IT
+36217	[转]ubuntu12.10：通过锐捷认	参考： 锐捷、赛尔认证MentoHUST 校园网使用锐捷上网 ubuntu12.	IT	IT	IT
+36218	[原]POJ 1870 Bee Bree	题意：这题图看不太清，大意就是给定蜂巢上两点，求他们的最短距离。 题解：首先定然	ACM	ACM	ACM
+36219	[原]POJ 1436 Horizont	题意：给定n条竖直的线段，求有多少个三元组，使得这三条线段两两可见（可见的定义为	ACM	ACM	ACM
+36220	宠物收养所 SBT模板题	宠物收养所Time Limit:10000MS     Memory Limit	ACM	ACM	ACM
+36221	[原]抽象数据类型Triplet的表示和	抽象数据类型Triplet的表示和实现 Common.h #define TR	ACM	IT	ACM
+36222	POJ-1707 Sum of powe	　　题目链接：http://poj.org/problem?id=1707　　利	ACM	ACM	ACM
+36223	[转载]谈“测试驱动的开发”	原文地址：谈“测试驱动的开发”作者：王垠现在的很多公司，包括 Google 和我	IT	Other	IT
+36224	[原]chrome 新浪微博分享插件	  chrome 随时分享所浏览页面到sina weibo 新浪微博上。 代码	IT	ACM	IT
+36225	POJ-1674 Sorting by	　　题目链接：http://poj.org/problem?id=1674　　看	ACM	ACM	ACM
+36242	从一道面试题来阐释一个普遍的认知误区	     摘要: 上午一个师弟在QQ上问我一道笔试题，是他前两天去KON	IT	IT	IT
+36250	SRM 575 DIV2	250pt:题意：给出一个序列，该序列中可能有相同的值，然后交换任意两个数形成不	ACM	ACM	ACM
+36251	C++中结构体的大小与内存对齐	简单例子测试：struct node{ int u; long lo	ACM	IT	IT
+36252	ACE网络编程笔记（2）：IPC SAP	　　socket、TLI、STREAM管道和FIFO为访问局部和全局IPC机制提	IT	IT	IT
+36253	URAL1297：后缀数组、最长回文子串	题目： 1297. Palindrome Time Limit: 1.0 sec	ACM	ACM	ACM
+36254	[原]线性表的顺序表示和实现	线性表的顺序表示和实现 Common.h #define TRUE	 1	ACM	IT	ACM
+36255	poj1554	麻烦的字符串处理//zoj1762//注意题意，是按挑战名单的列，逐列进行从上至	ACM	ACM	ACM
+36256	[原]插入排序	#include <iostream> using namespac	ACM	ACM	ACM
+36257	[原]选择排序	#include <iostream> using namespac	ACM	ACM	ACM
+36258	poj1581	简单模拟//zoj1764#include <iostream>#i	IT	ACM	ACM
+36259	poj2871	简单题#include <iostream>#include <	IT	ACM	ACM
+36260	[原]hdu	2398 Savings	/* hdu	2398 Savings Account - 数学 */ #inc	ACM	ACM	ACM
+36266	移植Linux的外围设备驱动到QNX系统	     摘要: 网络上还没有Linux驱动移植到到QNX的资料，因此我打算自己	IT	IT	IT
+36269	BZOJ 1047: [HAOI2007	好久沒更新過了 T_T，恰好BZOJ到達了100題，寫下這篇水的題解。。。 10	ACM	ACM	ACM
+36270	[原]Surounded Regions	这道题目是将被‘X’字符包围的‘O’改为‘X’。最初的想法是，扫描每行，如果发现	ACM	IT	ACM
+36271	[原]日志	今早的公交相当猛，不到半小时就到公司了。嘿嘿，抢到一瓶鲜奶，哟西。另有更多早餐福	Other	IT	IT
+36272	[原]管道 子进程	cat x | while read f1 do count=0	ACM	IT	IT
+36273	[转]Android 异步加载图片(As	这个例子是利用AsyncTask异步下载图片，下载时先将网络图片下载到本地cac	IT	IT	IT
+36274	SGU 321 : The Spy Ne	问题简述 给一颗n（1<=n<=200000）个顶点的树，其中有些边	ACM	ACM	ACM
+36275	[原]hdu 2577 How to T	/* hdu 2577 How to Type */ #include<i	ACM	ACM	ACM
+36276	[原]hdu 2395 Alarm Cl	/* hdu 2395 Alarm Clock 这题太水了 上下午 与 小时不关	ACM	ACM	ACM
+36277	[转]智能聊天机器人小黄鸡及其制作方法	转自http://www.cnblogs.com/huj690/archive/	IT	ACM	IT
+36281	[转]【html/css】CSS中去掉l	  在CSS中经常会使用到li标签，默认情况下使用li时，会在文字前面自动加上	ACM	IT	IT
+36282	[原]Mysql----浅入浅出之查询	 一、 SELECT 语句的语法如下： SELECT selection_l	ACM	IT	IT
+36283	支离破碎	 “世上是有这种人的：尽管有卓越的天赋才华，却承受不住使之系统化的训练，而终归将	Other	Other	Other
+36284	[转]【html/css】如何设置HTM	 该文讲述如何设定 HTML span 宽度。 缺省情况 HTML span	ACM	IT	IT
+36285	[原]求二进制数中1的个数	#include <iostream> using namespac	ACM	ACM	ACM
+36286	[原]中国象棋将帅问题	#include <iostream> using namespac	ACM	ACM	ACM
+36287	[原]希尔排序	#include <iostream> using namespac	ACM	ACM	IT
+36288	[原]HDU4419 Colourful	题目链接：http://acm.hdu.edu.cn/showproblem.p	ACM	ACM	ACM
+36289	密码保护：我爱你，仅此而已	 这是一篇受密码保护的文章。您需要提供访问密码： 密码：	IT	Other	IT
+36290	HDU-4003 Find Metal	　　题目链接：http://acm.hdu.edu.cn/showproblem	ACM	ACM	ACM
+36291	[原]Palindrome Partit	设dp[i]表示从0到i位置最少需要切割的刀数。则这道题目的状态转移方程为：dp	ACM	ACM	ACM
+36292	复习linux进程和线程	     最近这段时间，主要做linux下的网络编程。但是已不是以前的那种简单的	ACM	IT	IT
+36293	POJ-3070 Fibonacci 矩	　　题目链接：http://poj.org/problem?id=3070　　矩	ACM	ACM	ACM
+36294	Fzu 2119 祖先问题 line-c	题解：这应该是最裸的lct了。 傻逼了两处地方，修改一个点的父亲的时候记得先sp	ACM	ACM	IT
+36295	NJUPT1362 汽车加油行驶问题	好像很久都没有更新一下blog了。先扯一些杂七杂八的。话说一进来200多个垃圾评	ACM	ACM	ACM
+36296	POJ-1699 Best Sequen	　　题目链接：http://poj.org/problem?id=1699　　太	ACM	ACM	ACM
+36297	[原]通过小练习掌握MFC知识点之起步篇	 本次练习会学到的知识点： 1、CListCtrl控件：设置CListCtrl网	ACM	IT	IT
+36298	[原]POJ 1632 Vase col	题意：n个瓶子，每个瓶子有形状颜色两种属性，且这两种属性都有36个类型，告诉你这	ACM	ACM	ACM
+36299	[原]POJ 1687 Buggy Sa	题意：二维平面上一些点组成一个封闭图形，有一些点对之间还有连线，由此形成一些面，	ACM	ACM	ACM
+36300	[原]maven eclipse web	 eclipse maven工程加上参数-Dwtpversion=2.0就能够支	IT	ACM	IT
+36301	[原]UICollectionView	在iOS6的新特性中，UICollectionView是最吸引人的新控件之一。有	ACM	IT	IT
+36302	[原]MFC分割字符串	一切尽在代码中，各位自己看吧。还是非常好懂的。 //分割字符串 void Sp	ACM	ACM	IT
+36303	[原]Sum Root to Leaf	和剑指offer里和为K的相似，这儿使用了霍纳法则来做的，很方便。 /**	ACM	ACM	ACM
+36304	linux下清除^M特殊符号	产生原因：      Windows下的文件直接复制到Linux环境打开的时候，	IT	IT	IT
+36305	[原]Kerberos 工作原理	Kerberos验证过程: 如图，Kerberos认证过程： 1. Cli	IT	IT	IT
+36308	给年轻程序员的建议	偶尔的，我会被人问道：如何成为一名优秀的程序员，更或者，如何成为一名程序员。每次	IT	Other	IT
+36314	POJ 3225 Help with	Help with IntervalsTime Limit: 6000MS Me	ACM	ACM	ACM
+36315	POJ-3974 Palindrome	　　题目链接：http://poj.org/problem?id=3974　　M	ACM	ACM	ACM
+36316	HUD-4513 吉哥系列故事——完美队	　　题目链接：http://acm.hdu.edu.cn/showproblem	ACM	ACM	ACM
+36317	HDU-3068 最长回文 Manach	　　题目链接：http://acm.hdu.edu.cn/showproblem	ACM	ACM	ACM
+36318	Manacher算法--O（n）回文子串	　　转送门：http://blog.csdn.net/ggggiqnypgjg/	ACM	ACM	ACM
+36319	shellcode之简单的栈溢出实验	　　最近看了0day和The shellcoder's handbook,对栈溢	ACM	IT	IT
+36320	[原]通过小练习掌握MFC知识点之起步篇	考核文件和数据结构的运用。 1：创建以下文本文件。直接复制到一个txt文档中即可	IT	Other	IT
+36321	[原]ubuntu12.10更新包后的问	最近在更新ubuntu12.10包后，经常出现网络服务异常，或者UI进程崩溃等。	IT	IT	IT
+36322	[原]HDOJ 1540 Tunnel	还是线段树，不过有点复杂，虐了我两天，WA了无数次，呵呵。 #include &	ACM	ACM	ACM
+36323	[原]Longest Consecuti	最初的想法是使用一个数组dp[1000]记录每个数字是否出现过，然后从小到大遍历	ACM	IT	ACM
+36324	C/C++输入输出八进制，十六进制的方式	 int a = 2; printf("%d\n",s	ACM	ACM	IT
+36325	POJ 1177 Picture （	PictureTime Limit: 2000MS Memory Limit: 	ACM	ACM	ACM
+36326	一路风雨走过来：那些我亲密接触过的项目	一时间，又不知道说什么了。 贴几张这一路走来，和我有关的项目截图吧。  时间是由	Other	ACM	IT
+36327	irrlicht引擎：为什么我会想着捣鼓	其实我也在问自己，为什么整来整去，又捣鼓起这个东西了。 首先，irrlicht的	IT	IT	Other
+36328	irrlicht引擎:Bloom效果	先上图，再说点别的。   BLOOM开   BLOOM关   在IRR	ACM	IT	IT
+36350	Codeforces Round #17	Problem E. Shaass the Great Brief descri	ACM	ACM	ACM
+36351	CentOS 6.4 安装配置 LAMP	准备篇： 1、配置防火墙，开启 80 端口、3306 端口 vi /etc/s	IT	IT	IT
+36352	[原]原地归并排序	 原地归并排序所利用的核心思想便是“反转内存”的变体，即“交换两段相邻内存块”，	ACM	IT	IT
+36353	[原]交换	#include <iostream> using namespac	IT	ACM	ACM
+36354	[原]MFC文件类CStdioFile读	CStdioFile类是从MFC文件类CFile中继生而来的，可以一行一行地读写	IT	IT	IT
+36355	[原]USACO Camelot 解题报	这道题也是看网上的解题报告得出的解法。。。 首先，knight接king的点不需	ACM	ACM	ACM
+36356	[原]关于Serializable的se	在实现了Serializable接口的class中，需要声明一个long ser	IT	IT	IT
+36357	[原]Mysql----浅入浅出之JDB	JDBC连接数据库的步骤： 一、在开发环境中加载驱动： 我用的是Mysql，所以	IT	IT	IT
+36358	[原]HDOJ 4529 - N骑士问题	     剪了我N久的枝...终于涉险飘过了...2958ms.....    	ACM	ACM	ACM
+36359	HDU 3642 Get The Tr	Get The TreasuryTime Limit: 10000/5000 M	ACM	ACM	ACM
+36360	[转]由Spring管理的Struts2	 今天在修改一个遗留项目的时候，登录页面上的用户名和fielderror等信息在	ACM	IT	IT
+36361	[原]LA 3211 Now or la	训练指南 P325 例题 2-SAT问题+二分。 题目的数据范围小，所以用朴素的	ACM	IT	ACM
+36362	[原]UVa 11235 Frequen	训练指南 P198 例题 在一个非降序数组中寻找区间内出现次数最多的值的出现次数	ACM	ACM	ACM
+36363	[原]LA 3027 Corporati	并查集的应用。 在压缩路径的时候维护一个dist数组，保存其到祖先的长度。 #i	ACM	ACM	ACM
+36364	[原]LA 4329 Ping pong	训练指南 P197 例题     扫描一下所有的i，计算出从1到i-1有多少个数	ACM	ACM	ACM
+36365	[原]LA 3942 Remember	训练指南 P209 例题 用trie树使得每次寻找递推的下一步。 #includ	ACM	ACM	ACM
+36366	ICE 连接 参数 说明	     摘要: ICE 连接 参数 说明  阅读全文arrow8209 201	ACM	ACM	IT
+36374	[长姿势了]android:paddin	 android:layout_marginLeft指该控件距离边父控件的边距，	ACM	IT	IT
+36375	vim代码收起/展开和命令	装上插件后，在vim编辑器里面编写如下代码：(test.c) //functio	IT	IT	IT
+36376	[原]VS2010为新添加的对话框添加O	有时候需要为新添加的对话框添加OnInitDialog()方法为对话框执行一些初	IT	IT	IT
+36377	BZOJ 1055: [HAOI2008	題目：1055: [HAOI2008]玩具取名Time Limit: 10 Se	ACM	ACM	ACM
+36378	[原]HDOJ - 4559 排兵布阵	     由于一个炮能影响的范围最多到下两行...所以两行两行来DP..而两行的	ACM	ACM	ACM
+36379	明天的下载链接	http://dl.newhua.com/down/qt-creator-win	IT	ACM	IT
+36380	BZOJ 1050 1050 [HAOI	1050: [HAOI2006]旅行comfTime Limit: 10 Sec	ACM	ACM	ACM
+36381	[原]hdu 3265 Posters	/* hdu 3265 Posters 线段树+扫描线 用一些中间有矩形洞的矩形	ACM	ACM	ACM
+36382	[原]三向切分快排	#include <iostream> using namespac	ACM	ACM	ACM
+36383	[原]快排算法	#include <iostream> using namespac	ACM	ACM	ACM
+36384	Codeforces Round #17	A:直接模拟左边上去多少右边下来多少就行。B:题意：每本书都有一个厚度ti，宽度	ACM	ACM	ACM
+36385	[原]效率和羞耻应该是程序员的特性	我始终坚持认为一个好的ACMer必然是一个好的程序员，与大多数人对ACMer持有	IT	ACM	IT
+36386	Gentoo udev upgrade	最后在gentoo news列表中，看到一封udev升级到200的主题 [8] 	IT	IT	IT
+36387	[原]Palindrome Partit	回溯来做 class Solution { public: int dp	IT	ACM	ACM
+36388	[原]Merge Sorted Arra	直接用插入排序做就行了，题目中说有序，但没有说明是递增还是递减，我是按照递增做的	ACM	IT	ACM
+36389	poj 2236 Wireless Ne	题目链接：http://poj.org/problem?id=2236 题意：二	ACM	ACM	ACM
+36390	poj 2240 Arbitrage	题目链接：http://poj.org/problem?id=2240 题意：给	ACM	ACM	ACM
+36391	[原]LightOj 1111 - Be	/** * Author: johnsondu * time: 2013	IT	ACM	ACM
+36396	Seed Engine中的输入系统（一）	今天看了叛大的 KlayGE中输入系统的改进系列文章，觉得可以谈谈Seed En	ACM	IT	IT
+36400	Codeforces Round #17	Problem A. Greg and Array Brief descript	ACM	ACM	ACM
+36401	[原]Codeforces Round	 C. Greg and Array time limit	ACM	ACM	ACM
+36402	[原]网络基础笔记	安全： 对称密钥加密： 加密者和解密者使用相同的密钥，例如IDEA，DES 存在	IT	IT	IT
+36403	[原]二叉查找数	#include <iostream> using namespac	ACM	ACM	IT
+36404	[原]POJ - 1185 跑兵阵地	    第一道状态压缩DP...很简单了...一行最多10个...用1代表放炮兵	ACM	IT	ACM
+36405	[原]hdu 2578 Dating w	/* hdu 2578 Dating with girls(1) 排序+二分查找	ACM	IT	ACM
+36406	[转]MFC实现程序开机自启动	 很多监控软件要求软件能够在系统重新启动后不用用户去点击图标启动项目，而是直接能	IT	IT	IT
+36407	[原]horner法则求字符串散列值	#include "iostream" #include &	ACM	ACM	IT
+36408	MVC框架学习	MVC: 模型(model)--视图(view)--控制器(controller	IT	Other	IT
+36409	HDU 1074 Doing Home	Doing HomeworkTime Limit: 2000/1000 MS (	ACM	ACM	ACM
+36410	[原]USACO A Game 解题报告	脑子真不行了。。。 明显是个动态规划，表达式都写出来了，仍然在想如何用动态规划而	ACM	ACM	ACM
+36411	[原]USACO Home on the	只想到了暴力的方法，时间复杂度是O(n^3)，最后一个测试点过不去。 网上看到了	ACM	ACM	ACM
+36412	[原]HDOJ 4529 - N骑士问题	     状态压缩DP果然比自己摸索出来的DP效率高多了...406ms..轻松	ACM	ACM	ACM
+36413	[转]关于java的编译与执行	起因是网络实验要实现客户端与服务器的套接字的东东，没有两个网，就只能在一个机子上	IT	IT	IT
+36414	ACE前摄器Proactor最好的讲解（	转自：http://blog.csdn.net/caisini_vc/artic	IT	IT	IT
+36415	[原]c# 连连看	 连连看下载 作者：	IT	IT	IT
+36416	[原]Valid Palindrome	这道题目挺简单的 class Solution { public: bo	ACM	IT	ACM
+36417	[原]Word Ladder	一开始的做法是构造一个map记录每个单词是否访问过，然后从第一个单词进行广搜，如	ACM	ACM	ACM
+36418	[原]湖南工业大学个人选拔赛第一场 解题	 欢迎关注我的微博：http://weibo.com/u/1659093193	ACM	ACM	ACM
+36419	POJ-2891 Strange Way	　　题目链接：http://poj.org/problem?id=2891　　题	ACM	ACM	ACM
+36420	模线性方程组	　　模方程组：x=a1(Mod m1)                   x=	ACM	ACM	ACM
+36421	[原]设计模式零散知识笔记	2013-4-12 1、针对接口编程而不是针对实现编程。利用面向对象的特性，鼓励	IT	Other	IT
+36422	[原]数据挖掘所需的微积分的一些基本概念	最近看了《数学之美》和一些数据挖掘算法，似懂非懂的，特别是在数学方面，基本都忘光	ACM	IT	IT
+36423	[原]hdu Dating with g	/* hdu Dating with girls(2) bfs加点东西 水题	ACM	ACM	ACM
+36424	[原]百度笔试题合并a[0..mid]和	我的想法是使用两个指针i和j分别指向两段数组的开头，如果a[i]<a[j]	ACM	IT	ACM
+36434	做一个有理想的程序员	  一个程序员要取得非凡成就，需要记住的15件事。 1、走一条不一样的路    	IT	ACM	IT
+36441	[原]hdu 2576 Another	/* hdu 2576 Another Sum Problem 1^2+2^2+	ACM	ACM	ACM
+36442	[原]Two Sum	没有重复元素的情况下，用map做的 class Solution { publi	ACM	ACM	ACM
+36443	【转载】出租司机给我上的MBA课（转载）	我用有道阅读看到这篇好文，希望和大家分享。我的看法是：以下原文转载自韶光易逝，岁	Other	Other	Other
+36444	Visual Studio 2010 中	在以往控制台程序里，可以在程序中插入printf来显示程序运行状态信息，但是，在	IT	IT	IT
+36445	[原]深度搜索	在http://www.cnblogs.com/yanlingyin/archi	ACM	IT	IT
+36452	erlang和RabbitMQ学习总结	 AMQP和RabbitMQ概述 AMQP(Advanced Message	IT	ACM	IT
+36454	逃离天朝计划	有一颗搞技术的心，但是生在天朝，要么放弃技术，要么离开天朝，没有其它出路。 所以	ACM	ACM	Other
+36455	Single Round Match 5	250 ArcadeManao 一开始在最下面，要吃到金币，问梯子的最短高度。	ACM	ACM	ACM
+36456	[原]K-D树 C++实现	       K-D树主要是为了实现机器学习算法中的K近邻算法，单纯的K-D树只	ACM	ACM	ACM
+36457	perl module ExtUtils	+ perl version: v5.10.1 (*) built for x8	IT	IT	IT
+36458	安装mysql	http://dev.mysql.com/downloads/mysql/#do	ACM	ACM	IT
+36459	subclipse	http://www.polarion.com/products/svn/sub	IT	ACM	IT
+36460	[原]浙大2013年机试题解（pat 1	 1054 The dominant Color 没什么好说的，map之～	ACM	ACM	ACM
+36461	可配置语法分析器开发纪事（六）——构造一	上一篇文章对大部分文法都构造出了一个使用的状态机了，这次主要来讲右递归的情况。右	ACM	IT	IT
