@@ -6,6 +6,7 @@
 * source data is inclusive under the data directory 
 * img contains the decision tree training result with different datasets
 * Fonts file is to solve the gibberish problem when PIL displays Chinese
+* Appendix is the datasets of 100's decision tree without pruning
 
 ___
 
