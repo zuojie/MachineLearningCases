@@ -1,25 +1,22 @@
-#####Decision Tree can help us predict someting like price, user action and tomorrow's weather etc, if you give it enough information. Actually, with enough information, it can almost predict anything,  pretty a cool thing, aha. Here comes the relevant case: predict Beijing's house rental by means of decision tree algorithm.
+#####This case includes more than one algorithm to build price model for iphone5
 
-* decisiontree.py is the decision tree algorithm lib, including function to visualitions of the decision tree  
-* get_ganji_dat.py is the crawler to get the house rent information of bj.ganji.com and cleaning the data
-* ganji_house_rent_price_predict.py is responsible for preprocessing the data and invoking decision tree algorithm and drawing dendrogram.
+* get_ganji.py is the crawler to get the iphone5 price information of bj.ganji.com. It cleaning the data too
+* iphone5_price_model.py is responsible for preprocessing the data and invoking decision tree algorithm and drawing dendrogram.
+* numpredict.py is the algorithm lib
+* optimization.py is the optimization algorithm occured before the time, but we modify it to suit for this case
 * source data is inclusive under the data directory 
-* img contains the decision tree training result with different datasets
-* Fonts file is to solve the gibberish problem when PIL displays Chinese
-* Appendix is the datasets of 100's decision tree without pruning
 
 ___
 
-#####如果我们提供足够丰富的信息，决策树算法可以帮助我们预测商品价格，用户行为，甚至明日天气等。事实上，在获得足够相关信息之后，决策树算法可以对任何事情做出基于概率的预测。是一个很酷的算法！
+#####本案例综合了多重算法来构建商品的价格模型
 
-* decisiontree.py 是决策树算法库，还包括绘制决策树的功能函数
-* get_ganji_dat.py负责爬取赶集网北京站租房相关的数据，并进行预清洗
-* ganji_house_rent_price_predict.py负责预处理数据，并调用决策书算法进行训练生成决策树，然后调用绘制出图的函数
+* get_ganji.py负责从赶集网抓取二手iphone5的售价信息并对获取到的数据进行清洗
+* iphone5_price_model.py读入源数据，调用相关算法对测试数据进行预测，绘制价格分布图
+* numpredict.py包含相关算法和绘图函数
+* optimization.py是之前案例出现过的优化算法库，但是为了适应本案例的问题进行了一些修改
 * 源数据均在data目录下
-* img目录包含了不同数据集规模下生成的相应的决策树，包括剪枝的和未剪枝的
-* 字体文件是为了解决PIL显示中文的乱码问题
 
 ___
 
-#####Appendix
-![100](http://zuojie.github.io/demo/dt/desicion_tree_100.jpg)
+#####Blog
+[http://zuojie.github.io/2013/10/11/机器学习实践%3A土豪们的最爱-为二手iphone5构建价格模型.html](http://zuojie.github.io/demo/dt/desicion_tree_100.jpg)
