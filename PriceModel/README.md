@@ -18,5 +18,4 @@ ___
 
 ___
 
-#####Blog
-[http://zuojie.github.io/2013/10/11/机器学习实践%3A土豪们的最爱-为二手iphone5构建价格模型.html](http://zuojie.github.io/demo/dt/desicion_tree_100.jpg)
+#####[Blog](http://zuojie.github.io/2013/10/11/机器学习实践%3A土豪们的最爱-为二手iphone5构建价格模型.html)
